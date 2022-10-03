@@ -1,0 +1,259 @@
+REFERENCES | 79
+References
+
+ I. 42010:2011(E), “Iso/iec/ieee systems and software engineering –
+architecture description,” ISO/IEC/IEEE 42010:2011(E) (Revision of
+ISO/IEC 42010:2007 and IEEE Std 1471-2000) , pp. 1–46, 2011.
+
+ P. Andersen, A. Carugati, L. Mola, A. Carugati, A. Kokkinaki, and
+N.Pouloudi,“Enterprisearchitectureevaluation: asystematicliterature
+review.” in MCIS, 2014, p. 41.
+
+ K. H. C. Ramos, G. D. A. Souza, and A. F. Rosa, “Literature review
+studies in public sector’s enterprise architecture.” in ICEIS (2) , 2019,
+pp. 642–649.
+
+ B. D. Rouhani, M. N. Mahrin, F. Nikpay, R. B. Ahmad, and
+P. Nikfard, “A systematic literature review on enterprise architecture
+implementation methodologies,” information and Software
+Technology , vol. 62, pp. 1–20, 2015.
+
+ J. Lapalme, A. Gerber, A. Van der Merwe, J. Zachman, M. De Vries,
+and K. Hinkelmann, “Exploring the future of enterprise architecture:
+A zachman perspective,” Computers in Industry , vol. 79, pp. 103–113,
+2016.
+
+ P. Saint-Louis, M. C. Morency, and J. Lapalme, “Deﬁning enterprise
+architecture: A systematic literature review,” in 2017 IEEE 21stREFERENCES | 81
+international enterprise distributed object computing workshop
+(EDOCW) . IEEE, 2017, pp. 41–49.
+
+ S. Katsikeas, P. Johnson, M. Ekstedt, and R. Lagerström, “Research
+communities in cyber security: A comprehensive literature review,”
+2021.
+
+ M. Hammer, J. Champy, and D. Davenport, “Dispersion and
+interconnection: Approaches to distributed systems architecture,”
+Partnership for Research in Information Systems Management
+(PRISM), 1986.
+
+ T.O.G.A.Forum,“TheTOGAF ®standard,”TheOpenGroup,pp.3–
+9, 2018. [Online]. Available: https://publications.opengroup.org/i182
+
+ A.KarataşandS.Şahin,“Applicationareasofcommunitydetection: A
+review,”in 2018Internationalcongressonbigdata,deeplearningand
+ﬁghting cyber terrorism (IBIGDELFT) . Ieee, 2018, pp. 65–70.
+
+ J. M. Pujol, V. Erramilli, and P. Rodriguez, “Divide and conquer:
+Partitioning online social networks,” 2009.REFERENCES | 83
+
+ K. Langenberg and A. Wegmann, “Enterprise architecture: What
+aspects is current research targeting,” Infoscience , 2004.
+
+ M. Lankhorst et al.,Enterprise architecture at work: Modelling,
+communication, and analysis , ser. Enterprise Architecture at Work:
+Modelling, Communication, and Analysis. Springer-Verlag Berlin
+Heidelberg, 2005, pp. 1–334.
+
+ J. W. Ross, P. Weill, and D. Robertson, Enterprise architecture as
+strategy: Creating a foundation for business execution . Harvard
+business press, 2006.
+
+ A. R. Hevner, S. T. March, J. Park, and S. Ram, “Design science in
+information systems research,” MIS quarterly , pp. 75–105, 2004.
+
+ D.Minoli, EnterprisearchitectureAtoZ:frameworks,businessprocess
+modeling, SOA, and infrastructure technology . CRC press, 2008.
+
+ J. L. G. Dietz, Enterprise ontology: Theory and methodology , ser.
+Enterprise Ontology: Theory and Methodology. Springer-Verlag
+Berlin Heidelberg, 2006.
+
+ J.L.DietzandH.B.Mulder,“Introductiontoenterpriseengineering,”
+inEnterprise Ontology . Springer, 2020, pp. 9–12.
+
+ J. L. Dietz, What is Enterprise Ontology? Springer, 2006.
+
+ R. Rijo, R. Martinho, and D. Ermida, “Developing an enterprise
+architecture proof of concept in a portuguese hospital,” Procedia
+Computer Science , vol. 64, pp. 1217–1225, 2015.
+
+ D. L. Olson and S. Kesharwani, Enterprise information systems:
+contemporary trends and issues . World Scientiﬁc, 2009.
+
+ D. Romero and F. Vernadat, “Enterprise information systems state of
+theart: Past,presentandfuturetrends,” ComputersinIndustry ,vol.79,
+pp. 3–13, 2016.
+
+ P. Bernus, T. Goranson, J. Gøtze, A. Jensen-Waud, H. Kandjani,
+A. Molina, O. Noran, R. J. Rabelo, D. Romero, P. Saha et al.,86 | REFERENCES
+“Enterprise engineering and management at the crossroads,”
+Computers in Industry , vol. 79, pp. 87–102, 2016.
+
+ J. Mentz, P. Kotzé, and A. van der Merwe, “A comparison of
+practitioner and researcher deﬁnitions of enterprise architecture using
+aninterpretationmethod,” AdvancesinEnterpriseInformationSystems
+II, pp. 11–26, 2012.
+
+ A. Cabrera, M. Abad, D. Jaramillo, J. Gómez, and J. C. Verdum,
+“Deﬁnitionandimplementationoftheenterprisebusinesslayerthrough
+abusinessreferencemodel,usingthearchitecturedevelopmentmethod
+adm-togaf,” in Trends and Applications in Software Engineering .
+Springer, 2016, pp. 111–121.
+
+ I. C. on Systems Engineering (INCOSE). (2007) Systems engineering
+vision 2020. [Acccessed: 12 March 2021]. [Online]. Available: http:
+//www.ccose.org/media/upload/SEVision2020_20071003_v2_03.pdf
+
+ A. Albani, D. Raber, and R. Winter, “A conceptual framework
+for analysing enterprise engineering methodologies,” Enterprise
+Modelling and Information Systems Architectures (EMISAJ) , vol. 11,
+pp. 1–1, 2016.
+
+ A. Nakakawa et al., “Challenges of involving stakeholders when
+creating enterprise architecture,” Physical Review D - PHYS REV D ,
+2010.
+
+ ——, “Requirements for collaborative decision making in enterprise
+architecture,” Physical Review B - PHYS REV B , 2009.
+
+ N.MayerandC.Feltus,“Evaluationoftheriskandsecurityoverlayof
+archimate to model information system security risks,” in 2017 IEEE
+21stInternationalEnterpriseDistributedObjectComputingWorkshop
+(EDOCW) . IEEE, 2017, pp. 106–116.
+
+ G. Plataniotis, S. de Kinderen, and H. A. Proper, “Ea anamnesis:
+towards an approach for enterprise architecture rationalization,” in
+Proceedingsofthe2012workshoponDomain-speciﬁcmodeling ,2012,
+pp. 27–32.
+
+ K. D. Niemann, From enterprise architecture to IT governance .
+Springer, 2006, vol. 1.
+
+ D. Kudryavtsev, E. Zaramenskikh, and M. Arzumanyan, “The
+simpliﬁed enterprise architecture management methodology for
+teaching purposes,” in Workshop on Enterprise and Organizational
+Modeling and Simulation . Springer, 2018, pp. 76–90.REFERENCES | 93
+
+ S. Buckl, F. Matthes, and C. M. Schweda, “Classifying enterprise
+architecture analysis approaches,” in IFIP-International Workshop on
+Enterprise Interoperability . Springer, 2009, pp. 66–79.
+
+ M. Hauder, F. Matthes, and S. Roth, “Challenges for automated
+enterprise architecture documentation,” Trends in Enterprise
+Architecture Research and Practice-Driven Research on Enterprise
+Transformation , pp. 21–39, 2012.
+
+ C. Lucke, S. Krell, and U. Lechner, “Critical issues in enterprise
+architecting–a literature review,” in AMCIS 2010 PROCEEDINGS ,
+2010.
+
+ A. Abdullah and A. Zainab, “The digital library as an enterprise: the
+zachman approach,” The Electronic Library , 2008.REFERENCES | 95
+
+ A. Schuetz, T. Widjaja, and J. Kaiser, “Complexity in enterprise
+architectures-conceptualization and introduction of a measure from
+a system theoretic perspective,” in ECIS 2013 COMPLETED
+RESEARCH , 2013.
+
+ T. Widjaja, J. Kaiser, D. Tepel, and P. Buxmann, “Heterogeneity in
+it landscapes and monopoly power of ﬁrms: A model to quantify
+heterogeneity,” in ICIS, 2012.
+
+ E. Robertson, G. Peko, and D. Sundaram, “Enterprise architecture
+maturity: Acruciallinkinbusinessanditalignment.”in PACIS,2018,
+p. 308.
+
+ B. Cameron, N. Malik et al., “A common perspective on enterprise
+architecture,” The Federation of Enterprise Architecture Professional
+Organizations (FEAPO) , pp. 1–12, 2013.
+
+ M. Henkel, E. Perjons, and E. Sneiders, “Business and it architecture
+for the public sector: Problems, it systems alternatives and
+selectionguidelines,”in InformationTechnologyGovernanceinPublic
+Organizations . Springer, 2017, pp. 157–175.
+
+ A. Zimmermann, R. Schmidt, K. Sandkuhl, M. Wißotzki, D. Jugel,
+and M. Möhring, “Digital enterprise architecture-transformation for
+the internet of things,” in 2015 IEEE 19th International Enterprise
+Distributed Object Computing Workshop . IEEE, 2015, pp. 130–138.
+
+ A. Zimmermann, R. Schmidt, K. Sandkuhl, D. Jugel, J. Bogner,
+and M. Möhring, “Evolution of enterprise architecture for digital
+transformation,” in 2018 IEEE 22nd International Enterprise
+Distributed Object Computing Workshop (EDOCW) . IEEE, 2018,
+pp. 87–96.
+
+ A. Alwadain, E. Fielt, A. Korthaus, and M. Rosemann, “Empirical
+insights into the development of a service-oriented enterprise
+architecture,” Data & Knowledge Engineering , vol. 105, pp. 39–52,
+2016.
+
+ T. O. Group. Service-oriented architecture – what is soa? [Acccessed:
+06 March 2021]. [Online]. Available: http://www.opengroup.org/soa/
+source-book/soa/p1.htm#soa_deﬁnition
+
+ R.Knippel,“Serviceorientedenterprisearchitecture,” ITUniversityof
+Copenhagen , 2005.
+
+ E.Yu,S.Deng,andD.Sasmal,“Enterprisearchitecturefortheadaptive
+enterprise–a vision paper,” Trends in Enterprise Architecture ResearchREFERENCES | 101
+andPractice-DrivenResearchonEnterpriseTransformation ,pp.146–
+161, 2012.
+
+ A. Wegmann, P. Balabko, L.-S. Lê, G. Regev, and I. Rychkova, “A
+method and tool for business-it alignment in enterprise architecture.”
+inCAiSE Short Paper Proceedings , vol. 2005, 2005.
+
+ J.KingstonandA.Macintosh,“Knowledgemanagementthroughmulti-
+perspective modelling: representing and distributing organizational
+memory,” in Research and Development in Intelligent Systems XVI .
+Springer, 2000, pp. 221–239.
+
+ V. Anaya and A. Ortiz, “How enterprise architectures can support
+integration,” in Proceedings of the ﬁrst international workshop on
+Interoperability of heterogeneous information systems , 2005, pp. 25–
+30.
+
+ F. G. Goethals, J. Vandenbulcke, W. Lemahieu, M. Snoeck,
+M. De Backer, and R. Haesen, “Communication and enterprise
+architectureinextendedenterpriseintegration.”in ICEIS(3) ,2004,pp.
+332–337.
+
+ V. Chiprianov, “Collaborative construction of telecommunications
+services. an enterprise architecture and model driven engineering
+method,” Ph.D. dissertation, Télécom Bretagne, Université de
+Bretagne-Sud, 2012.
+
+ V. Chiprianov, I. Alloush, Y. Kermarrec, S. Rouvrais et al.,
+“Telecommunications service creation: Towards extensions for
+enterprise architecture modeling languages.” in ICSOFT (1) , 2011, pp.
+23–28.
+
+ P. Desfray and G. Raymond, Modeling enterprise architecture with
+TOGAF: A practical guide using UML and BPMN . Morgan
+Kaufmann, 2014.
+
+ L. Yang, N. Elisa, and N. Eliot, “Privacy and security aspects of e-
+government in smart cities,” in Smart cities cybersecurity and privacy .
+Elsevier, 2019, pp. 89–102.
+
+ A. Q. Gill, “Agile enterprise architecture modelling: Evaluating the
+applicability and integration of six modelling standards,” Information
+and Software Technology , vol. 67, pp. 196–206, 2015.
+
+ K. Hinkelmann, A. Gerber, D. Karagiannis, B. Thoenssen, A. Van der
+Merwe,andR.Woitsch,“Anewparadigmforthecontinuousalignment
+of business and it: Combining enterprise architecture modelling and
+enterprise ontology,” Computers in Industry , vol. 79, pp. 77–86, 2016.
+
+ R. Villarreal, “Enterprise architecture of sustainable development:
+an analytical framework,” in A Systemic Perspective to Managing
+ComplexitywithEnterpriseArchitecture . IGIGlobal,2014,pp.256–
+300.
+
+ H. Suri, “Ethical considerations of conducting systematic reviews in
+educationalresearch,” SystematicReviewsinEducationalResearch ,pp.
+41–54, 2020.Appendix A: Geographical Diagrams | 107
+Appendix A
+Geographical Diagrams

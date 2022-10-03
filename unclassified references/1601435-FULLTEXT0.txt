@@ -1,0 +1,177 @@
+12  References
+
+ K. L. Lueth. “The State of IoT 2020: 12 Billion IoTConnections, Surpassing Non-IoT.”
+IoT Analytics. Nov. 19, 2020.
+https://iot-analytics.com/state-of-the-iot-2020-12-billion-iot-connections-surpassing-non-
+iot-for-the-first-time/(accessed: Apr. 27, 2021).
+
+ “How Can Drones Be Hacked? The updated list of vulnerabledrones & attack tools | by
+Sander Walters | Medium” Medium. Aug. 19, 2019.
+https://medium.com/@swalters/how-can-drones-be-hacked-the-updated-list-of-vulnerable
+-drones-attack-tools-dd2e006d6809(accessed: May 18,2021).
+
+ “The compact and resistant drone with a 4K HDR camera- Parrot ANAFI.” Parrot Drone
+SAS. 2020.https://www.parrot.com/us/drones/anafi(accessed: May 23, 2021).
+
+ Goodrich, Michael, & Tamassia, Roberto. (2013). Introductionto Computer Security
+(Pearson custom library). Harlow: Pearson EducationUK.
+
+ E. Dahlman and K. Lagrelius, “A Game of Drones : CyberSecurity in UAVs,” 2019.
+
+ “How Can Drones Be Hacked? The updated list of vulnerabledrones & attack tools.”
+https://medium.com/@swalters/how-can-drones-be-hacked-the-updated-list-ofvulnerable-
+drones-attack-tools-dd2e006d6809(accessed: May 23,2021).
+
+ A. Guzman and A. Gupta,IoT Penetration Testing Cookbook.Packt Publishing Ltd,
+2017.
+42
+ “NSE Lab: Home.” Division of Network and Systems Engineering | KTH.
+https://nse.digital/(accessed: May 23, 2021).
+
+ R. Lukawiecki. “Threat Modeling for Secure Web ApplicationDevelopment.”
+SlideToDoc. 2003.
+https://slidetodoc.com/threat-modeling-for-secure-web-application-development-rafal/
+(accessed: May 21, 2021).
+
+ “Thesis Report - NSE Lab.” Division of Network andSystems Engineering | KTH.
+https://nse.digital/pages/thesis_guidelines/thesis_report.html(accessed: May 23, 2021).
+
+ “Aircrack-ng.org.” Aircrack-ng. 2021.https://www.aircrack-ng.org/(accessed: May 23,
+2021).
+
+ “LOIC download | SourceForge.net.” SourceForge - SlashdotMedia. Aug. 17, 2020.
+https://sourceforge.net/projects/loic/(accessed:May 23, 2021).
+
+ “What is the low orbit ion cannon (LOIC)? | Cloudflare.”Cloudflare, Inc. 2021.
+https://www.cloudflare.com/learning/ddos/ddos-attack-tools/low-orbit-ion-cannon-loic/
+(accessed: May 23, 2021).
+
+ “Tool 76: Synflood.” Syracuse University.
+https://web.ecs.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/tools/76.html
+(accessed: May 23, 2021).
+
+ S. Sanfilippo. “Hping - Active Network Security Tool.”hping. 2006.
+http://www.hping.org/(accessed: May 23, 2021).
+
+ I. Muscat. “Mitigate Slow HTTP GET/POST Vulnerabilitiesin the Apache HTTP Server
+| Acunetix.” Acunetix - Invicti. Jun. 06, 2019.
+https://www.acunetix.com/blog/articles/slow-http-dos-attacks-mitigate-apache-http-server
+/(accessed: May 23, 2021).
+
+ “What Is a Distributed Denial of Service (DDoS) Attack?| NETSCOUT.” NETSCOUT.
+https://www.netscout.com/what-is-ddos(accessed: May24, 2021).
+
+ W. M. Eddy, “SYN Cookie Defense,” inEncyclopediaof Cryptography and Security,
+Springer US, 2011, pp. 1271-1273.
+
+ “What is a SYN flood attack and how to prevent it?| NETSCOUT.” NETSCOUT.
+https://www.netscout.com/what-is-ddos/syn-flood-attacks(accessed: May 24, 2021).
+
+ “What Is the Internet of Things (IoT)? - Oracle.”Oracle.
+https://www.oracle.com/internet-of-things/what-is-iot/(accessed: May 26, 2021).
+
+ J. Clark. “What is the Internet of Things (IoT)?”IBM Business Operations Blog. Nov. 17,
+2016.https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/(accessed: May 26,
+2021).
+
+ S. Weisman. “What Is a DDoS Attack? Distributed Denial-of-ServiceAttack Explained |
+Norton” NortonLifeLock Inc. Jul. 26, 2020.
+https://us.norton.com/internetsecurity-emerging-threats-what-is-a-ddos-attack-30sectech-
+by-norton.html(accessed: May 26, 2021).
+
+ “What Is a distributed denial-of-service (DDoS) attack?| Cloudflare” Cloudflare, Inc.
+2021.https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/(accessed: May
+26, 2021).
+43
+ D. Balaban. “The History and Evolution of DDoS Attacks - Experfy Insights” Experfy
+Inc. May. 11, 2021.
+https://resources.experfy.com/bigdata-cloud/history-evolution-of-ddos-attacks/(accessed:
+May 26, 2021).
+
+ S. Kamkar. “SkyJack: autonomous drone hacking - SamyKamkar.” SkyJack. Dec. 13,
+2013.http://www.samy.pl/skyjack/(accessed: May 27,2021).
+
+ W. Hennigan. “Experts Say Drones Pose a National SecurityThreat — and We ..” TIME.
+May 31, 2018.https://time.com/5295586/drones-threat/(accessed: May 27, 2021).
+
+ F. Lambert. “Tesla car hacked using drone; a patchhas already been released ..” Electrek.
+May 13, 2021.https://electrek.co/2021/05/13/tesla-car-hacked-using-drone-patch/
+(accessed: May 27, 2021).
+
+ “What Is The Difference Between White Hat, Grey Hat,and Black Hat ..” SEWORKS.
+Sep. 27, 2017.
+https://blog.se.works/what-is-the-difference-between-white-hat-grey-hat-and-black-hat-h
+ackers/(accessed: May 28, 2021).
+
+ “Responsible disclosure - NSE Lab.” Division of Networkand Systems Engineering |
+KTH.https://nse.digital/pages/thesis_guidelines/responsible_disclosure.html(accessed:
+May 28, 2021).
+44Appendix A
+Rating High (3) Medium (2) Low (1)
+DDamage
+potentialCan subvert all
+security controls
+and get full trust
+to take over the
+whole IoT
+ecosystem.Could leak
+sensitive
+information.Could leak
+sensitive
+information.
+RReproducibility The attack is
+always
+reproducible.The attack can
+be reproduced
+only within a
+timed window or
+specific
+condition.It's very dif ficult
+to reproduce the
+attack, even with
+specific
+information
+about the
+vulnerability .
+EExploitability A novice
+attacker could
+execute the
+exploit.A skilled
+attacker could
+make the attack
+repeatedly .Allows a skilled
+attacker with
+in-depth
+knowledge to
+perform the
+attack.
+AAffected users All users, default
+configurations,
+all devices.Affects some
+users, some
+devices, and
+custom
+configurations.Affects a small
+percentage of
+users and/or
+devices through
+an obscure
+feature.
+DDiscoverability Attack
+explanation can
+be easily found
+in a publication.Affects a
+seldom-used
+feature where an
+attacker would
+need to be very
+creative to
+discover a
+malicious use for
+it.Is obscure and
+unlikely an
+attacker would
+discover a way
+to exploit the
+bug.
+45

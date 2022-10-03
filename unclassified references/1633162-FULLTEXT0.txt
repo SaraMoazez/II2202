@@ -1,0 +1,47 @@
+Bibliography
+
+Bandaragoda, Tharindu, Ting, Kai, Albrecht, David, Liu, Fei Tony, Zhu, Ye, and
+Wells, Jonathan. “Isolation­based anomaly detection using nearest­neighbor
+ensembles: iNNE”. In: Computational Intelligence 34 (Jan. 2018). DOI: 10 .
+1111/coin.12156 .
+
+Dive, Research. Forklift Battery Market, by Type (Lead–Acid, Lithium ion (Li­
+ion), and Others), by Application (Construction, Manufacturing, Warehouses,
+Retail and Wholesale Stores, and Others), Regional Analysis (North America,
+Europe, Asia­Pacific, LAMEA), Global Opportunity Analysis and Industry
+Forecast, 2019–2026 . 2020. URL: https : / / www . researchdive . com / 70 /
+forklift-battery-market (visited on 10/25/2021).
+
+EugenioTL. VAE Basic . 2021. URL: https://commons.wikimedia.org/wiki/
+File:VAE_Basic.png (visited on 10/24/2021).
+
+ Garg, Mayank. “Computer Science and Engineering”. en. In: (), p. 70.
+
+ Hsu, Wei­Ning, Zhang, Yu, and Glass, James. “Unsupervised Domain
+Adaptation for Robust Speech Recognition via Variational Autoencoder­Based
+Data Augmentation”. In: (July 2017).
+
+ Maleki, Sepehr, Maleki, Sasan, and Jennings, Nicholas R. “Unsupervised
+anomaly detection with LSTM autoencoders using statistical data­filtering”. en.
+In: Applied Soft Computing 108 (Sept. 2021), p. 107443. ISSN: 1568­4946. DOI:
+10 . 1016 / j . asoc . 2021 . 107443 . URL: https : / / www . sciencedirect . com /
+science/article/pii/S1568494621003665 (visited on 08/13/2021).
+
+ Malhotra, Pankaj, Vig, Lovekesh, Shroff, Gautam, and Agarwal, Puneet. “Long
+Short Term Memory Networks for Anomaly Detection in Time Series”. In: Apr.
+2015.
+
+ Massi, Michela. Autoencoder schema . 2019. URL: https : / / commons .
+wikimedia.org/wiki/File:Autoencoder_schema.png (visited on 10/24/2021).
+
+ O’Malley, Tom, Bursztein, Elie, Long, James, Chollet, François, Jin, Haifeng,
+Invernizzi, Luca, et al. KerasTuner .https://github.com/keras-team/keras-
+tuner . 2019.
+
+ Ribeiro, Manassés, Lazzaretti, André Eugênio, and Lopes, Heitor Silvério. “A
+study of deep convolutional auto­encoders for anomaly detection in videos”.
+en. In: Pattern Recognition Letters . Machine Learning and Applications in
+Artificial Intelligence 105 (Apr. 2018), pp. 13–22. ISSN: 0167­8655. DOI: 10 .
+1016 / j . patrec . 2017 . 07 . 016 . URL: https : / / www . sciencedirect . com /
+science/article/pii/S0167865517302489 (visited on 08/13/2021).
+

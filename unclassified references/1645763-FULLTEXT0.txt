@@ -1,0 +1,69 @@
+REFERENCES | 53
+References
+
+ Greggman, “Thoughts on asm.js vs PNaCl,” 2013. [Online]. Available:
+https://games.greggman.com/game/thoughts-on-asm-js-vs-pnacl/
+
+ M. J. Harrold, G. Rothermel, and A. Orso, “Representation and Analysis
+of Software,” p. 19.
+
+ A. Hilbig, D. Lehmann, and M. Pradel, “An Empirical Study of Real-
+World WebAssembly Binaries,” p. 12, 2021.
+
+ M. Monperrus, “The Living Review on Automated Program
+Repair,” Dec. 2020. [Online]. Available: https://hal.archives-ouvertes.
+fr/hal-01956501
+
+ C. Cifuentes, “Reverse compilation techniques,”
+Ph.D. dissertation, 1994. [Online]. Avail-
+able: /paper/Reverse-compilation-techniques-Cifuentes/
+2f25cb60ce7c12d067c0fe3dafef7e9a7896ea3c
+
+ M. Emmerik, “Static Single Assignment for Decompilation,”
+undeﬁned , 2007. [Online]. Available: https://www.semanticscholar.
+org/paper/Static-Single-Assignment-for-Decompilation-Emmerik/
+6181cec77dc6fc26973f8d0386d587cf6978609a
+
+ “Boomerang Decompiler.” [Online]. Available: http://boomerang.
+sourceforge.net/
+
+ B. C. Housel, “A study of decompiling machine languages into high-level
+machine independent languages,” Ph.D. dissertation, Purdue University,
+USA, 1973.
+
+ I. Guilfanov, “Decompilation gets real – Hex Rays,” 2007. [Online].
+Available: https://www.hex-rays.com/blog/decompilation-gets-real/
+
+ J. Lee, T. Avgerinos, and D. Brumley, “TIE: Principled Reverse Engi-
+neering of Types in Binary Programs,” p. 18, 2011.
+
+ J. K /caron.ts1roustek, P. Matula, and P. Zemek, “RetDec: An Open-Source
+Machine-Code Decompiler,” Botconf 2017 , p. 152, Dec. 2017.
+
+ “Avast open-sources its machine-code decompiler,”
+2017. [Online]. Available: https://blog.avast.com/
+avast-open-sources-its-machine-code-decompiler
+
+ “Avast/retdec,” Avast, Mar. 2021. [Online]. Available: https://github.
+com/avast/retdec
+
+ “Ghidra,” 2019. [Online]. Available: https://ghidra-sre.org/
+
+ W. M. Khoo, “Decompilation as search,” Ph.D. dissertation, 2013.
+
+ M. O. Myreen, M. J. C. Gordon, and K. Slind, “Decompilation into
+logic — Improved,” in 2012 Formal Methods in Computer-Aided Design
+(FMCAD) , Oct. 2012, pp. 78–81.
+
+ “Hex Rays – State-of-the-art binary code analysis solutions.” [Online].
+Available: https://www.hex-rays.com/
+
+ “Wasm-decompile.” [Online]. Available: https://github.com/
+WebAssembly/wabt
+
+ “Wasm2c.” [Online]. Available: https://github.com/WebAssembly/wabt
+
+ P. N. F. Software, “Reverse Engineering WebAssembly,” Jul.
+2018. [Online]. Available: https://medium.com/@pnfsoftware/
+reverse-engineering-webassembly-ed184a099931
+

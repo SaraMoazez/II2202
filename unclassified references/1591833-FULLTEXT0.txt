@@ -1,0 +1,22 @@
+REFERENCES|37
+References
+
+ Team – react. [Online]. Available: https://reactjs.org/community/team.
+html
+
+ Components and props – react. [Online]. Available: https://reactjs.org/
+docs/components-and-props.html
+
+ About us - material-UI. [Online]. Available: https://material-ui.com/
+company/about/
+
+ Introduction. Library Catalog: miragejs.com. [Online]. Available:
+https://miragejs.com/docs/getting-started/introduction/
+
+ Introduction to node.js. Library Catalog: nodejs.dev Section: Node.js.
+[Online]. Available: https://nodejs.dev/
+
+ Anonymous. VAT invoicing rules. Library Catalog: ec.europa.eu.
+[Online]. Available: https://ec.europa.eu/taxation_customs/business/
+vat/eu-vat-rules-topic/vat-invoicing-rules_en38|REFERENCES
+

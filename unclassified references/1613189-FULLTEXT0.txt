@@ -1,0 +1,51 @@
+ References | 83 
+  6 References 
+ ITU and UIT, µSeWWing Whe Scene fRU 5G:OSSRUWXniWieV and ChallengeV¶, 2018.  
+ µNeWZRUk SURgUammabiliW\: a neZ fURnWieU in 5G¶, Ericsson.com, p. 12, Jan. 2019.  
+ µSSecial IVVXe Rn SecXUiW\ and PUiYac\ fRU Edge CRmSXWing: CXUUenW PURgUeVV and FXWXUe Challenge¶, elsevier.com.  
+ Milan Patel, Dario Sabella, Nurit Sprecher, and Valerie Young, µMRbile Edge CRmSXWing- Ke\ WechnRlRg\ WRZaUdV 5G¶, ETSI, p. 16, 2015.  
+ ETSI MEC ISG, µETSI GS MEC 002- MEC Use-cases and ReTXiUemenWV¶. .  
+ Ale[ Re]nik, µeWVi_ZS20_MEC_SRfWZaUeDeYelRSmenW_FINAL.Sdf¶. ETSI, 2018.  
+ DaUiR Sabella, µeWVi_ZS20ed2_MEC_SRfWZaUeDeYelRSmenW.Sdf¶. ETSI, 2019.  
+ Alex Reznik, Luis Miguel Contreras Murillo, Yonggang Fang, Walter Featherstone, Miltiadis Filippou, Francisco Fontes, Altice Labs, Fabio Giust, Qiang Huang, Alice Li, Charles Turyagyenda, Christof Wehner, and ZhRX Zheng, µClRXd RAN and MEC: A PeUfecW PaiUing¶, S. 24, 2018.  
+ Luis M Contreras, Yonggang Fang, Walter Featherstone, Danny Frydman, Feng Jiangping, Kwihoon Kim, Pekka Kuure, Alice Li, Andy Odgers, Debashish Purkayastha, Anurag Ranjan, Salvatore Scarpina, Gianluca Verin, and Kuo-Wei Wen, µMEC in 5G NeWZRUkV¶, ETSI.Org, p. 28, 2018.  
+ 3GPP SA2, µTS 23501 S\VWem AUchiWecWXUe fRU Whe 5G S\VWem.dRc¶. 3GPP.RUg, 2019.  
+ ETSI MEC ISG, µETSI GS MEC 003- FrameZRUk and RefeUence AUchiWecWXUe¶. 2019 [Online]. Available: etsi.org 
+ Anne HnkanVVRn, µPRUWal Rf ReVeaUch MeWhRdV and MeWhRdRlRgieV fRU ReVeaUch PURjecWV and DegUee PURjecWV¶, Comput. Eng., p. 7, 2013.  
+ MahadeY SaW\anaUa\anan, PaUamYiU Bahl, RamRn CaceUeV, and Nigel DaYieV, µThe CaVe for VM-based Cloudlets in Mobile Computing¶, S. 9.  
+ Flavio Bonomi, Rodolfo Milito, Jiang Zhu, and SateeVh AddeSalli, µFRg CRmSXWing and IWV RRle in Whe InWeUneW Rf ThingV¶, p. 3.  
+ µ5G AXWRmRWiYe AVVRciaWiRn¶.  [Online]. AYailable: hWWSV://5gaa.RUg/. [AcceVVed: 27-Dec-2020] 
+ µAnWhRV ASS MRdeUni]aWiRn PlaWfRUm _ GRRgle ClRXd¶.  [Online]. AYailable: hWWSV://clRXd.gRRgle.cRm/anWhRV. [AcceVVed: 27-Dec-2020] 
+ 5G ACIA, µ5G-for-Connected-Industries-and-Automation-White-PaSeU.Sdf¶. 5G ACIA.RUg, 2018.  
+ µA]XUe SWack Edge _ MicURVRfW A]XUe¶.  [Online]. AYailable: hWWSV://a]XUe.micURVRfW.cRm/en-us/products/azure-stack/edge/. [Accessed: 27-Dec-2020] 
+ LindVa\ FURVW, µSmaUW CiWieV DeVeUYe an EaVieU TaVk! SWandaUdV Will HelS.¶, S. 20, 2017.  
+ CaUlRV BUaYR, HenUik BlckVWU|m, µEdge computing and deployment strategies for communicaWiRn VeUYice SURYideUV¶. Ericsson.com, Feb-2020.  
+ ETSI MEC ISG, µRadiR NeWZRUk InfRUmaWiRn API¶. eWVi.RUg, 2017.  
+ ETSI MEC ISG, µLRcaWiRn API¶. eWVi.RUg, 2017 [Online]. AYailable: file:///C:/Users/eiljima/Documents/Document_Oct/Degree/Thesis/ETSIAnalysis/gs_mec013v010101p_Location%20API.pdf 
+ ETSI MEC ISG, µETSI GS MEC 029_Fi[ed AcceVV InfRUmaWiRn API¶. eWVi.RUg, JXl-2019.  
+ SA2 3gSS.RUg, µTS 23748 SWXd\ Rn enhancemenW Rf VXSSorW fRU Edge CRmSXWing in 5G CRUe neWZRUk¶. Dec-2020.  
+ SA3 3gSS.RUg, µTR 33839 SWXd\ Rn SecXUiW\ AVSecWV Rf EnhancemenW Rf SXSSRUW fRU Edge CRmSXWing in 5GC¶. Dec-2020.  85  
+ BeUnW MaWWVRn, µSA6 MeeWing 34 ReSRUW -S6-192165¶. 2019.  
+ SXUeVh ChiWWXUi, µS6-191625-SA6 Meeting #33 - ChaiUman¶V nRWeV aW end Rf Whe meeWing.dRc¶. 2019 [Online]. AYailable: https://www.3gpp.org/DynaReport/TDocExMtg--S6-33--33312.htm 
+ µHaUmRni]ing standards for edge computing - A synergized architecture leveraging ETSI ISG MEC and 3GPP VSecificaWiRnV¶, S. 14.  
+ Internet Engineering Task Force (IETF), µDeWeUminiVWic NeWZRUking UVe-caVeV¶. 2019.  
+ Yong-JX Lee, µSemanWic-BaVed Web API CRmSRViWiRn fRU DaWa MaVhXSV¶, S. 16.  
+ Michael Meng, SWeShanie SWeinhaUdW, and AndUeaV SchXbeUW, µHow Developers Use API Documentation: An Observation SWXd\¶, S. 10, 2019.  
+ µNRde-RED¶.  [Online]. AYailable: hWtps://nodered.org/. [Accessed: 24-Jan-2021] 
+ WfiW]mac, µA]XUe DeSlR\menW ManageU REST API UefeUence¶.  [Online]. AYailable: hWWSV://dRcV.micURVRfW.com/en-us/rest/api/deploymentmanager/. [Accessed: 26-Jun-2021] 
+ Adam Ronthal, Rick Greenwald, and DRnald FeinbeUg, µAUe YRX Read\ fRU MXlWiclRXd and InWeUclRXd DaWa ManagemenW?¶, p. 14.  
+ µIBM ClRXd OSen SeUYice Broker API - IBM ClRXd API DRcV¶, 01-May-2016.  [Online]. Available: cloud.ibm.com/apidocs/ibm-cloud-osb-api. [Accessed: 11-Jan-2021] 
+ µSSUing ClRXd OSen SeUYice BURkeU¶.  [Online]. AYailable: hWWSV://VSUing.iR/projects/spring-cloud-open-service-broker. [Accessed: 11-Jan-2021]  
+86  
+ µWhaW iV a VeUYice bURkeU? - Red Hat OpenShifW¶.  [Online]. AYailable: hWWSV://ZZZ.RSenVhifW.cRm/leaUn/WRSicV/VeUYice-brokers. [Accessed: 11-Jan-2021] 
+ µOSeUaWRUHXb.iR _ The UegiVWU\ fRU KXbeUneWeV OSeUaWRUV¶.  [Online]. AYailable: hWWSV://RSeUaWRUhXb.iR/. [AcceVVed: 07-Feb-2021] 
+ EU CRmmiVViRn, µReSRUW fURm EU Rn imSlemenWaWiRn Rf Whe RSen inWeUneW acceVV SURYiViRnV Rf RegXlaWiRn¶. EUROPEAN COMMISSION, 2019.  
+ µ5G and Whe NeWheUlandV AXWhRUiW\ fRU CRnVXmeUV and MaUkeWV¶, S. 17.  
+ ETSI MANO, µNeWZRUk FXncWiRnV ViUWXaliVaWiRn (NFV)-MANO Or-Vi reference point - Interface and Information Model SSecificaWiRn¶. eWVi.RUg, 2020.  
+ ETSI MANO, µNFV MANO-Vi-Vnfm reference point - Interface and Information Model SpecificaWiRn¶. eWVi.RUg, 2020.  
+ ETSI MANO, µNFV MANO -Os-Ma-nfYR UefeUence SRinW  InWeUface and InfRUmaWiRn MRdel SSecificaWiRn¶. eWVi.RUg, 2020.  
+ ETSI MANO, µNFV MANO Ve-Vnfm reference point - Interface and Information Model SpecificaWiRn¶. eWVi.org, 2020.  
+]). EDGE -8 EDGE -8 reference point enable s interactions between the Edge 
+Configuration Server and the 3GPP Core Network  EDGE -9 EDGE -9 reference point enables interactions between two Edge Enabler 
+Servers. The EDGE -9 reference point may be provided betwe en EES 
+within different EDN  

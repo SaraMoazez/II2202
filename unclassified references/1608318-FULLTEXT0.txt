@@ -1,0 +1,31 @@
+92 | REFERENCES
+References
+
+ J. Oksanen, “Or as he’s known ”indiana jones of cyber security”,” the
+tweet is in reference to Pontus Johnson’s paper ”Intrinsic Propensity
+for Vulnerability in Computers? Arbitrary Code Exection in the
+universal Turing Machine”, found here: https://arxiv.org/abs/2105.
+02124. [Online]. Available: https://twitter.com/janne_oksanen/status/
+1391702951283118081?s=20 [ Cited in section (document).]
+
+
+10server = ’https://gitlab.domain.com’
+11
+12# GraphQL queries
+13query_read = """
+14query {
+15currentUser {
+16 id
+17}
+18}
+19"""
+20query_mutate = """
+21mutation {
+22createIssue(input:{
+23title: "test"
+24projectPath: "root/open01"
+25}){
+26errors
+27}
+28}
+29"""

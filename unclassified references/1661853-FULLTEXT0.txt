@@ -1,0 +1,63 @@
+minimizing downtime. A multitude of people, be it in commu-
+nications, support, or management can beneﬁt from accessing
+data on how services are performing, when a failure is affect-
+ing products, and by extension also affecting customers. We
+argue that there is potential in further exploring the concept of
+how to convey monitoring data to non-developers and thereby
+also lowering the thresholds to data which otherwise could be
+kept within a developer circle; enabling transparency and data
+democratization within an organization.
+Additionally, our initial literature study found textbooks [7,
+20] on dashboard design, but as mentioned by Yigitbasioglu
+and Velcu, Alhamadi and Sarikaya et al. the scientiﬁc litera-
+ture on dashboards is scarce and general guidelines are hard to
+come by. We would like to echo the sentiments expressed by
+Yigitbasioglu and Velcu and Sarikaya et al., as by continuing
+to examine case studies and surveys on dashboard implemen-
+tations, it is possible to gain insights into ﬂaws in dashboard
+design which prevent their success.
+CONCLUSION
+We aimed to determine the prevalent design lessons for build-
+ing a dashboard that supports operators with limited domain
+knowledge of software development and microservice archi-
+tecture in their task of monitoring online media applications.
+Using a participatory design approach, a prototype was de-
+signed together with developers, operators and stakeholders.
+The dashboard prototype was evaluated through a think-aloud
+protocol which became subject to a thematic analysis. The
+thematic analysis rendered three themes: language differences
+between developers and operators, consistency across views
+and states, and lastly, context switches, system integration and
+automation. In addition to the think-aloud protocol, partici-
+pants were asked to perform a system usability scale survey
+(SUS). The resulting SUS score for the prototype is placed
+between "good" and "excellent" on the adjective ratings by
+Bangor, Kortum, and Miller 
+. Our design exercise has ex-
+plored how microservice monitoring data can be presented
+to operators in a dashboard and we see a potential in fur-
+ther exploring how data of this nature can be conveyed to
+a non-developer audience, to enable transparency and data
+democratization within an organization.
+References
+
+ John Brooke. “SUS: A quick and dirty usability scale”.
+In:Usability Eval. Ind. 189 (Nov. 1995).
+
+ Marcus Frisell. “Information visualization of microser-
+vice architecture relations and system monitoring: A
+case study on the microservices of a digital rights man-
+agement company - an observability perspective”. MA
+thesis. KTH, 2018, p. 11. URL:https : / / www . diva -
+portal.org/smash/record.jsf?pid=diva2%5C%3A1240044&
+dswid=6877 .
+
+ Clay Spinuzzi. “The Methodology of Participatory De-
+sign”. In: Technical Communication 52 (May 2005),
+pp. 163–174.
+
+ Steve Wexler, Jeffrey Shaffer, and Andy Cotgreave.
+The big book of dashboards: visualizing your data us-
+ing real-world business scenarios . John Wiley & Sons,
+2017.
+

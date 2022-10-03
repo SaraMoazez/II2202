@@ -1,0 +1,62 @@
+REFERENCES|41
+References
+
+ T.Miller,“Explanationinartiﬁcialintelligence: Insightsfromthesocial
+sciences,” Artiﬁcial intelligence , vol. 267, pp. 1–38, 2019.
+
+ S. Barocas, M. Hardt, and A. Narayanan, Fairness and Machine
+Learning. fairmlbook.org, 2019, http://www.fairmlbook.org.
+
+ J. Schmidhuber, “Deep learning in neural networks: An overview,”
+Neural networks , vol. 61, pp. 85–117, 2015.
+
+ A.H.Marblestone,G.Wayne,andK.P.Kording,“Towardanintegration
+of deep learning and neuroscience,” Frontiers in computational
+neuroscience , vol. 10, p. 94, 2016.
+
+ Y. Guo, Y. Liu, A. Oerlemans, S. Lao, S. Wu, and M. S. Lew, “Deep
+learningforvisualunderstanding: Areview,” Neurocomputing ,vol.187,
+pp. 27–48, 2016.
+
+ A. Krizhevsky, I. Sutskever, and G. E. Hinton, “Imagenet classiﬁcation
+with deep convolutional neural networks,” Advances in neural
+information processing systems , vol. 25, pp. 1097–1105, 2012.
+
+ B. Zhou, A. Lapedriza, A. Khosla, A. Oliva, and A. Torralba, “Places:
+A 10 million image database for scene recognition,” IEEE Transactions
+on Pattern Analysis and Machine Intelligence , 2017.
+
+ Z. Li, K. Gavrilyuk, E. Gavves, M. Jain, and C. G. Snoek, “Videolstm
+convolves, attends and ﬂows for action recognition,” Computer Vision
+and Image Understanding , vol. 166, pp. 41–50, 2018.
+
+ C.-Y.Ma,M.-H.Chen,Z.Kira,andG.AlRegib,“Ts-lstmandtemporal-
+inception: Exploitingspatiotemporaldynamicsforactivityrecognition,”
+Signal Processing: Image Communication , vol. 71, pp. 76–87, 2019.
+
+ A. Barbu, D. Mayo, J. Alverio, W. Luo, C. Wang, D. Gutfreund,
+J. Tenenbaum, and B. Katz, “Objectnet: A large-scale bias-controlled
+dataset for pushing the limits of object recognition models,” 2019.
+
+ T. Runia, “Optical ﬂow visualization,” https://github.com/tomrunia/
+OpticalFlow_Visualization, 2020.
+
+ D. L. Yue Zhao, Yuanjun Xiong, “Mmaction,” https://github.com/
+open-mmlab/mmaction, 2019.
+
+ M. Contributors, “Openmmlab’s next generation video understanding
+toolbox and benchmark,” https://github.com/open-mmlab/mmaction2,
+2020.
+
+ E. Linder-Norén, “Action-recognition,” https://github.com/
+eriklindernoren/Action-Recognition, 2019.
+
+ H. Alwassel, “Kinetics-downloader,” https://github.com/activitynet/
+ActivityNet/tree/master/Crawler/Kinetics, 2018.
+
+ H. Zhou, “Optical ﬂow extraction,” https://github.com/
+USTC-Video-Understanding/I3D_Finetune/issues/5, 2018.
+
+ DeepMind, “I3d models trained on kinetics,” https://github.com/
+deepmind/kinetics-i3d, 2019.
+

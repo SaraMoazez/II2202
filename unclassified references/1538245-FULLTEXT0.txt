@@ -1,0 +1,124 @@
+Bibliography
+
+ The MITRE Corporation. CVE-2014-0160 .https://cve.mitre.
+org/cgi-bin/cvename.cgi?name=CVE-2014-0160 . 2013.
+
+ Archibald Samuel Elliott et al. “Checked C: Making C Safe by Ex-
+tension”. In: 2018 IEEE Cybersecurity Development (SecDev) . Cam-
+bridge, MA, USA, Sept. 2018, pp. 53–60.
+
+ Marno van der Maas and Simon W. Moore. “Protecting Enclaves from
+Intra-Core Side-Channel Attacks through Physical Isolation”. In: Pro-
+ceedings of the 2nd Workshop on Cyber-Security Arms Race . CYSARM’20.
+Virtual Event, USA: Association for Computing Machinery, Nov. 2020,
+pp. 1–12.
+
+ Maurice V. Wilkes and Roger M. Needham. The Cambridge CAP Com-
+puter and Its Operating System . Elsevier, Jan. 1979.
+6768 BIBLIOGRAPHY
+
+ Krste Asanović and David A. Patterson. Instruction Sets Should Be Free:
+The Case For RISC-V . Tech. rep. UCB/EECS-2014-146. University of
+California at Berkeley, Electrical Engineering and Computer Sciences,
+Aug. 2014.
+
+ Editors Andrew Waterman and Krste Asanović. The RISC-V Instruction
+Set Manual . Document Version 20191213. Volume I: User-Level ISA.
+RISC-V Foundation. Dec. 2019.
+
+ Editors Andrew Waterman and Krste Asanović. The RISC-V Instruction
+Set Manual . Document Version 20190608-Priv-MSU-Ratiﬁed. Volume
+II: Privileged Architecture. RISC-V Foundation. June 2019.
+
+ David A. Patterson and John L. Hennessy. Computer Organization and
+Design, RISC-V Edition: The Hardware/Software Interface . 6th. San
+Francisco, CA, USA: Morgan Kaufmann Publishers Inc., 2017. /i.sc/s.sc/b.sc/n.sc:
+9780128122754.
+
+ John L. Hennessy and David A. Patterson. Computer Architecture: A
+Quantitative Approach . 6th. San Francisco, CA, USA: Morgan Kauf-
+mann Publishers Inc., 2017. /i.sc/s.sc/b.sc/n.sc: 9780128119068.
+
+ Robert N. M. Watson et al. Capability Hardware Enhanced RISC In-
+structions (CHERI): Notes on the Meltdown and Spectre Attacks . Tech.
+rep. UCAM-CL-TR-916. University of Cambridge, Computer Labora-
+tory, Feb. 2018. /u.sc/r.sc/l.sc:https://www.cl.cam.ac.uk/techreports/
+UCAM-CL-TR-916.pdf .
+
+ Jan Horn. speculative execution, variant 4: speculative store bypass .
+https://bugs.chromium.org/p/project-zero/issues/
+detail?id=1528 . Feb. 2018.
+
+ Intel Corporation. Intel® Software Guard Extensions Developer Guide .
+https://software.intel.com/content/www/us/en/
+develop/documentation/sgx-developer-guide/top.
+html . Sept. 2016.
+
+ Intel Corporation. Deep Dive: Intel Analysis of L1 Terminal Fault . Tech.
+rep. 2018. /u.sc/r.sc/l.sc:%5Curl%7Bhttps://software.intel.com/
+security- software- guidance/advisory- guidance/
+l1-terminal-fault%7D .
+
+ Robert N. M. Watson et al. Capability Hardware Enhanced RISC In-
+structions: CHERI Instruction-Set Architecture (Version 8) . Tech. rep.
+UCAM-CL-TR-951. University of Cambridge, Computer Laboratory,
+Oct. 2020. /u.sc/r.sc/l.sc:https://www.cl.cam.ac.uk/techreports/
+UCAM-CL-TR-951.pdf .
+
+ Brooks Davis et al. CheriABI: Enforcing valid pointer provenance and
+minimizing pointer privilege in the POSIX C run-time environment .
+Tech. rep. UCAM-CL-TR-932. University of Cambridge, Computer Lab-
+oratory, Apr. 2019. /u.sc/r.sc/l.sc:https://www.cl.cam.ac.uk/techreports/
+UCAM-CL-TR-932.pdf .
+
+ David Kaplan, Jeremy Powell, and Tom Woller. AMD SEV-SNP: Strength-
+ening VM Isolationwith Integrity Protection and More . Tech. rep. Ad-
+vanced Micro Devices Inc., Jan. 2020. /u.sc/r.sc/l.sc:https://www.amd.
+com/system/files/TechDocs/SEV-SNP-strengthening-
+vm-isolation-with-integrity-protection-and-more.
+pdf.
+
+ Abraham Gonzalez et al. “Replicating and Mitigating Spectre Attacks
+on a Open Source RISC-V Microarchitecture”. In: Third Workshop on
+Computer Architecture Research with RISC-V . Phoenix, AZ, USA, June
+2019.
+
+ Christopher Celio, David A. Patterson, and Krste Asanović. The Berke-
+ley Out-of-Order Machine (BOOM): An Industry-Competitive, Synthe-
+sizable, Parameterized RISC-V Processor . Tech. rep. UCB/EECS-2015-
+167. University of California at Berkeley, Electrical Engineering and
+Computer Sciences, June 2015.
+
+ Arm Limited. Vulnerability of Speculative Processors to Cache Tim-
+ing Side-Channel Mechanism .https://developer.arm.com/
+support/arm-security-updates/speculative-processor-
+vulnerability . 2020.
+
+ Arm Limited. Arm Architecture Reference Manual Supplement Morello
+for A-proﬁle Architecture . DDI0606. Arm Limited. Sept. 2020.Appendix A
+Full C Attack
+/*
+* Author: Franz Fuchs
+*
+* Spectre-PHT proof of concept version
+*
+* spec_funct first checks the array bounds
+* and then loads the value determined by the
+* index. By training the Pattern History Table
+* with 16 calls to the function with valid indexes,
+* we trick Toooba in speculatively executing
+* the loads even though the index is out of bounds.
+*/
+#ifdef __CHERI_PURE_CAPABILITY__
+#include "pure_cap.h"
+#endif
+#define MEM_SIZE 16384
+#define MEM_SIZE_DW MEM_SIZE/8
+#define STACK_SIZE 2048
+#define STACK_SIZE_DW STACK_SIZE/8
+#define PROBE_SIZE 2048
+#define PROBE_SIZE_DW PROBE_SIZE/8
+#define SEC_ARR_SIZE 128
+#define SEC_ARR_SIZE_DW SEC_ARR_SIZE/8
+#define FLUSH_ARR_SIZE 16384
+73

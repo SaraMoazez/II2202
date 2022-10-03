@@ -1,0 +1,50 @@
+50|REFERENCES
+References
+
+ “A tutorial on conditional generative adversarial nets +
+keras implementation,” https://medium.com/@ma.bagheri/
+a-tutorial-on-conditional-generative-adversarial-nets-keras-implementation-694dcafa6282,
+accessed: 2021-04-26.REFERENCES|51
+
+ “From gan basic to stylegan2,” https://medium.com/analytics-vidhya/
+from-gan-basic-to-stylegan2-680add7abe82, accessed: 2021-04-29.
+
+ T. Karras, M. Aittala, J. Hellsten, S. Laine, J. Lehtinen, and T. Aila,
+“Training generative adversarial networks with limited data,” in Proc.
+NeurIPS, 2020.
+
+ “A simple explanation of the inception
+score,” https://medium.com/octavian-ai/
+a-simple-explanation-of-the-inception-score-372dﬀ6a8c7a, accessed:
+2021-04-30.
+
+ “Photogrammetry,” https://en.wikipedia.org/wiki/Photogrammetry,
+accessed: 2021-05-12.
+
+ A. Paszke, S. Gross, F. Massa, A. Lerer, J. Bradbury,
+G. Chanan, T. Killeen, Z. Lin, N. Gimelshein, L. Antiga,
+A. Desmaison, A. Kopf, E. Yang, Z. DeVito, M. Raison, A. Tejani,52|REFERENCES
+S. Chilamkurthy, B. Steiner, L. Fang, J. Bai, and S. Chintala,
+“Pytorch: An imperative style, high-performance deep learning
+library,” in Advances in Neural Information Processing Systems
+32, H. Wallach, H. Larochelle, A. Beygelzimer, F. d /quotesingle.ts1Alché-Buc,
+E. Fox, and R. Garnett, Eds. Curran Associates, Inc., 2019,
+pp. 8024–8035. [Online]. Available: http://papers.neurips.cc/paper/
+9015-pytorch-an-imperative-style-high-performance-deep-learning-library.
+pdf
+
+ D. Vlasic, M. Brand, H. Pﬁster, and J. Popovic, “Face transfer with
+multilinear models,” in ACM SIGGRAPH 2006 Courses , 2006, pp. 24–
+es.
+
+ V. F. Abrevaya, A. Boukhayma, S. Wuhrer, and E. Boyer, “A generative
+3d facial model by adversarial training,” 2019.
+
+ A. Krizhevsky, V. Nair, and G. Hinton, “Cifar-10 (canadian institute for
+advanced research).” [Online]. Available: http://www.cs.toronto.edu/
+~kriz/cifar.html
+
+ P. J. Besl and N. D. McKay, “Method for registration of 3-d shapes,”
+inSensor fusion IV: control paradigms and data structures , vol. 1611.
+International Society for Optics and Photonics, 1992, pp. 586–606.
+

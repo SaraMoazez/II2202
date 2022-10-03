@@ -1,0 +1,127 @@
+Bibliography | 39
+Bibliography
+
+ H.Krasner,“ThecostofpoorsoftwarequalityintheUS:A2020report,”
+p. 46. [Page 1.]
+
+ “facebook/jest,” original-date: 2013-12-10T00:18:04Z. [Online].
+Available: https://github.com/facebook/jest [Page 2.]
+
+ Randoop: Automatic unit test generation for java. [Online]. Available:
+https://randoop.github.io/randoop/ [Page 2.]
+
+ L. Lindbäck, “A First Course in Object Oriented Development,” p. 392,
+2022.[Online].Available:http://leiflindback.se/iv1350/object-oriented
+-development.pdf [Page 7.]
+
+ Stack overflow developer survey 2020. [Online]. Available: https:
+//insights.stackoverflow.com/survey/2020/?utm_source=social-share
+&utm_medium=social&utm_campaign=dev-survey-2020 [Page 7.]
+
+ “JavaScript modules - JavaScript | MDN.” [Online]. Available: https:
+//developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+[Page 7.]
+
+ “Ajax - Developer guides | MDN.” [Online]. Available: https:
+//developer.mozilla.org/en-US/docs/Web/Guide/AJAX [Page 8.]
+
+ Node.js. Node.js. [Online]. Available: https://nodejs.org/en/ [Page 8.]
+
+ Electron | build cross-platform desktop apps with JavaScript, HTML,
+and CSS. [Online]. Available: https://www.electronjs.org/ [Page 8.]Bibliography | 41
+
+ “The ESTree Spec,” May 2022, original-date: 2015-02-12T01:09:18Z.
+[Online]. Available: https://github.com/estree/estree [Page 8.]
+
+ “Acorn,” May 2022, original-date: 2012-09-24T10:05:00Z. [Online].
+Available: https://github.com/acornjs/acorn [Page 8.]
+
+ “jquery/esprima,” May 2022, original-date: 2011-11-23T05:36:43Z.
+[Online]. Available: https://github.com/jquery/esprima [Page 8.]
+
+ “Meriyah,” May 2022, original-date: 2019-05-07T05:32:23Z. [Online].
+Available: https://github.com/meriyah/meriyah [Page 8.]
+
+ G.M.Bravo,“Kronuz/esprima-python,”May2022,original-date:2017-
+07-12T18:21:51Z. [Online]. Available: https://github.com/Kronuz/espr
+ima-python [Page 8.]
+
+ “About MDN.” [Online]. Available: https://developer.mozilla.org
+[Page 9.]
+
+ “Contributing to the content of MDN Web Docs,” May 2022, original-
+date: 2020-09-15T15:42:29Z. [Online]. Available: https://github.com
+/mdn/content [Page 9.]
+
+ candied_orange,“Answerto"Unittestingasnondeveloper",”Jul.2019.
+[Online]. Available: https://softwareengineering.stackexchange.com/a/
+395262 [Page 10.]
+
+ “Why Is Unit Testing So Hard and Why Can You Do About It -
+MethodPoet,” Dec. 2021, section: Unit Testing. [Online]. Available:
+https://methodpoet.com/why-is-unit-testing-so-hard/ [Page 10.]
+
+ “Examin.” [Online]. Available: https://www.examin.dev/ [Page 10.]42 | Bibliography
+
+ “Ponicode - Quick and easy unit testing.” [Online]. Available:
+https://www.ponicode.com/ [Page 10.]
+
+ “PEP 257 – Docstring Conventions | peps.python.org.” [Online].
+Available: https://peps.python.org/pep-0257/ [Page 15.]
+
+ “Use JSDoc: Index.” [Online]. Available: https://jsdoc.app/ [Page 15.]
+
+ martenb se, “cytee (Urangutest),” May 2022, original-date: 2022-03-
+23T14:54:45Z.[Online].Available:https://github.com/martenb-se/cyte
+e [Pages 15 and 27.]
+
+ A.v.Deursen,“ThinkTwiceBeforeUsingthe“MaintainabilityIndex”,”
+Aug. 2014. [Online]. Available: https://avandeursen.com/2014/08/29/t
+hink-twice-before-using-the-maintainability-index/ [Page 17.]
+
+ “export - JavaScript | MDN.” [Online]. Available: https://developer.
+mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export
+[Page 18.]
+
+ “function declaration - JavaScript | MDN.” [Online]. Available:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/
+Statements/function [Page 18.]
+
+ “Function expression - JavaScript | MDN.” [Online]. Available:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/
+Operators/function [Page 18.]
+
+ “Arrow function expressions - JavaScript | MDN.” [Online]. Available:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/
+Functions/Arrow_functions [Page 18.]
+
+ “Public class fields - JavaScript | MDN.” [Online]. Available: https:
+//developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classe
+s/Public_class_fields [Page 18.]
+ “JavaScriptScope.”[Online].Available:https://www.w3schools.com/js
+/js_scope.asp [Page 18.]
+
+ martenb se, “Getting Started with Create React App,” May 2022,
+original-date: 2022-05-03T06:59:10Z. [Online]. Available: https://gith
+ub.com/martenb-se/cytee-demo-project [Pages 28 and 32.]
+
+ “Getting Started | Create React App.” [Online]. Available: https:
+//create-react-app.dev/docs/getting-started/ [Page 30.]
+
+ “Most used web frameworks among developers 2021.” [Online].
+Available: https://www.statista.com/statistics/1124699/worldwide-de
+veloper-survey-most-used-frameworks-web/ [Page 30.]
+
+ “Strict mode - JavaScript | MDN.” [Online]. Available: https://develo
+per.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+[Page 31.]
+
+ “Spread syntax (...) - JavaScript | MDN.” [Online]. Available: https:
+//developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operat
+ors/Spread_syntax [Page 31.]
+
+ “JSX.” [Online]. Available: https://facebook.github.io/jsx/ [Page 31.]
+
+ “Så gör du pålitliga kvalitativa intervjuer » Morten Postrup,” Jun. 2019.
+[Online]. Available: https://www.mortenpostrup.com/sa-gor-du-palitl
+iga-kvalitativa-intervjuer/ [Page 36.]

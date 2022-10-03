@@ -1,0 +1,211 @@
+Bibliography
+
+ Vipin Kumar Varun Chandola Arindam Banerjee. Anomaly Detection :
+A Survey . Tech. rep. http://cucis.ece.northwestern.edu/
+projects/DMS/publications/AnomalyDetection.pdf . Uni-
+versity of Minnesota, Sept. 2009.
+
+ Pang.n ing Tan et al. Introduction to Data Mining .http : / / www .
+uokufa.edu.iq/staff/ehsanali/Tan.pdf . 2006.
+
+ Christopher Kruegel Giovanni Vigna. Host-Based Intrusion Detection .
+Tech. rep. . Reliable Software Group, Technical University Vienna, June
+2005.
+
+ Levent Ertoz Paul Dokas et al. Data Mining for Network Intrusion Detec-
+tion. Tech. rep. https://www-users.cs.umn.edu/~kumar001/
+papers/nsf_ngdm_2002.pdf . University of Minnesota, 2002.
+
+ Lian Duan. Density-Based Clustering and Anomaly Detection . Tech. rep.
+https://pdfs.semanticscholar.org/237b/19f1.pdf . Uni-
+versity of Iowa, Feb. 2012.
+
+ Jung-Min Park Animesh Patcha. An overview of anomaly detection tech-
+niques: Existing solutions and latest technological trends . Tech. rep. . Vir-
+ginia Polytechnic Institute and State University, Feb. 2007.
+
+ Frank Apap Salvatore J. Stolfo et al. “A Comparative Evaluation of
+Two Algorithms for Windows Registry Anomaly Detection”. In: Jour-
+nal of Computer Security (Oct. 2005). http://www.gatsby.ucl.ac.
+uk/~heller/CompareEval.pdf .
+
+ Sander Dorigo. Security Information and Event Management . Tech. rep.
+Radboud University Nijmegen, Aug. 2012.
+62BIBLIOGRAPHY 63
+
+ Loai Zomlot Sandeep Bhatt Pratyusa K. Manadhata. “The Operational
+Role of Security Information and Event Management Systems”. In:
+IEEE Computer and Reliability Societies (Oct. 2014). .
+
+ Michael K. Daly. “The Advanced Persistent Threat (or Information-
+ized Force Operations)”. In: LISA’09 (Nov. 2009). http://static.
+usenix.org/event/lisa09/tech/slides/daly.pdf .
+
+ Ned Moran. “Understanding Advanced Persistent Threats”. In: USENIX
+;login: (Aug. 2011). https://www.usenix.org/system/files/
+login/articles/105484-Moran.pdf .
+
+ Dorothy E. Denning. “An Intrusion-Detection Model”. In: IEEE TRANS-
+ACTIONS ON SOFTWARE ENGINEERING (Feb. 1987). .
+
+ Anand Nayyar. “The Best Open Source Network Intrusion Detection
+Tools”. In: OpenSource For U (Apr. 2017). https://opensourceforu.
+com/2017/04/best- open- source- network- intrusion-
+detection-tools/ .
+
+ J. Diaz-Verdejoa P . Garcia-Teodoroa et al. “Anomaly-based network
+intrusion detection: Techniques, systems and challenges”. In: ScienceDi-
+rect(Aug. 2008). .
+
+ Timothy N. Newsham Thomas H. Ptacek. Insertion, Evasion, and Denial
+of Service: Eluding Network Intrusion Detection . Tech. rep. http://cs.
+unc.edu/~fabian/course_papers/PtacekNewsham98.pdf .
+Secure Networks, Inc., Jan. 1998.
+
+ Somesh Jha Mihai Christodorescu. Testing Malware Detectors . Tech. rep.
+http://pages.cs.wisc.edu/~jha/jha-papers/security/
+ISSTA_2004.pdf . University of Wisconsin, July 2004.BIBLIOGRAPHY 64
+
+ Hoon-Jae Lee Jonathan A.P . Marpaung Mangal Sain. Survey on mal-
+ware evasion techniques: state of the art and challenges . Tech. rep. http:
+//www.icact.org/upload/2012/0474/20120474_finalpaper.
+pdf. Dongseo University, Feb. 2012.
+
+ Christos Xenakis Giorgos Poulios Christoforos Ntantogian. “ROPIn-
+jector: Using Return Oriented Programming for Polymorphism and
+Antivirus Evasion”. In: BlackHat USA 2015 (Aug. 2015). https://
+docs.huihoo.com/blackhat/usa-2015/us-15-Xenakis-
+ROPInjector-Using-Return-Oriented-Programming-For-
+Polymorphism-And-Antivirus-Evasion-wp.pdf .
+
+ A. Shulman O. Maor. “SQL Injection Signatures Evasion”. In: Black-
+Hat USA 2015 (Apr. 2004). https://www.imperva.com/docs/
+IMPERVA_HII_SQL-Injection-Signatures-Evasion.pdf .
+
+ Giovanni Vigna Dhilung Kirat. MalGene: Automatic Extraction of Mal-
+ware Analysis Evasion Signature . Tech. rep. http://www.cs.ucsb.
+edu/~vigna/publications/2015_CCS_MalGene.pdf . Univer-
+sity of California, Santa Barbara, Oct. 2015.
+
+ Hiroshi Fujinoki Matthew L. Bringer Christopher A. Chelmecki. “A
+Survey: Recent Advances and Future Trends in Honeypot Research”.
+In:MECS (Sept. 2012). http://www.mecs-press.org/ijcnis/
+ijcnis-v4-n10/IJCNIS-V4-N10-7.pdf .
+
+ Markus Koetter Paul Baecher et al. The Nepenthes Platform: An Efﬁ-
+cient Approach to Collect Malware . Tech. rep. https://www.syssec.
+rub.de/media/emma/veroeffentlichungen/2012/08/07/
+Nepenthes-RAID06.pdf . University of Mannheim, Aug. 2012.
+
+ Lance Spitzner. “The Honeynet Project: Trapping the Hackers”. In:
+IEEE Security & Privacy (Apr. 2003). https://pdfs.semanticscholar.
+org/ec08/56d6.pdf .
+
+ Abakash Saikia Namit Gupta. Web Application Firewall . Tech. rep. . In-
+dian Institute Of Technology, Kanpur, Apr. 2007.
+
+ A Quick Guide to Runtime Application Self-Protection (RASP) . Tech. rep.
+https://cdn2.hubspot.net/hubfs/376484/resources/
+170206_Guide_to_RASP_100.pdf . Prevoty, Inc. HQ, Feb. 2017.
+
+ D. Miller. Security information and event management (SIEM) implemen-
+tation . 2011.
+
+ P .K. Manadhata S. Bhatt et al. “The Operational Role of Security Infor-
+mation and Event Management Systems”. In: IEEE security & Privacy
+(2014). https : / / www . researchgate . net / profile / Loai _
+Zomlot/publication/273394505_The_Operational_Role_
+of_Security_Information_and_Event_Management_Systems/
+links/55aed64e08ae98e661a6f259/The-Operational-Role-
+of-Security-Information-and-Event-Management-Systems.
+pdf.
+
+ C. Kruegel A. Moser et al. Limits of static analysis for malware detection .
+Tech. rep. https://auto.tuwien.ac.at/~chris/research/
+doc/acsac07_limits.pdf . Technical University Vienna, 2007.
+
+ A. Chowdhary A. Alshamrani. “A Survey on Advanced Persistent
+Threats: Techniques, Solutions, Challenges, and Research Opportuni-
+ties”. In: IEEE Communications Surveys & Tutorials (Jan. 2019). https:
+/ / www . researchgate . net / publication / 330269772 _ A _
+Survey_on_Advanced_Persistent_Threats_Techniques_
+Solutions_Challenges_and_Research_Opportunities .
+
+ A. Dehghantanha H. Haddadpajouh et al. “A Deep Recurrent Neu-
+ral Network Based Approach for Internet of Things Malware Threat
+Hunting”. In: Future Generation Computer Systems Volume 85 (Aug. 2018).
+https://www.researchgate.net/publication/323723430_
+A _ Deep _ Recurrent _ Neural _ Network _ Based _ Approach _
+for_Internet_of_Things_Malware_Threat_Hunting .
+
+ Rob Lee Robert M. Lee. The Who, What, Where, When, Why and How of
+Effective Threat Hunting . Tech. rep. www.sans.org/reading-room/
+whitepapers/analyst/who-what-where-when-effective-
+threat-hunting-36785 . SANS Institute, Feb. 2016.
+
+ Paul Löwenadler Theodor Liliengren. Threat hunting, deﬁnition and frame-
+work . Tech. rep. http://www.diva-portal.org/smash/get/
+diva2 : 1205812 / FULLTEXT02 . pdf . Halmstad University, May
+2018.
+
+ W. Robertson C. Kruegel et al. Detecting Kernel-Level Rootkits Through
+Binary Analysis . Tech. rep. http://security.poly.ro/acsac2004.
+pdf. Technical University Vienna, 2004.
+
+ Teodor Sommestad Hannes Holm et al. A quantitative evaluation of vul-
+nerability scanning . Tech. rep. http://www.diva-portal.org/
+smash/get/diva2:545791/FULLTEXT01.pdf . Royal Institute of
+Technology, Stockholm, 2011.
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM). Tech.
+rep.https : / / attack . mitre . org / wiki / Main _ Page . The
+MITRE Corporation, 2017.
+
+ Inc MongoDB. Compound Indexes . Tech. rep. https://docs.mongodb.
+com/manual/core/index-compound/ . Nov. 2020.
+
+ Zhaoshun Wang Aaron Zimba. “Malware-Free Intrusions: Exploita-
+tion of Built-in Pre-Authentication Services for APT Attack Vectors”.
+In:Modern Education and Computer Science (July 2017). www.mecs-
+press.org/ijcnis/ijcnis-v9-n7/IJCNIS-V9-N7-1.pdf .
+
+ AECOM Global Security Operations Center Paul Speulstra. Accessi-
+bility Features . Tech. rep. https://attack.mitre.org/wiki/
+Technique/T1015 . The MITRE Corporation, Jan. 2018.BIBLIOGRAPHY 68
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM), Event
+Triggered Execution: Accessibility Features . Tech. rep. https://attack.
+mitre.org/techniques/T1546/008/ . The MITRE Corporation,
+2020.
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM), Boot
+or Logon Autostart Execution . Tech. rep. https://attack.mitre.
+org/techniques/T1547/ . The MITRE Corporation, 2020.
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM), Cre-
+ate Account: Local Account . Tech. rep. https://attack.mitre.
+org/techniques/T1136/001/ . The MITRE Corporation, 2020.
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM), Boot
+or Logon Autostart Execution: Registry Run Keys / Startup Folder . Tech.
+rep.https://attack.mitre.org/techniques/T1547/001/ .
+The MITRE Corporation, 2021.
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM), Adversary-
+in-the-Middle: LLMNR, NBT-NS Poisoning and SMB Relay . Tech. rep.
+https://attack.mitre.org/techniques/T1557/001/ . The
+MITRE Corporation, 2021.
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM), Ob-
+fuscated Files or Information: Binary Padding . Tech. rep. https://attack.
+mitre.org/techniques/T1027/001/ . The MITRE Corporation,
+2021.
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM), Abuse
+Elevation Control Mechanism: Bypass User Account Control . Tech. rep.
+https://attack.mitre.org/techniques/T1548/002/ . The
+MITRE Corporation, 2021.
+
+ Adversarial Tactics, Techniques & Common Knowledge (ATT&CKTM), Boot
+or Logon Initialization Scripts . Tech. rep. https://attack.mitre.
+org/techniques/T1037/ . The MITRE Corporation, 2021.

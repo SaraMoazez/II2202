@@ -1,0 +1,94 @@
+REFERENCES | 61
+References
+
+ Intel and K. T. Nguyen, “Introduction to cache allocation
+technology in the intel ®xeon®processor e5 v4 family,”
+https://software :intel :com/content/www/us/en/develop/articles/
+introduction-to-cache-allocation-technology :html, 2016. [Pages 1
+and 8.]
+
+ D. M. Harris and S. L. Harris, Digital Design and Computer
+Architecture , 2nd ed. Morgan Kaufmann, 2013. [Pages 6, 7, and 8.]
+
+ Intel, “Quiet noisy neighbor with intel ®resource director technology,”
+https://www.intel.com/content/dam/www/public/us/en/documents/white-
+papers/intel-rdt-infrastructure-paper.pdf. [Pages xv, xvi, 8, 10, 14, 26,
+65, 67, and 72.]
+
+ Intel, “User space software for intel(r) resource director technology,”
+https://github :com/intel/intel-cmt-cat, 2019. [Pages 8, 24, and 56.]
+
+ DB-Engines, “Db-engines ranking of key-value stores,” https://db-
+engines.com/en/ranking/key-value+store. [Page 14.]62 | REFERENCES
+
+ Redis, “Redis,” https://redis.io/. [Page 14.]
+
+ Graph 500 Steering Committee, “Benchmark speciﬁcation | graph500,”
+2017, https://graph500.org/?page_id=12. [Page 14.]
+
+ D. Black, “The case for the graph 500 – really fast or
+really productive? pick one,” The Exascale Report , 2012,
+https://insidehpc.com/2012/03/the-case-for-the-graph-500-really-
+fast-or-really-productive-pick-one/. [Page 14.]
+
+ “Graph500GitHubRepository,”https://github.com/graph500/graph500.
+[Page 15.]
+
+ “STREAMGitHubRepository,”https://github.com/jeﬀhammond/STREAM.
+[Page 18.]
+
+ Intel, “Intel ®xeon®scalable processors,” https://www :intel :com/
+content/www/us/en/products/details/processors/xeon/scalable :html.
+[Page 21.]
+
+ CPU-World, “Intel xeon 8275cl speciﬁcations,” https://www :cpu-
+world :com/CPUs/Xeon/Intel-Xeon%208275CL :html, 2020. [Page 22.]
+
+ WikiChip, “Cascade lake - microarchitectures - intel,” https:
+//en :wikichip :org/wiki/intel/microarchitectures/cascade_lake, 2021.
+[Page 22.]
+
+ N.Jouppi,“Improvingdirect-mappedcacheperformancebytheaddition
+of a small fully-associative cache and prefetch buﬀers,” in 
+ Linuxtopia, “isolcpus scheduler options,” https://www :linuxtopia :org/
+online_books/linux_kernel/kernel_conﬁguration/re46 :html. [Page 23.]REFERENCES | 63
+
+ Intel, Intel®64 and IA-32 Architectures Software Developer’s Manual .
+Intel, 2016, vol. 2 (2A, 2B, 2C & 2D): Instruction Set Reference, A-Z,
+https://www :intel :com/content/dam/www/public/us/en/documents/
+manuals/64-ia-32-architectures-software-developer-instruction-set-
+reference-manual-325383 :pdf. [Page 23.]
+
+ ——, “Pqos manual page,” https://github :com/intel/intel-cmt-cat/blob/
+master/pqos/pqos :8, 2020. [Page 24.]
+
+ Perf Wiki, “perf: Linux proﬁling with performance counters,” 2020,
+https://perf.wiki.kernel.org/index.php/Main_Page. [Page 24.]
+
+ ——, “Linux kernel proﬁling with perf,” 2015,
+https://perf.wiki.kernel.org/index.php/Tutorial. [Page 25.]
+
+ Redis, “How fast is redis?” https://redis.io/topics/benchmarks.
+[Page 28.]
+
+.
+openssl rand -out / dev / shm / test1 -base64 $ ((2**30) )
+$
+Listing A.2: Command used to run bzip2. Based on 
+.
+time bzip2 -c9 < / dev / shm / test1
+ListingA.3: CommandusedtorunSTREAMforthebzip2experiment. Based
+on 
+.
+stream_c . exe > / dev / null &
+Listing A.4: Commands used to run Intel CMT for the bzip2 experiment.
+# Running CMT on CPU core 9 collecting metrics for
+# bzip2 running on core 10.
+# Output is written in CSV format to file .
+taskset -ac 9 sudo pqos -m llc :10 -u csv -o <output
+file > &
+# Running CMT on CPU core 9 collecting metrics
+# for the 13 STREAM processes running on cores
+11 -23.
+taskset -ac 9 sudo pqos -m llc :[11 -23] -u csv -o <
+output file > &

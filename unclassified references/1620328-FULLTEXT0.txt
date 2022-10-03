@@ -1,0 +1,68 @@
+REFERENCES | 65
+References
+
+ I. Marinova, “2021’s Remote Work Statistics (Productivity, Income,
+Trends),” Nov. 2020. [Online]. Available: https://review42.com/
+resources/remote-work-statistics/
+
+ B. Reynolds, “Remote Work Growth Reaches 159% Since 2005:
+FlexJobs & GWA Report,” Jul. 2019. [Online]. Available: https:
+//www.ﬂexjobs.com/blog/post/ﬂexjobs-gwa-report-remote-growth/
+
+ E. Brynjolfsson, J. Horton, A. Ozimek, D. Rock, G. Sharma,
+and H.-Y. TuYe, “COVID-19 and Remote Work: An Early Look
+at US Data,” National Bureau of Economic Research, Cambridge,
+MA, Tech. Rep. w27344, Jun. 2020. [Online]. Available: http:
+//www.nber.org/papers/w27344.pdf
+
+ PricewaterhouseCoopers, “_usBusiness needs a tighter strategy for
+remotework.”[Online].Available: https://www.pwc.com/us/en/library/
+covid-19/us-remote-work-survey.html
+
+ OWLLABS, “State of Remote Work 2020.” [Online]. Available:
+https://resources.owllabs.com/state-of-remote-work/2020
+
+ A. Savina, “Remote Work Statistics & Trends in 2020: A Look Into
+the Future.” [Online]. Available: https://miro.com/guides/remote-work/
+statistics
+
+ A. W. Bartik, Z. B. Cullen, E. L. Glaeser, M. Luca, and C. T.
+Stanton, “What Jobs are Being Done at Home During the Covid-19
+Crisis? Evidence from Firm-Level Surveys,” National Bureau of
+EconomicResearch,Tech.Rep.w27422,Jun.2020.[Online].Available:
+https://www.nber.org/papers/w2742266 | REFERENCES
+
+ Futurice, “Lean Service Creation.” [Online]. Available: https://futurice.
+com/lean-service-creation
+
+ “Lean Service Creation Handbook.” [Online]. Available: https:
+//webmail.oecd-opsi.org/toolkits/lean-service-creation-handbook/
+
+ L. LaBerge, C. O’Toole, J. Schneider, and K. Smaje,
+“COVID-19 digital transformation & technology |
+McKinsey.” [Online]. Available: https://www.mckinsey.com/
+business-functions/strategy-and-corporate-ﬁnance/our-insights/
+how-covid-19-has-pushed-companies-over-the-technology-tipping-point-and-transformed-business-forever#
+
+ A.Baig,B.Hall,P.Jenkins,E.Lamarre,andB.McCarthy,“TheCOVID-
+19 recovery will be digital: A plan for the ﬁrst 90 days,” p. 8.
+
+ D. Council, “What is the framework for innovation?
+Design Council’s evolved Double Diamond,” Mar. 2015.
+[Online]. Available: https://www.designcouncil.org.uk/news-opinion/
+what-framework-innovation-design-councils-evolved-double-diamond
+
+ “The Lean Startup | Methodology.” [Online]. Available: http://
+theleanstartup.com/principles
+
+ J. Ross, “The Role of Observation in User Research,” 2018.
+[Online]. Available: https://www.uxmatters.com/mt/archives/2018/09/
+the-role-of-observation-in-user-research.php
+
+ R. Robinson, “Building a Useful Research Tool: An Origin Story of
+AEIOU,” Feb. 2015. [Online]. Available: https://www.epicpeople.org/
+building-a-useful-research-tool/
+
+ D.Silverman,“QualitativeResearch,Theory,MethodandPractice,”Jan.
+1998.
+

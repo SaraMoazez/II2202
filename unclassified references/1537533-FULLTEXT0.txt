@@ -1,0 +1,41 @@
+Bibliography
+
+Alur, R. and Dill, D.L. 1994. A theory of timed automata. Theoretical
+computer science . Elsevier. 126, 2. 183–235.
+
+Behrmann, G., David, A. and Larsen, K.G. 2004. A tutorial on Uppaal.
+Formal methods for the design of real-time systems: Fourth international
+school on formal methods for the design of computer, communication, and
+software systems . Springer. 200–236.
+
+.
+
+Bengtsson, J. and Yi, W. 2003. Timed automata: Semantics, algorithms
+and tools. Advanced course on petri nets . Springer. 87–124.
+
+Bouyer, P. et al. 2018. Model checking real-time systems. Handbook of
+model checking . Springer. 1001–1046.
+
+Daws, C. et al. 1995. The tool Kronos. Lecture notes in computer science:
+Hybrid systems III, veriﬁcation and control . Springer. 208–219.
+60
+Henzinger, T.A. et al. 1994. Symbolic model checking for real-time
+systems. Cornell University.
+
+Jard, C. and Roux, O.H. 2009. Communicating embedded systems . Wiley.
+
+Lamport, L. 1987. A fast mutual exclusion algorithm. ACM Transactions
+on Computer Systems . ACM. 5, 1. 1–11.
+
+Menghi, C. et al. 2020. Model checking MITL formulae on timed
+automata: A logic-based approach. ACM Transactions on Computational
+Logic. ACM. 21, 3. 1–44.
+
+Nutt, G. and Bayer, D. 1982. Performance of CSMA/CD networks under
+combined voice and data loads. IEEE Transactions on Communications .
+IEEE. 30, 1. 6–11.
+
+Waez, M.T.B., Dingel, J. and Rudie, K. 2013. A survey of timed automata
+for the development of real-time systems. Computer Science Review .
+Elsevier. 9. 1–26.
+61

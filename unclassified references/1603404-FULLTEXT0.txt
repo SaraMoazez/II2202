@@ -1,0 +1,66 @@
+48|REFERENCES
+References
+
+ V. Kaminski, Energy markets . Risk Books, 2012.
+
+ M. Shahidehpour, H. Yamin, and Z. Li, Market operations in electric
+power systems: forecasting, scheduling, and risk management . John
+Wiley & Sons, 2003.
+
+ Nord Pool. (n.d.a) Day-ahead market. [Online]. Available: https:
+//www.nordpoolgroup.com/the-power-market/Day-ahead-market/
+
+ ——. (n.d.b) Intraday market. [Online]. Available: https://www.nordpo
+olgroup.com/the-power-market/Intraday-market/
+
+ S. Dong, H. Li, F. Wallin, A. Avelin, Q. Zhang, and Z. Yu,
+“Volatility of electricity price in denmark and sweden,” Energy
+Procedia, vol. 158, pp. 4331–4337, 2019. [Online]. Available: https:
+//www.sciencedirect.com/science/article/pii/S1876610219308264
+
+ J. Lago, F. De Ridder, and B. De Schutter, “Forecasting spot
+electricity prices: Deep learning approaches and empirical comparison
+oftraditionalalgorithms,” AppliedEnergy ,vol.221,pp.386–405,2018.
+[Online]. Available: https://www.sciencedirect.com/science/article/pii/
+S030626191830196XREFERENCES|49
+
+ Nord Pool. (n.d.c) History. [Online]. Available: https://www.nordpool
+group.com/About-us/History/
+
+ ——. (n.d.d) Bidding areas. [Online]. Available: https://www.nordpool
+group.com/the-power-market/Bidding-areas/
+
+ D. R. Biggar and M. R. Hesamzadeh, The economics of electricity
+markets. John Wiley & Sons, 2014.
+
+ T. M. Mitchell et al., “Machine learning,” 1997.
+
+ S.Marsland, Machinelearning: analgorithmicperspective . CRCpress,
+2015.
+
+ L. Deng and D. Yu, “Deep learning: Methods and applications,”
+Microsoft,Tech.Rep.MSR-TR-2014-21,May2014.[Online].Available:
+https://www.microsoft.com/en-us/research/publication/deep-learning
+-methods-and-applications/
+
+ C. Olah. (2015) Understanding lstm networks. [Online]. Available:
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+ Nord Pool. (n.d.e) Market data. [Online]. Available: https://www.nord
+poolgroup.com/Market-data1/#/nordic/table
+
+ Energimyndigheten, “2019 rekordår för svensk elproduktion.”
+
+ J. Janczura, S. Trück, R. Weron, and R. C. Wolﬀ, “Identifying spikes
+andseasonalcomponentsinelectricityspotpricedata: Aguidetorobust
+modeling,” Energy Economics , vol. 38, pp. 96–110, 2013.
+
+ D. Keles, J. Scelle, F. Paraschiv, and W. Fichtner, “Extended forecast
+methods for day-ahead electricity spot prices applying artiﬁcial neural
+networks,” Applied energy , vol. 162, pp. 218–230, 2016. [Online].
+Available: Extendedforecastmethodsforday-aheadelectricityspotprices
+applyingartiﬁcialneuralnetworks
+
+ Energimyndigheten,“Nationalsurveyreportofpvpowerapplicationsin
+sweden.”
+

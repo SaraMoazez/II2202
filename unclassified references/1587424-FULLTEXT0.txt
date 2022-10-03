@@ -1,0 +1,86 @@
+Bibliography
+
+ Builtin, . “What is Artificial Intelligence? How Does AI Work? | Built In”. In:
+(2020). URL: https://builtin.com/artificial-intelligence .
+
+ “DAIS ­ Distributed Artificial Intelligence Systems”. In: (2021). URL: dais -
+project.eu .
+
+ Davenport, T. and Ronanki, R. “ARTICLE TECHNOLOGY Artificial Intelligence
+for the Real World Don’t start with moon shots”. In: (2018). URL: https://www.
+kungfu.ai/wp-content/uploads/2019/01/R1801H-PDF-ENG.pdf .
+
+ “Domain (Industry) Knowledgebase”. In: (2020). URL: https : / / www .
+technofunc.com/index.php/domain-knowledge-2 .
+
+ Fielding, R. T. “Fielding Dissertation: CHAPTER 5: Representational State
+Transfer (REST)”. In: (2000). URL: https : / / www . ics . uci . edu / ~fielding /
+pubs/dissertation/rest_arch_style.htm .
+
+ Fisher, S. “Introduction to Operating Systems”. In: (1989). URL: http://cis2.
+oc.ctc.edu/oc_apps/Westlund/xbook/xbook.php?unit=01&proc=page&numb=
+2.
+
+ “Goal 10”. In: Department of Economic and Social Affairs. (2020). URL: https:
+//sdgs.un.org/goals/goal10 .
+
+ Google. “AI Demo”. In: (2021). URL: https://cloud.google.com/text- to-
+speech#section-2 .
+
+ “Google Cloud”. In: (). URL: https://cloud.google.com/products/ai .
+
+ “IBM”. In: (). URL: https://cloud.ibm.com/catalog?category=ai#services .
+
+ ibm. “microservices”. In: (2021). URL: https://www.ibm.com/cloud/learn/
+microservices .
+56BIBLIOGRAPHY
+
+ J. Ofoeda R. Boateng, J. Effah. “Application Programming Interface (API)
+Research: A Review of the Past to Inform the Future”. In: 15 (2019). DOI: 10.
+4018 / ijeis . 2019070105 . URL: https : / / www . igi - global . com / article /
+application-programming-interface-api-research/232166 .
+
+ Marsland, Stephen. Machine learning: an algorithmic perspective . CRC press,
+2015.
+
+ microservices. “What are microservices?” In: (2021). URL: https : / /
+microservices.io/ .
+
+ Mohri, Mehryar, Rostamizadeh, Afshin, and Talwalkar, Ameet. Foundations of
+machine learning . MIT press, 2018.
+
+ Moore, A. “When AI Becomes an Everyday Technology”. In: Harvard Business
+Review (2019). URL: https://www.investkl.gov.my/assets/multimediaMS/
+file/H05003-PDF-ENG_FINAL.PDF .
+
+ “MoSCoW prioritization technique”. In: (). URL: https://www.volkerdon.com/
+pages/moscow-prioritisation .
+
+ RapidAPI. “What is RapidAPI?” In: (2020). URL: https : / / docs . rapidapi .
+com/docs/what-is-rapidapi .
+
+ “RapidAPI TrustPilot”. In: (). URL: https : / / www . trustpilot . com / review /
+rapidapi.com .
+
+ Razavian N. Knoll, F. and Geras, K.J. “Artificial Intelligence Explained for
+Nonexperts”. In: Seminars in Musculoskeletal Radiology (2020). URL: https:
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC7393604/ .
+
+ “Research Instrument Examples”. In: Teachers College, Columbia University
+(). URL: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&
+cd=&ved=2ahUKEwiCvpappdnwAhXXFXcKHcpCCnsQFjABegQIAxAD&url=https%3A%
+2F%2Fwww.tc.columbia.edu%2Fmedia%2Fadministration%2Finstitutional-
+review - board - %2Firb - submission --- documents % 2FPublished _ Study -
+Material-Examples.pdf&usg=AOvVaw0vAzP3ae64dItm_3P0W4K4 .
+
+ Samiei, Saba. “On The Danger of Artificial Intelligence”. In: (2019). URL: https:
+/ / openrepository . aut . ac . nz / bitstream / handle / 10292 / 12967 / SamieiS .
+pdf?sequence=4&isAllowed=y .
+58BIBLIOGRAPHY
+
+ tutorialpoint. “HTTP ­ Overview”. In: (2021). URL: https : / / www .
+tutorialspoint.com/http/http_overview.htm .
+
+ w3. “9 Method Definitions”. In: (2016). URL: https://www.w3.org/Protocols/
+rfc2616/rfc2616-sec9.html .
+59

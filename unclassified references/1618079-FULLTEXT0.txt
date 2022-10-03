@@ -1,0 +1,80 @@
+64 | BIBLIOGRAPHY
+Bibliography
+
+ D. Learning, “Deep Learning - Goodfellow,” Nature, 2016.
+
+ J. West, M. Bhattacharya, and R. Islam, “Intelligent ﬁnancial fraud de-
+tection practices: An investigation,” in Lecture Notes of the Institute for
+Computer Sciences, Social-Informatics and Telecommunications Engi-
+neering, LNICST , vol. 153. Springer Verlag, 2015, pp. 186–203.
+
+ S.Hiriyannaiah,A.Srinivas,G.K.Shetty,S.G.M.,andK.Srinivasa,“A
+computationally intelligent agent for detecting fake news using genera-
+tive adversarial networks,” in Hybrid Computational Intelligence . El-
+sevier, jan 2020, pp. 69–96.
+
+ D. Jarrett, E. Stride, K. Vallis, and M. J. Gooding, “Applications and
+limitations of machine learning in radiation oncology,” 2019.
+
+ L. Öström, “Post-processing of Monte Carlo calculated dose distribu-
+tions,” Tech. Rep., 2019. [Online]. Available: www.kth.se/sci
+
+ H.Fornander,“DenoisingMonteCarloDoseCalculationsUsingaDeep
+Neural Network,” 2019.
+
+ P. Metcalfe, G. P. Liney, L. Holloway, A. Walker, M. Barton, G. P.
+Delaney,S.Vinod,andW.Tomé,“Thepotentialforanenhancedrolefor
+MRI in radiation-therapy treatment planning,” pp. 429–446, oct 2013.
+[Online]. Available: /pmc/articles/PMC4527434/?report=abstracthttps:
+//www.ncbi.nlm.nih.gov/pmc/articles/PMC4527434/
+
+ L.Victor,“TheDiﬀerenceBetweenaCollapsedConeBasedandaMonte
+Carlo Based Dose Calculation Algorithm. Master’s thesis, KTH Royal
+Institute of Technology.” 2015.
+
+ T. Salimans, I. Goodfellow, W. Zaremba, V. Cheung, A. Radford, and
+X. Chen, “Improved techniques for training GANs,” in Advances in
+NeuralInformationProcessingSystems ,2016,pp.2234–2242.[Online].
+Available: https://github.com/openai/
+
+ J. Brownlee, “Tips for Training Stable Generative Adversarial Net-
+works,” 2019. [Online]. Available: https://machinelearningmastery.
+com/how-to-train-stable-generative-adversarial-networks/
+
+ “How to Develop a Conditional GAN (cGAN) From Scratch.”
+[Online]. Available: https://machinelearningmastery.com/
+how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
+
+ Q.Li,H.Qu,Z.Liu,N.Zhou,W.Sun,S.Sigg,andJ.Li,“AF-DCGAN:
+Amplitude Feature Deep Convolutional GAN for Fingerprint Construc-
+tion in Indoor Localization Systems,” IEEE Transactions on Emerging
+Topics in Computational Intelligence , pp. 1–13, nov 2019.
+
+ Y. Saatchi and A. G. Wilson, “Bayesian GAN,” in Advances in Neural
+Information Processing Systems , vol. 2017-Decem, 2017, pp. 3623–
+3632. [Online]. Available: https://github.com/andrewgordonwilson/
+bayesgan.BIBLIOGRAPHY | 69
+
+ I. Gulrajani, F. Ahmed, M. Arjovsky, V. Dumoulin, and A. Courville,
+“Improved training of wasserstein GANs,” in Advances in Neural
+Information Processing Systems , vol. 2017-Decem, 2017, pp. 5768–
+5778. [Online]. Available: https://github.com/igul222/improved
+
+ S. Marsland, Machine learning: An algorithmic perspective , second
+edi ed., 2014.
+
+ I.N.YeoandR.A.Johnson,“Anewfamilyofpowertransformationsto
+improve normality or symmetry,” Biometrika , 2000.
+
+ O.Ronneberger,P.Fischer,andT.Brox,“U-net: Convolutionalnetworks
+for biomedical image segmentation,” in Lecture Notes in Computer Sci-
+ence (including subseries Lecture Notes in Artiﬁcial Intelligence and
+LectureNotesinBioinformatics) ,vol.9351. SpringerVerlag,may2015,
+pp. 234–241.
+
+ A. Buetti-Dinh, V. Galli, S. Bellenberg, O. Ilie, M. Herold, S. Christel,
+M.Boretska,I.V.Pivkin,P.Wilmes,W.Sand,M.Vera,andM.Dopson,
+“Deep neural networks outperform human expert’s capacity in charac-
+terizing bioleaching bacterial bioﬁlm composition,” Biotechnology Re-
+ports, vol. 22, p. e00321, jun 2019.
+

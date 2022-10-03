@@ -1,0 +1,8 @@
+Bibliography
+
+ T. Akenine-Möller et al. Real-Time Rendering . 4th ed. Taylor & Francis
+Group, 2018. /i.sc/s.sc/b.sc/n.sc: 9781138627000.
+
+ F. D. Luna. Introduction to 3D Game Programming With DirectX 11 .
+1sted.MercuryLearningandInformation,2012. /i.sc/s.sc/b.sc/n.sc:9781936420223.
+

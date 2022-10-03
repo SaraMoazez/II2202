@@ -1,0 +1,39 @@
+Bibliography
+
+ Richard J Teweles and Edward S Bradley. The stock market . Vol. 64.
+John Wiley & Sons, 1998.
+
+ TreﬁsTeam. NYSE May Be Bigger, But Nasdaq Is Growing Faster .Sept.
+2019. /u.sc/r.sc/l.sc:https://www.nasdaq.com/articles/nyse-
+may- be- bigger- but- nasdaq- is- growing- faster-
+2019-09-17 .
+
+ Steven B Achelis. Technical Analysis from A to Z . 2001.
+
+ ChristopherMBishop. Pattern recognition and machine learning .springer,
+2006.
+
+ Yahoo Finance - Stock Market Live, Quotes, Business & Finance News .
+/u.sc/r.sc/l.sc:https://finance.yahoo.com/ .
+
+ François Chollet et al. Keras.https://keras.io . 2015.Appendix A
+Classiﬁer hyper-parameters
+LSTM Layers LSTM(50 units), Dropout(40 %)
+Optimizer Adam
+Epochs 10
+Loss Binary cross entropy
+Batch size 1
+Stateful True (state was reset after each epoch)
+Random Forest Estimators 30
+Max height None
+Min samples split 2
+Min samples leaf 1
+Max features auto
+Max leaf nodes None
+Criterion Gini
+SVM Gamma auto
+Kernel Polynomial
+Degree 1
+Penalty 1
+Shrinking True
+30

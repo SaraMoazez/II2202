@@ -1,0 +1,125 @@
+86 | REFERENCES
+References
+
+A.Grizhnevich,“IoTarchitecture: buildingblocksandhowtheywork,”
+ScienceSoft , Oct 2020. [Online]. Available: https://www.scnsoft.com/
+blog/iot-architecture-in-a-nutshell-and-how-it-works
+
+“Product page: Mi Home Security Camera 360 °1080P,” Feb
+2021, [Online; accessed 24. Feb. 2021]. [Online]. Available: https:
+//www.mi.com/global/camera-360
+
+“UniFi Protect - Getting started,” Feb 2021, [Online; accessed 24.
+Feb. 2021]. [Online]. Available: https://help.ui.com/hc/en-us/articles/
+360058454253-UniFi-Protect-Getting-started
+
+“Kasa Spot - User Guide,” Feb 2021, [Online; accessed 24.
+Feb. 2021]. [Online]. Available: https://help.ui.com/hc/en-us/articles/
+360058454253-UniFi-Protect-Getting-started
+
+A. Guzman and A. Gupta, IoT Penetration Testing Cookbook: Identify
+vulnerabilities and secure your smart devices . Packt Publishing Ltd,
+2017.
+
+ B. Schneier, “Attack trees,” 1999.
+
+Mi Home Security Camera 360 °1080p User Manual , Xiaomi,
+Room 001A, Floor 11, Block 1, No. 588 Zixing Road, Minhang
+District, Shanghai, China, [Online; accessed 1. Mar. 2021]. [Online].
+Available: http://go.buy.mi.com/uk/servicecenter/ﬁle/Mi_Home_
+Security_Camera_360%C2%B0_1080p_uk?publicationId=20572&
+namespaceId=2&binaryId=12128
+
+A.Shostack, Threatmodeling: Designingforsecurity . JohnWiley&
+Sons, 2014.REFERENCES | 87
+
+“OWASP Internet of Things - Top 10,” OWASP, Tech. Rep., dec
+2018, [Online; accessed 2. Mar. 2021]. [Online]. Available: https:
+//owasp.org/www-pdf-archive/OWASP-IoT-Top-10-2018-ﬁnal.pdf
+
+“OWASPWeb-Top10,” OWASP,Tech.Rep., 2017,[Online;accessed
+23. Apr. 2021]. [Online]. Available: https://owasp.org/www-pdf-archive/
+OWASP_Top_10-2017_%28en%29.pdf.pdf
+
+ P. Cerwall, “Ericsson mobility report,” Ericsson, Tech. Rep., 2017.
+
+“CVE-2017-11632.” Available from MITRE, CVE-ID CVE-2017-
+11632., Feburary 2018. [Online]. Available: http://cve.mitre.org/cgi-bin/
+cvename.cgi?name=CVE-2017-11632
+
+M.StanislavandT.Beardsley,“Hackingiot: Acasestudyonbabymonitor
+exposures and vulnerabilities,” Rapid7 Report , 2015.
+
+B.CusackandZ.Tian,“Evaluatingipsurveillancecameravulnerabilities,”
+2017.
+
+F. Loi, A. Sivanathan, H. H. Gharakheili, A. Radford, and V. Sivaraman,
+“Systematicallyevaluatingsecurityandprivacyforconsumeriotdevices,”
+inProceedings of the 2017 Workshop on Internet of Things Security and
+Privacy, 2017, pp. 1–6.
+
+“Course description for degree project in computer science and
+engineering.” [Online]. Available: https://www.kth.se/student/kurser/
+kurs/DA231X?l=en
+
+S.Cirani,G.Ferrari,M.Picone,andL.Veltri, Internetofthings: archi-
+tectures, protocols and standards . John Wiley & Sons, 2018.
+
+“Google Books Ngram Viewer,” Feb 2021, [Online; accessed
+23. Feb. 2021]. [Online]. Available: https://books.google.com/
+ngrams/graph?content=internet+of+things&year_start=1950&year_
+end=2019&corpus=26&smoothing=0&case_insensitive=true#
+
+G. Weidman, Penetration testing: a hands-on introduction to hacking .
+No Starch Press, 2014.
+
+ A. Gupta, The IoT Hacker’s Handbook . Springer, 2019.
+
+ M. Berner, “Where’s my car? ethical hacking of a smart garage,” 2020.
+
+M.HowardandD.LeBlanc, Writingsecurecode . PearsonEducation,
+2003.
+
+“Threat Modeling jOWASP,” Aug 2020, [Online; accessed 16. Apr.
+2021]. [Online].Available: https://owasp.org/www-community/Threat_
+ModelingREFERENCES | 89
+
+B. W. J.D. Meier, Alex Mackman, “Threat Modeling Web Appli-
+cations,” May 2005, [Online; accessed 16. Apr. 2021]. [Online].
+Available: https://docs.microsoft.com/en-us/previous-versions/msp-n-p/
+ﬀ648006(v=pandp.10)?redirectedfrom=MSDN
+
+L. Kohnfelder and P. Garg, “The threats to our products,” Microsoft
+Interface, Microsoft Corporation , vol. 33, 1999.
+
+B.RussellandD.VanDuren, PracticalInternetofThingsSecurity: De-
+signasecurityframeworkforanInternetconnectedecosystem . Packt
+Publishing Ltd, 2018.
+
+O.-J. Dahl, E. W. Dijkstra, and C. A. R. Hoare, Structured programming .
+Academic Press Ltd., 1972.
+
+L. Osterman, “Threat Modeling Again, STRIDE per Element,”
+Mar 2021, [Online; accessed 1. Mar. 2021]. [Online]. Avail-
+able: https://docs.microsoft.com/en-us/archive/blogs/larryosterman/
+threat-modeling-again-stride-per-element
+
+C.Salter,O.S.Saydjari,B.Schneier,andJ.Wallner,“Towardasecure
+system engineeringmethodolgy,”in Proceedingsofthe1998workshop
+on New security paradigms , 1998, pp. 2–10.
+
+“ATT&CK 101,” May 2018, [Online; accessed 27. May 2021]. [Online].
+Available: https://www.mitre.org/capabilities/cybersecurity/overview/
+cybersecurity-blog/attck-101
+
+A. Shostack, “Experiences threat modeling at microsoft.” MODSEC@
+MoDELS, vol. 2008, 2008.
+
+“Appendix N: SDL Security Bug Bar (Sample),” Feb 2021, [Online;
+accessed17.Feb.2021].[Online].Available: https://docs.microsoft.com/
+en-us/previous-versions/windows/desktop/cc307404(v=msdn.10)
+
+“Probability-impact assessment - Praxis Framework,” Feb 2021,
+[Online; accessed 17. Feb. 2021]. [Online]. Available: https:
+//www.praxisframework.org/en/library/probability-impact-assessment
+

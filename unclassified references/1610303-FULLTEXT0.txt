@@ -1,0 +1,139 @@
+References|119
+References
+
+U.S. Environmental Protection Agency, “Radiation Health Effects |
+Radiation Protection | US EPA,” 2021. [Online]. Available: https:
+//www.epa.gov/radiation/radiation-health-effects [Page1.]
+
+SS-ISO7503-1:2016, “Measurement of radioactivity - Measurement
+and evaluation of surface contamination - Part 1: General principles
+(ISO7503-1:2016, IDT),” International Organization for Standardiza-
+tion, Geneva, CH, Standard, 2016. [Pages 1,3,8,15, and110.]
+
+Nutronic AB, “Förslag på Kandidatexamensarbete: MDA-algoritm för
+golvmonitor,” Dec. 2020. [Page 2.]
+
+ISO11929-1:2019,“Determinationofthecharacteristiclimits(decision
+threshold, detection limit and limits of the coverage interval) for
+measurements of ionizing radiation – Fundamentals and application –
+Part 1: Elementary applications (ISO 11929-1:2019),” International
+OrganizationforStandardization,Geneva,CH,Standard,2019.[Pages 3,
+8,10,15,22,50,51,54,96,107,109, and115.]
+
+Australian Radiation Protection and Nuclear safety Agency,
+“What is ionising radiation?” May 2017, publisher:
+ARPANSA. [Online]. Available: https://www.arpansa.gov.au/
+understanding-radiation/what-is-radiation/ionising-radiation [Page9.]
+
+Australian Radiation Protection and Nuclear safety Agency,
+“Alpha particles,” Apr. 2017, publisher: ARPANSA. [Online].
+Available: https://www.arpansa.gov.au/understanding-radiation/
+what-is-radiation/ionising-radiation/alpha-particles [Page9.]
+
+——, “Beta particles | ARPANSA.” [Online].
+Available: https://www.arpansa.gov.au/understanding-radiation/
+what-is-radiation/ionising-radiation/beta-particles [Page9.]
+
+Australian Radiation Protection and Nuclear safety Agency,
+“Gamma radiation,” Apr. 2017, publisher: ARPANSA. [Online].
+Available: https://www.arpansa.gov.au/understanding-radiation/
+what-is-radiation/ionising-radiation/gamma-radiation [Page9.]
+
+Glenn F. Knoll, Radiation Detection and Measurement - Third Edition .
+John Wiley & Sons, Inc., 2000. [Page 9.]
+
+G. Welch and G. Bishop, “An Introduction to the Kalman Filter,”
+University of North Carolina at Chapel Hill, USA, Tech. Rep., 1995.
+[Page10.]
+
+A. Zimmerman Jones, “What is Velocity in Physics?” section:
+ThoughtCo. [Online]. Available: https://www.thoughtco.com/
+velocity-definition-in-physics-2699021 [Page11.]References|121
+
+Khan Academy, “What is acceleration? (article).” [Online].
+Available: https://www.khanacademy.org/science/physics/
+one-dimensional-motion/acceleration-tutorial/a/acceleration-article
+[Page11.]
+
+“Position, Velocity and Acceleration - Concept - Calculus Video
+by Brightstorm.” [Online]. Available: http://www.brightstorm.
+com/math/calculus/antiderivatives-and-differential-equations/
+position-velocity-and-acceleration/ [Page11.]
+
+VectorNav,“Whatisaninertialmeasurementunit.”[Online].Available:
+https://www.vectornav.com/resources/what-is-an-imu [Page11.]
+
+K. Seifert and O. Camacho, “Implementing Positioning Algorithms
+Using Accelerometers,” Feb. 2007. [Online]. Available: https://www.
+nxp.com/docs/en/application-note/AN3397.pdf [Page12.]
+
+Official U.S. government information about the Global Positioning
+System (GPS) and related topics, “GPS Accuracy.” [Online]. Available:
+https://www.gps.gov/systems/gps/performance/accuracy/ [Page13.]
+
+J. Cruzan, “Velocity.” [Online]. Available: https://xaktly.com/Velocity.
+html[Page13.]
+
+Remi Bergsma, “How accurately can the Raspberry Pi keep time?”
+May2013.[Online].Available: https://blog.remibergsma.com/2013/05/
+12/how-accurately-can-the-raspberry-pi-keep-time/ [Page13.]
+
+”Emmet”, “Using NTP on Linux with Chrony,” Sep. 2020. [Online].
+Available: https://pimylifeup.com/using-ntp-on-linux-with-chrony/
+[Page13.]
+
+I. 11929:2010, “Determination of the characteristic limits(decision
+threshold, detection limit and limits of the confidence interval) for
+measurements of ionizing radiation - Fundamentals and applications
+(ISO11929:2010,IDT),”InternationalOrganizationforStandardization,
+Geneva, CH, Standard, 2010. [Pages 14and15.]
+
+R Nave, “Beta Decay Examples.” [Online]. Available: http:
+//hyperphysics.phy-astr.gsu.edu/hbase/Nuclear/betaex.html [Page21.]
+
+M. Winberg and R. Garcia, “National low-level waste management
+program radionuclide report series, Volume 14: Americium-241,” U.S.
+Department of Energy, Tech. Rep. DOE/LLW–130, 130651, Sep. 1995.
+[Online].Available: http://www.osti.gov/servlets/purl/130651-Emf2PS/
+webviewable/ [Page21.]
+
+Sola, “Folding Rules.” [Online]. Available: https://www.sola.at/en/
+competences/folding-rule [Pages31and35.]References|123
+
+Amaork, “amaork/libi2c,” May 2021, original-date: 2014-06-
+12T09:00:27Z. [Online]. Available: https://github.com/amaork/libi2c
+[Pagesxv,34,36, and125.]
+
+Andreas Engfeldt, “RG 2000 – a comprehensive overview on the
+new gravity reference frame of Sweden,” 2019. [Online]. Available:
+https://www.lantmateriet.se/sv/Kartor-och-geografisk-information/
+gps-geodesi-och-swepos/Referenssystem/Tyngdkraftssystem/rg-2000/
+[Pages39and67.]
+
+Physical Measurement Laboratory of NIST, “Standard Uncertainty and
+Relative Standard Uncertainty.” [Online]. Available: https://physics.
+nist.gov/cgi-bin/cuu/Info/Constants/definitions.html [Page51.]
+
+ISO11929-4:2020,“Determinationofthecharacteristiclimits(decision
+threshold, detection limit and limits of the coverage interval) for
+measurements of ionizing radiation – Fundamentals and application
+– Part 4: Guidelines to applications (ISO 11929-4:2020, IDT),”
+International Organization for Standardization, Geneva, CH, Standard,
+2020. [Pages 55,96, and107.]
+
+Justine Haupt, “RoboWheel Hub Motor for Robotics.” [Online].
+Available: https://skysedge.com/robotics/robowheel170/index.html
+[Page65.]
+
+Bosch Sensortec GmbH, “BNO055 Absolute
+Orientation Sensor with Raspberry Pi & BeagleBone
+Black.” [Online]. Available: https://learn.adafruit.com/
+bno055-absolute-orientation-sensor-with-raspberry-pi-and-beaglebone-black/
+hardware [Page76.]
+
+I. T. M. B. groups, “Uncertainty of measurement — Part 3: Guide
+to the expression of uncertainty in measurement,” International
+Organization for Standardization, Geneva, CH, Standard, Oct. 2008,
+english version corrected November 2010. [Online]. Available: https:
+//www.iso.org/standard/50461.html [Pages109and117.]
+

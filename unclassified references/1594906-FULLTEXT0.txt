@@ -1,0 +1,34 @@
+Bibliography
+
+ Hanley, James A. “Receiver operating characteristic (ROC) curves”. In: Wiley
+StatsRef: Statistics Reference Online (2014).
+
+ Jiang, Liangxiao, Wang, Shasha, Li, Chaoqun, and Zhang, Lungan. “Structure
+extended multinomial naive Bayes”. In: Information Sciences 329 (2016),
+pp. 346–356.
+
+ Kaggle. League of Legends Diamond Ranked Games (10 Min) . 2020. URL:
+http : / / www . kaggle . com / bobbyscience / league - of - legends - diamond -
+ranked-games-10-min/metadata (visited on 2021).
+
+ Kramer, Oliver. “Scikit­learn”. In: Machine learning for evolution strategies .
+Springer, 2016, pp. 45–53.
+
+ McCallum, Andrew, Nigam, Kamal, et al. “A comparison of event models for
+naive bayes text classification”. In: AAAI­98 workshop on learning for text
+categorization . Vol. 752. 1. Citeseer. 1998, pp. 41–48.
+
+ Oliphant, Travis E. A guide to NumPy . Vol. 1. Trelgol Publishing USA, 2006.
+
+ Ontivero­Ortega, Marlis, Lage­Castellanos, Agustin, Valente, Giancarlo, Goebel,
+Rainer, and Valdes­Sosa, Mitchell. “Fast Gaussian Naı￿ve Bayes for searchlight
+classification analysis”. In: Neuroimage 163 (2017), pp. 471–479.
+
+ Rish, Irina et al. “An empirical study of the naive Bayes classifier”. In: IJCAI
+2001 workshop on empirical methods in artificial intelligence . Vol. 3. 22. 2001,
+pp. 41–46.
+
+ Tosi, Sandro. Matplotlib for Python developers . Packt Publishing Ltd, 2009.
+
+ Wright, Raymond E. “Logistic regression.” In: (1995).
+30

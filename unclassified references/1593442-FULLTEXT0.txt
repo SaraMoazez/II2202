@@ -1,0 +1,50 @@
+Bibliography
+
+ A. Coates, “Deep learning for speech recognition,” Available at
+youtube.com/watch?v=g-sndkf7mCs (2020/02/11), Bay Area DL Sum-
+mer School, September 2016.
+
+ X.ZhuandX.Wu,“Classnoisevs.attributenoise: Aquantitativestudy,”
+Artif. Intell. Rev. , vol. 22, pp. 177–210, 11 2004.
+
+ X.Zhu,X.Wu,andQ.Chen,“Eliminatingclassnoiseinlargedatasets,”
+2003.
+
+ Q. Zhao and T. Nishida, “Using qualitative hypotheses to identify
+inaccuratedata,” CoRR,vol.abs/cs/9508101,1995.[Online].Available:
+http://arxiv.org/abs/cs/9508101
+
+ G. H. John, “Robust decision trees: Removing outliers from databases,”
+1995.
+30BIBLIOGRAPHY 31
+
+ D. Gamberger, N. Lavrac, and S. Džeroski, “Noise detection and elimi-
+nationindataproprocessing: Experimentsinmedicaldomains.” Applied
+Artiﬁcial Intelligence , vol. 14, pp. 205–223, 02 2000.
+
+ P. Schafer, “The boss is concerned with time series classiﬁcation in the
+presence of noise,” 2015.
+
+ G. James, D. Witten, T. Hastie, and R. Tibshirani, An Introduction to
+StatisticalLearning: withApplicationsinR . Springer,2013.[Online].
+Available: https://faculty.marshall.usc.edu/gareth-james/ISL/
+
+ J.Quinlan,“Learningfromnoisydata,”in Proc.oftheInternationalMachine
+Learning Workshop . Citeseer, 1983, pp. 58–64.
+
+ D.Nettleton,A.Orriols-Puig,andA.Fornells,“Astudyoftheeﬀectofdiﬀer-
+ent types of noise on the precision of supervised learning techniques,” 2010.
+
+ I. Guyon, “Design of experiments for the nips 2003 variable selection bench-
+mark,” 2003.
+
+ A. Arcuri and G. Fraser, “Parameter tuning or default values? an empirical
+investigation in search-based software engineering,” Empirical Software En-
+gineering , vol. 18, 06 2013.
+
+ J.KesanandR.Shah,“Settingsoftwaredefaults: Perspectivesfromlaw,com-
+puterscienceandbehavioraleconomics,” TheNotreDamelawreview ,vol.82,
+06 2006.
+
+ D. Dua and C. Graﬀ, “UCI machine learning repository,” 2017. [Online].
+Available: http://archive.ics.uci.edu/ml

@@ -1,0 +1,38 @@
+References
+
+ J. Salter, ”Sourcegraph: Devs are managing 100x more code now
+than they did in 2010”, Ars Technica, 2021. [Online]. Available:
+h t t p s : / / a r s t e c h n i c a . c o m / g a d g e t s / 2 0 2 0 / 1 0 / s o u r c e g r a p h - d e v s - a r e - m a n
+aging-100x-more-code-now-than-they-did-in-2010/ [Accessed: 08­ Jan­ 2021].
+
+ Synopsys Team, ”What is the secure software development life cy­
+cle (SDLC)?”, Software Integrity Blog, 2020. [Online]. Available:
+https://www.synopsys.com/blogs/software- security/secure- sdlc/ [Ac­
+cessed: 12­ Feb­ 2021].
+
+ A. Buttner, ”Using Automated Static Analysis Tools for Code Re­
+views”, The MITRE Corporation, 2013. [Online]. Available: h t t p s :
+/ / w w w . m i t r e . o r g / c a p a b i l i t i e s / c y b e r s e c u r i t y / o v e r v i e w / c y b e r s e c u r i t
+52y-blog/using-automated-static-analysis-tools-for . [Accessed: 25­ Feb­ 2021]
+
+ M. Goodrich and R. Tamassia, Introduction to Computer Security: Pear­
+son New International Edition. Harlow: Pearson Education Limited, chapter
+1 page 2, 2014. 
+ J. Jones, “Abstract Syntax Tree Implementation Idioms,” Pattern
+Languages of Program Design, 2003. [Online]. Available: h t t p s :
+/ / h i l l s i d e . n e t / p l o p / p l o p 2 0 0 3 / P a p e r s / J o n e s - I m p l e m e n t i n g A S T s . p df .
+[Accessed: 12­ Mar­ 2021].
+
+ ”github/codeql”, GitHub. [Online]. Available: h t t p s : / / g i t h u b . c o m / g i t
+hub/codeql/tree/main/javascript/ql/src/Security [Accessed: 20­ Apr­ 2021].
+
+ ”appsecco/dvna”, GitHub. [Online]. Available: h t t p s : / / g i t h u b . c o m / a p p
+55secco/dvna [Accessed: 06­ Apr­ 2021].
+
+ ”OWASP/NodeGoat”, GitHub. [Online]. Available: h t t p s : / / g i t h u b . c o m
+/OWASP/NodeGoat [Accessed: 10­ Apr­ 2021].
+
+ ”Abstract syntax tree ­ Wikipedia”, En.wikipedia.org. [Online]. Available:
+h t t p s : / / e n . w i k i p e d i a . o r g / w i k i / A b s t r a c t _ s y n t a x_ t r e e# / m e d i a / F i le :
+Abstract_syntax_tree_for_Euclidean_algorithm.svg [Accessed: 20­ Feb­ 2021].
+

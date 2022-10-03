@@ -1,0 +1,54 @@
+Bibliography
+
+ Ian Goodfellow, YoshuaBengio, and AaronCourville. Deep Learning .
+http://www.deeplearningbook.org . MIT Press, 2016.
+7576 BIBLIOGRAPHY
+
+Nicolas Goix. “Machine learning and extremes for anomaly detection”.
+PhD thesis. Paris, ENST, 2016.
+
+Yong Gyu Jung, Min Soo Kang, and Jun Heo. “Clustering performance
+comparison using K-means and expectation maximization algorithms”.
+In:Biotechnology & Biotechnological Equipment 28.sup1 (2014), S44–
+S48.
+
+KA Abdul Nazeer and MP Sebastian. “Improving the Accuracy and
+Eﬃciency of the k-means Clustering Algorithm”. In: Proceedings of
+the world congress on engineering . Vol. 1. Association of Engineers
+London. 2009, pp. 1–3.
+
+ChristopherMBishop. Patternrecognitionandmachinelearning .springer,
+2006.
+
+Usama Fayyad, Paul S Bradley, and Cory Reina. Scalable system for ex-
+pectationmaximizationclusteringoflargedatabases .USPatent6,263,337.
+July 2001.BIBLIOGRAPHY 77
+
+CarlDoersch. TutorialonVariationalAutoencoders .2021.arXiv: 1606.
+05908 [stat.ML] .
+
+AndreaAspertiandMatteoTrentin.“Balancingreconstructionerrorand
+Kullback-Leibler divergence in Variational Autoencoders”. In: IEEE
+Access8 (2020), pp. 199440–199448.
+
+ClintonGormleyandZacharyTong. Elasticsearch:TheDeﬁnitiveGuide .
+1st. O’Reilly Media, Inc., 2015. /i.sc/s.sc/b.sc/n.sc: 1449358543.
+
+David Guthrie et al. “A closer look at skip-gram modelling.” In: LREC.
+Vol. 6. Citeseer. 2006, pp. 1222–1225.
+
+Shunjie Han, Cao Qubo, and Han Meng. “Parameter selection in SVM
+withRBFkernelfunction”.In: WorldAutomationCongress2012 .IEEE.
+2012, pp. 1–4.BIBLIOGRAPHY 79
+
+KatherineBennettEnsorandPeterWGlynn.“Stochasticoptimization
+via grid search”. In: Lectures in Applied Mathematics-American Mathe-
+matical Society 33 (1997), pp. 89–100.
+
+Sarang Narkhede. “Understanding auc-roc curve”. In: Towards Data
+Science26 (2018), pp. 220–227.
+
+DavidLDaviesandDonaldWBouldin.“Aclusterseparationmeasure”.
+In:IEEE transactions on pattern analysis and machine intelligence 2
+(1979), pp. 224–227.
+

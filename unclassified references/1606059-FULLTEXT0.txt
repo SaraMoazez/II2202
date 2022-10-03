@@ -1,0 +1,132 @@
+REFERENCES|31
+References
+
+ N. Alliance, “Ngmn 5g white paper,” Tech. Rep., 2015. [Online].
+Available: https://web.archive.org/web/20210310084817/https://www.
+ngmn.org/wp-content/uploads/NGMN_5G_White_Paper_V1_0.pdf
+
+ OmniSci. What is 5g infrsastructure? [Online]. Available: https:
+//www.omnisci.com/technical-glossary/5g-infrastructure
+
+ J. Spaleta. (2019, August) How kubernetes works. [Online]. Available:
+https://sensu.io/blog/how-kubernetes-works
+
+ Sdxcentral. What is network functions virtualization. [Online].
+Available: https://www.sdxcentral.com/networking/nfv/deﬁnitions/
+whats-network-functions-virtualization-nfv
+
+ ETSI. Multi-access edge computing. [Online]. Available: https:
+//www.etsi.org/technologies/multi-access-edge-computing
+
+ A. Rao, “Choosing a vnf lifecycle management solution:
+Key challenges and crucial considerations for csps,”
+Analysys Mason, Tech. Rep., June 2017. [Online].
+Available: https://web.archive.org/web/20210304130429/https:
+//www.accantosystems.com/~accantosystems/wp-content/uploads/
+2018/05/Analysys-Mason-Whitepaper.pdf
+
+ The Kubernetes Authors, Kubernetes Documentation: Eviction
+Policy, September 2020. [Online]. Available: https://kubernetes.io/
+docs/concepts/scheduling-eviction/eviction-policy/
+
+ ETSI NFV IFA. (2021, February) Details of dgr/nfv-ifa042 work item.
+[Online]. Available: https://web.archive.org/web/20210306101145/
+https://portal.etsi.org/webapp/WorkProgram/Report_WorkItem.asp?
+WKI_ID=59529
+
+ J. Triay. (2021, January) Etsi nfv release 3: update
+on protocols and data model speciﬁcation outcomes.
+[Online]. Available: https://www.etsi.org/newsroom/blogs/entry/
+etsi-nfv-release-3-update-on-protocols-and-data-model-speciﬁcation-outcomes
+
+ The Kubernetes Authors, Kubernetes Documentation: Container
+Runtimes, March 2021. [Online]. Available: https://kubernetes.io/docs/
+setup/production-environment/container-runtimes/
+
+ J. L. Hardcastle, “Ericsson uses intel 10nm
+tech for 5g base station products,” SDxCentral.
+[Online]. Available: https://www.sdxcentral.com/articles/news/
+ericsson-uses-intel-10nm-tech-for-5g-base-station-products/2019/02/
+
+ F. Giust, G. Verin, K. Antevski, J. Chou, Y. Fang, W. Featherstone,
+F. Fontes, D. Frydman, A. Li, A. Manzalini, D. Purkayastha,
+D. Sabella, C. Wehner, K. Wen, and Z. Zhou, “Mec deployments
+in 4g and evolution towards 5g,” ETSI, 06921 Sophia Antipolis
+CEDEX, France, Tech. Rep. etsi-wp-24, February 2018. [Online].
+Available: https://www.etsi.org/images/ﬁles/ETSIWhitePapers/etsi_
+wp24_MEC_deployment_in_4G_5G_FINAL.pdf
+
+ The Kubernetes Authors, Kubernetes Documentation: Device Plugins,
+January 2021. [Online]. Available: https://kubernetes.io/docs/concepts/
+extend-kubernetes/compute-storage-net/device-plugins/
+
+ (2020, December) Open source mano release nine fulﬁls etsi’s
+zero-touch automation vision, ready for mec and o-ran use cases.
+[Online]. Available: https://www.etsi.org/newsroom/press-releases/
+1863-2020-12-open-source-mano-release-nine-fulﬁls-etsi-s-zero-touch-automation-vision-ready-for-mec-and-o-ran-use-cases
+
+ Nokia. Cloud operations manager; features and beneﬁts.
+[Online]. Available: https://www.nokia.com/networks/products/
+cloud-operations-manager/#features-and-beneﬁts
+
+ The GSMA, “Considerations, best practices and requirements
+for a virtualised mobile network,” Tech. Rep. [Online].
+Available: https://www.gsma.com/futurenetworks/wp-content/uploads/
+2017/05/Virtualisation.pdf
+
+ Säkerhetspolisen. (2020, October) Säkert 5g viktigt för sverige.
+[Online]. Available: https://www.sakerhetspolisen.se/ovrigt/pressrum/
+aktuellt/aktuellt/2020-10-20-sakert-5g-viktigt-for-sverige.html
+
+ L. Mercl and J. Pavlik, “The comparison of container orchestrators,”
+022018.[Online].Available: https://www.researchgate.net/publication/
+323417485_The_Comparison_of_Container_Orchestrators
+
+ B. Chatras. (2018, February) The foundations for
+nfv-mano interoperability have been set. [Online].
+Available: https://www.etsi.org/newsroom/blogs/entry/
+the-foundations-for-nfv-mano-interoperability-have-been-setFor DIVA
+{
+"Author1": {
+"Last name": "Lex-Hammarskjöld",
+"First name": "Justin",
+"E-mail": "jtlex@kth.se",
+},
+"Degree": {"Educational program": "Bachelor’s Programme in Information and Communication Technology"},
+"Title": {
+"Main title": "An analysis of 5G orchestration",
+"Subtitle": "Deﬁning the role of software orchestrators in 5G
+networks, and building a method to compare
+implementations of 5G orchestrators",
+"Language": "eng" },
+"Alternative title": {
+"Main title": "En analys av 5G orkestrering",
+"Subtitle": "Hur orkestreringsprogramvaror används i
+5G nätverk, och ett sätt att jämföra varianter av
+orkestreringsprogramvaror.",
+"Language": "swe"
+},
+"Supervisor1": {
+"Last name": "Marsh",
+"First name": "Ian",
+"E-mail": "ian.marsh@ri.se",
+"Other organisation": "RISE AB"}
+},
+"Supervisor2": {
+"Last name": "Paladi",
+"First name": "Nicolae",
+"E-mail": "nicolae.paladi@ri.se",
+"Other organisation": "RISE AB"}
+},
+"Examiner1": {
+"Last name": "Montelius",
+"First name": "Johan",36|REFERENCES
+"E-mail": "johanmon@kth.se",
+"organisation": {"L1": "School of Electrical
+Engineering and Computer Science ",
+}
+},
+"Cooperation": { "Partner_name": "RISE AB"},
+"Other information": {
+"Year": "2021", "Number of pages": "viii,??"}
+}

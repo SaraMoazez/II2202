@@ -1,0 +1,24 @@
+REFERENCES | 77
+References
+
+ S. C. Ho, W. Szeto, Y.-H. Kuo, J. M. Leung, M. Petering, and T. W.
+Tou, “A survey of dial-a-ride problems: Literature review and recent
+developments,” Transportation Research Part B: Methodological , vol.
+111, pp. 395–421, 2018.
+
+ T. Gschwind and M. Drexl, “Adaptive large neighborhood search with
+a constant-time feasibility test for the dial-a-ride problem,” Gutenberg
+SchoolofManagementandEconomics,JohannesGutenberg-Universität
+Mainz, Tech. Rep., 2016.
+
+ D.PisingerandS.Ropke,“Largeneighborhoodsearch,”in Handbookof
+metaheuristics . Springer, 2010, pp. 399–419.
+
+ M. A. Masmoudi, K. Braekers, M. Masmoudi, and A. Dammak, “A
+hybrid genetic algorithm for the heterogeneous dial-a-ride problem,”
+Computers & operations research , vol. 81, pp. 1–13, 2017.
+
+ K. Braekers, A. Caris, and G. K. Janssens, “Exact and meta-heuristic
+approach for a general heterogeneous dial-a-ride problem with multiple
+depots,”Transportation Research Part B: Methodological , vol. 67, pp.
+166–186, 2014.

@@ -1,0 +1,43 @@
+REFERENCES | 63
+References
+
+ Oracle Corporation, “ConcurrentSkipListSet (Java Platform
+SE 8),” Jul 2021, last accessed on 2021-08-11.
+[Online]. A vailable: https://docs.oracle.com/javase/8/docs/api/java/util/
+concurrent/ConcurrentSkipListSet.html [Page 40.]
+
+ M. Spiegel, Cache-conscious concurrent data structures . University of
+Virginia, 2011. [Page 40.]
+
+ Oracle Corporation, “ConcurrentHashMap.KeySetView (Java
+Platform SE 8),” Jul 2021, last accessed on 2021-08-11.
+[Online]. A vailable: https://docs.oracle.com/javase/8/docs/api/java/util/
+concurrent/ConcurrentHashMap.KeySetView.html [Pages 40 and 53.]
+
+ ——, “ConcurrentHashMap (Java Platform SE 8),”
+Jul 2021, last accessed on 2021-08-11. [Online].
+A vailable: https://docs.oracle.com/javase/8/docs/api/java/util/
+concurrent/ConcurrentHashMap.html [Page 40.]
+
+. The original algorithm was designed by
+Heller et al. [ 5].
+Listing A.1: Lazy List Source Code
+1 public class Node {
+2 public final int key;
+3 public volatile Node next;
+4 public volatile boolean marked;
+5 private final Lock lock;
+6
+7 public Node( final int key) {
+8 this .key = key;
+9 this .lock = new ReentrantLock();
+10 marked = false ;
+11 }
+12
+13 public void lock() {
+14 this .lock.lock();
+15 }
+16
+17 public void unlock() {
+18 this .lock.unlock();
+19 }

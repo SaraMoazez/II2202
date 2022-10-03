@@ -1,0 +1,62 @@
+References | 43
+References
+
+ A. Troestler and H. P . Lee, “The adaptation and standardization
+on websites of international companies : Analysis and comparison
+from websites of United States, Germany and T aiwan,” Ph.D.
+dissertation, Linköping University, 2007. [Online]. A vailable: http:
+//urn.kb.se/resolve ?urn=urn:nbn:se:liu:diva-9801 [Page 1.]
+
+ “Document Object Model (DOM),” Dec. 2021. [Online]. A vailable:
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Objec
+t_Model [Pages 2and 5.]
+
+ “XPath,” Jan. 2022. [Online]. A vailable: https://developer.mozilla.org/
+en-US/docs/Web/XPath [Page 6.]
+
+ “Introducing JSON.” [Online]. A vailable: https://json.org/json-en.html
+[Page 6.]
+
+ “What is Deep Learning?” May 2020. [Online]. A vailable: https:
+//www.ibm.com/cloud/learn/deep-learning [Page 7.]
+
+ A. V aswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N.
+Gomez, ￿. Kaiser, and I. Polosukhin, “ Attention is All you Need,” in
+Advances in Neural Information Processing Systems , I. Guyon, U. V .
+Luxburg, S. Bengio, H. W allach, R. Fergus, S. Vishwanathan, and
+R. Garnett, Eds., vol. 30. Curran Associates, Inc., 2017. [Online].
+A vailable: https://proceedings.neurips.cc/paper/2017/file/3f5ee243547
+dee91fbd053c1c4a845aa-Paper.pdf [Page 10.]References | 45
+
+ P . Kilpeläinen, “Tree matching problems with applications to structured
+text databases,” Ph.D dissertation, University of Helsinki, Department
+of Computer Science, Helsinki, Finland, Nov . 1992. [Page 12.]
+
+ N. Kushmerick, D. S. Weld, and R. B. Doorenbos, “Wrapper Induction
+for Information Extraction,” in IJCAI , 1997. [Page 12.]46 | References
+
+ I. Muslea and others, “Extraction patterns for information extraction
+tasks: A survey,” in The AAAI-99 workshop on machine learning for
+information extraction , vol. 2. Orlando Florida, 1999, issue: 2.
+[Page 13.]
+
+ “ A WS Deep Learning AMIs.” [Online]. A vailable: https://aws.amazon
+.com/machine-learning/amis/ [Page 23.]
+
+ “ Amazon EC2 G4 Instances.” [Online]. A vailable: https://aws.amazon
+.com/ec2/instance-types/g4/ [Page 23.]
+
+ “Pytorch.” [Online]. A vailable: https://pytorch.org/ [Page 27.]
+
+ “Transformers.” [Online]. A vailable: https://huggingface.co/transform
+ers [Page 27.]
+
+ “pickle — Python object serialization,” Apr. 2022. [Online]. A vailable:
+https://docs.python.org/3/library/pickle.html [Page 27.]
+
+ “The AI community building the future.” [Online]. A vailable: https:
+//huggingface.co/ [Page 29.]
+
+ “Cloud TPU.” [Online]. A vailable: https://cloud.google.com/tpu/
+[Page 36.]
+

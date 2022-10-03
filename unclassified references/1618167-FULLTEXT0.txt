@@ -1,0 +1,88 @@
+REFERENCES|55
+References
+
+ A. Dertat, “Applied deep learning - part 3: Autoencoders,”
+2017. [Online]. Available: https://towardsdatascience.com/
+applied-deep-learning-part-3-autoencoders-1c083af4d798#f686
+
+ S. Paul, ““reparameterization” trick in variational autoencoders,”
+2020. [Online]. Available: https://towardsdatascience.com/
+reparameterization-trick-126062cfd3c356|REFERENCES
+
+ A. Z. M. H. C. Kuhlins, B. Rathonyi, “Cellular networks for massive
+iot,” Tech. Rep. Uen 284 23-3278, January 2020. [Online]. Available:
+https://www.ericsson.com/en/reports-and-papers/white-papers/
+cellular-networks-for-massive-iot--enabling-low-power-wide-area-applications
+
+ F.R.C.H.D.P.M.A.R.F.Moreno-Cruz,V.T.López,“Useoflow-cost
+printed sensors with rf energy harvesting for iot,” April 2019.
+
+ E. O. I. G.-Z. A. Perallos, U Hernandez-Jayo, Intelligent Transport
+Systems. John Wiley Sons, 2016.
+
+ I. Vision, “Framework and overall objectives of the future development
+of imt for 2020 and beyond,” International Telecommunication Union
+(ITU), Document, Radiocommunication Study Groups , 2015.
+
+ “How enterprises can exploit the exposure capabilities of
+private 5g network,” https://www.ericsson.com/en/blog/2020/7/
+private-5g-network-capabilities-enterprise, accessed: 2021-03-09.
+
+ G. K. Qing He, György Dán, “Semi-persistent scheduling for 5g
+downlink based on short-term traﬃc prediction,” Proc. of IEEE
+GlobeCom , December 2020.
+
+ F. S. D. Dardari, E. Falletti, Satelite and Terrestrial Radio Positioning
+Techniques . Elsevier Ltd., 2012.REFERENCES|57
+
+ 3GPP, “Study on 3d channel model for lte,” Tech. Rep., December
+2017. [Online]. Available: https://portal.3gpp.org/desktopmodules/
+Speciﬁcations/SpeciﬁcationDetails.aspx?speciﬁcationId=2574
+
+ 3GPP, “Technical speciﬁcation group radio access network;spatial
+channel model for multiple input multiple output (mimo) simulations,”
+Tech. Rep., September 2014.
+
+ I.Goodfellow,Y.Bengio,andA.Courville, DeepLearning . MITPress,
+2016, http://www.deeplearningbook.org.
+
+ G. E. Hinton and R. S. Zemel, “Autoencoders, minimum description
+length, and helmholtz free energy,” Advances in neural information
+processing systems , vol. 6, pp. 3–10, 1994.
+
+ D.P.KingmaandM.Welling,“Auto-encodingvariationalbayes,”2014.
+
+ D. J. Rezende, S. Mohamed, and D. Wierstra, “Stochastic
+backpropagationandapproximateinferenceindeepgenerativemodels,”
+2014.
+
+ L. Theis, A. van den Oord, and M. Bethge, “A note on the evaluation of
+generative models,” 2016.
+
+ I. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley,
+S. Ozair, A. C. Courville, and Y. Bengio, “Generative adversarial nets,”
+inNIPS, 2014.
+
+ M.LeeandJ.Seok,“Controllablegenerativeadversarialnetwork,”2019.
+
+ https://www.tensorﬂow.org/.
+
+ https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html.
+
+ https://www.tensorﬂow.org/api_docs/python/tf/nn/sigmoid_cross_
+entropy_with_logits.
+
+ https://www.tensorﬂow.org/tutorials/generative/cvae.REFERENCES|59
+
+ I. Gulrajani, K. Kumar, F. Ahmed, A. A. Taiga, F. Visin, D. Vazquez,
+andA.Courville,“Pixelvae: Alatentvariablemodelfornaturalimages,”
+2016.
+
+ D. P. Kingma, T. Salimans, R. Jozefowicz, X. Chen, I. Sutskever, and
+M.Welling,“Improvedvariationalinferencewithinverseautoregressive
+ﬂow,” 2016. [Online]. Available: https://proceedings.neurips.cc/paper/
+2016/ﬁle/ddeebdeefdb7e7e7a697e1c3e3d8ef54-Paper.pdf
+
+ X.Chen,D.P.Kingma,T.Salimans,Y.Duan,P.Dhariwal,J.Schulman,
+I. Sutskever, and P. Abbeel, “Variational lossy autoencoder,” 2017.
+

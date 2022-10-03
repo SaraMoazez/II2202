@@ -1,0 +1,48 @@
+References
+
+ H. V. Vliet, Software Engineering: Principles and Practice . John Wiley and Sons Ltd,
+Jul. 2008, 740 pp., isbn: 0470031468 (cit. on p. 6).
+
+ P. Ammann and J. Outt, Introduction to Software Testing . Cambridge University
+Press, Jan. 2008, 322 pp., isbn: 9780521880381 (cit. on p. 6).
+
+ S. McCaskill. (Dec. 3, 2020). \Ericsson says a billion people will have access to 5g by
+end of 2020," TechRadar, [Online]. Available: https://www.techradar.com/news/
+ericsson-says-a-billion-people-will-have-access-to-5g-by-end-of-2020
+(visited on 2021-05-14) (cit. on p. 6).
+
+ Common test user's guide , Erlang. [Online]. Available: http://erlang.org/doc/
+apps/common_test/users_guide.html (visited on 2021-04-29) (cit. on pp. 6, 19).
+
+ Common test hooks , Erlang. [Online]. Available: http://erlang.org/doc/apps/
+common_test/ct_hooks_chapter.html (visited on 2021-04-29) (cit. on p. 6).
+
+ TestNG. [Online]. Available: http://testng.org/ (visited on 2021-05-22) (cit. on
+pp. 6, 19).
+
+ JUnit. [Online]. Available: https://junit.org/junit5/ (visited on 2021-05-22) (cit.
+on p. 6).
+
+ R. Walker and R. Cottrell, \Pragmatic software reuse: A view from the trenches,"
+Tech. Rep. 2016-1088-07, Sep. 2016, p. 17. [Online]. Available: https://doi.org/10.
+11575/PRISM/31120 (cit. on p. 7).
+
+ P. Isberg and T. Akerlund, \Researching integration of ART test cases into JCAT,"
+M alardalen University, V aster as, 2013. [Online]. Available: http : / / urn . kb . se /
+resolve?urn=urn:nbn:se:mdh:diva-19227 (cit. on p. 7).
+
+ T. C. Lethbridge, S. E. Sim, and J. Singer, \Studying software engineers: Data col-
+lection techniques for software eld studies," Empirical Software Engineering , vol. 10,
+pp. 311{341, 3 Jun. 2005, issn: 1573-7616. [Online]. Available: https://doi.org/10.
+1007/s10664-005-1290-x (cit. on p. 10).
+
+ R. E. Creps, M. A. Simos, and D. R. Prieto-Diaz, \The STARS conceptual framework
+for reuse processes," In Proceedings of the Fifth Annual Workshop on Software Reuse,
+Tech. Rep., Nov. 1992, p. 14 (cit. on p. 13).
+
+ P. Clements and L. Northrop, Software Product Lines: Practices and Patterns , 3rd ed.
+Addison-Wesley Professional, Aug. 2001, 608 pp., isbn: 978-0201703320 (cit. on p. 14).
+
+ N. M. Josuttis, SOA in practice , 1st ed. O'Reilly, Aug. 2007, 315 pp., isbn: 978-0-596-
+52955-0 (cit. on p. 15).
+30

@@ -1,0 +1,94 @@
+REFERENCES|61
+References
+
+ K. Pohl, G. Böckle, and F. J. van Der Linden, Software product line
+engineering: foundations,principlesandtechniques . SpringerScience
+& Business Media, 2005, pp. 4–18.
+
+ Ericsson. (2021) Home page. Last accessed 6 April 2021. [Online].
+Available: https://www.ericsson.com/en
+
+ ——. (2021) Discover the power of 5G. Last accessed 1 March 2021.
+[Online]. Available: https://www.ericsson.com/en/5g
+
+ S.Apel,D.Batory,C.Kästner,andS.Gunter, Feature-OrientedSoftware
+ProductLines: ConceptsandImplementation . Springer,2013,pp.17–
+42.
+
+ U. Nations. (2021) The 17 goals. Last accessed 24 June 2021. [Online].
+Available: https://sdgs.un.org/goals
+
+ P.AmmannandJ.Oﬀutt, IntroductiontoSoftwareTesting . Cambridge
+University Press, 2017, pp. 27–36.
+
+ K. Pohl, G. Böckle, and F. J. van Der Linden, Software product line
+engineering: foundations,principlesandtechniques . SpringerScience
+& Business Media, 2005, pp. 257–284.
+
+ R.D.CraigandS.P.Jaskiel, Systematicsoftwaretesting . Artechhouse,
+2002, pp. 200–214.
+
+ J. D. McGregor, “Testing a software product line,” in Pernambuco
+Summer School on Software Engineering . Springer, 2007, pp. 104–
+140.
+
+ P.AmmannandJ.Oﬀutt, IntroductiontoSoftwareTesting . Cambridge
+University Press, 2017, pp. 71–74.
+
+ ——, Introduction to Software Testing . Cambridge University Press,
+2017, pp. 53–55.
+
+ A.Roman, TestingTechniques . SpringerInternationalPublishing,2018,
+p. 273.
+
+ P.C.Jorgensen, SoftwareTesting: ACraftsman’sApproach . Auerbach
+Publications, 2013.
+
+ D. Astels, Test driven development: A practical guide . Prentice Hall
+Professional Technical Reference, 2003.
+
+ P.AmmannandJ.Oﬀutt, IntroductiontoSoftwareTesting . Cambridge
+University Press, 2017, pp. 398–402.
+
+ “jMock,” URL: http://jmock.org/, last accessed 6 April 2021.
+
+ “GoogleTest,”URL:https://google.github.io/googletest/,lastaccessed6
+April 2021.REFERENCES|63
+
+ J. Zander, I. Schieferdecker, and P. J. Mosterman, “A Taxonomy of
+Model-Based Testing for Embedded Systems from Multiple Industry
+Domains,” in Model-based testing for embedded systems . CRC press,
+2012, pp. 3–17.
+
+ T.KäköläandJ.C.Dueñas, SoftwareProductLines: ResearchIssuesin
+Engineering and Management . Springer, 2006.
+
+ K. Pohl, G. Böckle, and F. J. van Der Linden, Software product line
+engineering: foundations,principlesandtechniques . SpringerScience
+& Business Media, 2005, pp. 51–70, 150–154.
+
+ K. Pohl, G. Böckle, and F. J. van Der Linden, Software product line
+engineering: foundations,principlesandtechniques . SpringerScience
+& Business Media, 2005, pp. 356–370.
+
+ R.Garcia-Dias,S.Vieira,W.H.L.Pinaya,andA.Mechelli,“Clustering
+analysis,” in Machine Learning . Elsevier, 2020, pp. 227–247.
+
+ B.Everitt,S.Landau,M.Leese,andD.Stahl, Clusteranalysis . Wiley,
+2011.
+
+ C. Nebut, Y. Le Traon, and J.-M. Jézéquel, “System testing of product
+lines: From requirements to test cases,” in Software Product Lines .
+Springer, 2006, pp. 447–477.
+
+ “Code2Vec,” URL: https://github.com/tech-srl/code2vec, last accessed
+28 April 2021.
+
+ “HDBSCAN,” URL: https://hdbscan.readthedocs.io/en/latest/how_
+hdbscan_works.html, last accessed 28 April 2021.
+
+ P. Anselmo da Mota Silveira Neto, I. do Carmo Mechado,
+J.D.McGregor,E.SantanadeAlmeida,andS.RomerodeLemosMeira,
+“A systematic mapping study of software product lines testing,” in
+Information and Software Technology , 2011, pp. 407–423.
+

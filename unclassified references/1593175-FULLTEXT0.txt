@@ -1,0 +1,58 @@
+Bibliography
+
+ Östling M and Lilja J. “A comparison of machine learning algorithms
+forautomaticclassiﬁcationofneuronsbytheirmorphology”.In:(2018).
+
+ Tim Jarsky et al. “Conditional dendritic spike propagation following
+distalsynapticactivationofhippocampalCA1pyramidalneurons”.In:
+Nature neuroscience 8 (Jan. 2006), pp. 1667–76. /d.sc/o.sc/i.sc:10 . 1038 /
+nn1599.
+
+Morphology ./u.sc/r.sc/l.sc:https://www.merriam- webster.com/
+dictionary/morphology .
+
+ EricKandeletal. PrinciplesofNeuralScience,FifthEdition .eng.Black-
+lick: McGraw-Hill Publishing, 2012. /i.sc/s.sc/b.sc/n.sc: 9780071390118.
+
+ Sun-ChongWang. InterdisciplinaryComputinginJavaProgramming .
+eng.1sted.2003..TheSpringerInternationalSeriesinEngineeringand
+Computer Science, 743. 2003, pp. 81–100. /i.sc/s.sc/b.sc/n.sc: 1-4615-0377-9.
+
+ IanGoodfellow,YoshuaBengio,andAaronCourville. DeepLearning .
+http://www.deeplearningbook.org . MIT Press, 2016.
+
+ Michael A. Nielsen. Neural Networks and Deep Learning .http://
+neuralnetworksanddeeplearning.com/ .DeterminationPress,
+2015.
+
+ GiuseppeBonaccorso. MachineLearningAlgorithms-SecondEdition .
+eng. Packt Publishing, 2018. /i.sc/s.sc/b.sc/n.sc: 1789347998.
+
+ S.Gunn.“SupportVectorMachinesforClassiﬁcationandRegression”.
+In: 1998.
+
+ Emilia Zawadzka-Gosk, Krzysztof Wołk, and Wojciech Czarnowski.
+“DeepLearninginState-of-the-ArtImageClassiﬁcationExceeding99%
+Accuracy”. In: New Knowledge in Information Systems and Technolo-
+gies. Ed.by ÁlvaroRocha etal. Cham:Springer International Publish-
+ing, 2019, pp. 946–957. /i.sc/s.sc/b.sc/n.sc: 978-3-030-16181-1.
+
+learn./u.sc/r.sc/l.sc:https://scikit-learn.org/stable/ .
+
+Tensorﬂow ./u.sc/r.sc/l.sc:https://www.tensorflow.org/ .
+
+ /u.sc/r.sc/l.sc:http://neuromorpho.org/ .
+
+ D. Masko and P. Hensman. “The Impact of Imbalanced Training Data
+for Convolutional Neural Networks”. In: (2015).
+
+sklearn.model_selection.GridSearchCV ./u.sc/r.sc/l.sc:https://scikit-
+learn.org/stable/modules/generated/sklearn.model%
+5C_selection.GridSearchCV.html .
+
+ StephenMarsland. MachineLearning:AnAlgorithmicPerspective,Sec-
+ond Edition . eng. Chapman & Hall/CRC machine learning & pattern
+recognitionseries.BosaRoca:CRCPressLLC,2014. /i.sc/s.sc/b.sc/n.sc:1466583282.Appendix A
+Source Code
+https://github.com/matweds/CellTypeClassification
+32

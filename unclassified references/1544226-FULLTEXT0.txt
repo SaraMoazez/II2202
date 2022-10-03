@@ -1,0 +1,24 @@
+Bibliography
+
+ IlliasDimoulkas.“MediumandLong-termProbabilisticHeatDemand
+Forecasting in District Heating - Use of Temperature Scenarios”. In:
+EurpHeat&Power . 15 vols. EuroHeat&Power. 2018.
+
+ Christopher M. Bishop. Pattern recognition and machine learning . In-
+formation science and statistics. New York: Springer, 2006. 738 pp.
+/i.sc/s.sc/b.sc/n.sc: 978-0-387-31073-2.
+
+ Ralf Klinkenberg. Meta-Learning, Model Selection, and Example Se-
+lection in Machine Learning Domains with Concept Drift . 2005.
+
+ Spyridon Provatas. “An Online Machine Learning Algorithm for Heat
+LoadForecastinginDistrictHeatingSystems”.In: FacultyofComput-
+ing Blekinge Institute of Technology (Apr. 2014), p. 34.
+
+ Max Kuhn and Kjell Johnson. Applied Predictive Modeling . 1st ed.
+2013, Corr. 2nd printing 2018 edition. New York: Springer, May 17,
+2013. /i.sc/s.sc/b.sc/n.sc: 978-1-4614-6848-6.BIBLIOGRAPHY 73
+
+ W. J. Conover. Practical nonparametric statistics . 3rd ed. Wiley series
+in probability and statistics. Applied probability and statistics section.
+New York: Wiley, 1999. 584 pp. /i.sc/s.sc/b.sc/n.sc: 978-0-471-16068-7.

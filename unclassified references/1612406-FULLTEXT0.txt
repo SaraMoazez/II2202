@@ -1,0 +1,150 @@
+REFERENCES|67
+References
+
+ AnuHelenaSuomienandJariJussila.“SenseofVirtualCommunityin
+Wikipedia Online Community for Technology-Enhanced Learning in
+Higher Education.” In: Research and Innovation Forum 2020 (2021),
+pp. 233–246.
+
+ Kim Salazar. Scenario Mapping for Design Exploration . Nielsen Nor-
+man Group. 2019. /u.sc/r.sc/l.sc: https://www.nngroup.com/videos/scenario-
+mapping/.
+
+ Kate Moran. Design Thinking: Study Guide . Nielsen Norman Group.
+2021. /u.sc/r.sc/l.sc: https://www.nngroup.com/articles/design-thinking-study-
+guide/.
+
+ Mats Engwall et al. Modern industriell ekonomi : särtryck . Upplaga 1.
+Lund: Studentlitteratur, 2020. /i.sc/s.sc/b.sc/n.sc: 9789144141220.
+
+TheDeﬁnitionofUserExperience(UX) .NielsenNormanGroup. /u.sc/r.sc/l.sc:
+https://www.interaction-design.org/literature/topics/ux-design.
+
+ DonNorman. TheDesignofEverydayThings .NewYork:BasicBooks,
+2013.
+
+ Donald Norman. “Aﬀordance, Convemtion, and Design.” In: IX Inter-
+actions3 (May 1999), pp. 38–43.
+
+ Jakob Nielsen. Usability engineering . [New ed.] Boston: AP Profes-
+sional, 1993. /i.sc/s.sc/b.sc/n.sc: 9780125184069.
+
+ Jakob Nielsen. Powers of 10: Time Scales in User Experience . Nielsen
+NormanGroup.2009. /u.sc/r.sc/l.sc:https://www.nngroup.com/articles/powers-
+of-10-time-scales-in-ux/.
+
+ Jakob Nielsen. Short-Term Memory and Web Usability . Nielsen Nor-
+manGroup.2009. /u.sc/r.sc/l.sc:https://www.nngroup.com/articles/short-term-
+memory-and-web-usability/.
+
+ “The UX Design Process: Everything You Need to Know.” In: (2020).
+/u.sc/r.sc/l.sc: https://xd.adobe.com/ideas/guides/ux-design-process-steps/.
+
+ “What Is a Mockup?” In: (2020). /u.sc/r.sc/l.sc: https://design.tutsplus.com/
+tutorials/what-is-a-mockup--cms-32231.
+
+ JakobNielsen. 10UsabilityHeuristicsforUserInterfaceDesign .Nielsen
+Norman Group. 2020. /u.sc/r.sc/l.sc: https://www.nngroup.com/articles/ten-
+usability-heuristics/.
+
+ Jakob Nielsen. User Interface Design Fails . Nielsen Norman Group.
+2020. /u.sc/r.sc/l.sc: https://www.nngroup.com/videos/ui-design-fails/.
+
+ Folkhälsomyndigheten. “Psykisk ohälsa bland högskole- och univer-
+sitetsstudenterkanförebyggas.”In:(2018). /u.sc/r.sc/l.sc:https://www.folkhalsomyndigheten.
+se/publicerat-material/publikationsarkiv/p/psykisk-ohalsa-bland-
+hogskole--och-universitetsstudenter-kan-forebyggas/?.
+
+ Erica Finnerman. “Eurostudent V: En kort inblick i situationen förstu-
+denter med funktionsnedsättning.” In: (2015). /u.sc/r.sc/l.sc: https://www.uhr.
+se/globalassets/_uhr.se/lika-mojligheter/eurostudent/eurostudentv-
+funk-150624.pdf.
+
+ Stefan Johansson. “Svenskarna medfunktionsnedsättning och internet:
+Hur personer med olika funktionsnedsättningar använder internet.” In:
+()./u.sc/r.sc/l.sc:https://internetstiftelsen.se/docs/svenskarna-med-funktionsnedsattning-
+och-internet-smfoi-2017-huvudrapport.pdf.
+
+ “DesigningforDyslexia.”In:(2017). /u.sc/r.sc/l.sc:https://uxplanet.org/designing-
+for-dyslexia-6d12e8c41cd7.
+
+ RobertE.CunningsandMattBarton. WikiWriting:CollaborativeLearn-
+ingintheCollegeClassroom .UniversityofMichiganPress,2008. /u.sc/r.sc/l.sc:
+http://www.jstor.org/stable/j.ctv65sx6q.
+
+ Alexander Nordh. “God man i ﬁckan: Involving people with cognitive
+impairmentsinparticipatorydesignactivities.”RoyalInstituteoftech-
+nology (KTH), 2020.
+
+ Julian Sybella Nansamba. “A frame of user interface design require-
+ments for usability and improved consumer behaviors in social com-
+merce.” Jönköping University, 2020.
+
+ RaimoStreefkerk. Inductivevs.deductivereasoning .Scribbr.2019. /u.sc/r.sc/l.sc:
+https://www.scribbr.com/methodology/inductive-deductive-reasoning/
+#:~:text=Inductive%5C%20reasoning%5C%20moves%5C%20from%
+5C%20speciﬁc,reasoning%5C%20the%5C%20other%5C%20way%
+5C%20around.
+
+Anintroductiontoresearchmethods .Scribbr. /u.sc/r.sc/l.sc:https://www.scribbr.
+com/category/methodology/.REFERENCES|73
+
+ Raimo Streefkerk. Qualitative vs.quantitative reserach . Scribbr.2019.
+/u.sc/r.sc/l.sc: https://www.scribbr.com/methodology/qualitative-quantitative-
+research/.
+
+ John W. Creswell and Vicki L. Plano Clark. Designing and conduct-
+ing mixed methods research . SAGE Publications, 2007. /u.sc/r.sc/l.sc: https://
+searchworks.stanford.edu/view/6721278.
+
+ Shona McCombes. How to do survey research . Scribbr. 2019. /u.sc/r.sc/l.sc:
+https://www.scribbr.com/methodology/survey-research/.
+
+ Stefan Johansson. “Design for Participation and Inclusion will Follow.
+DisabledPeopleandtheDigitalSociety.”RoyalInstituteofTechnology
+(KTH), 2019.
+
+Ethnographic Research: Types, Methods . formplus. /u.sc/r.sc/l.sc: https://www.
+formpl.us/blog/ethnographic-research.
+
+ Shona McCombes. How to do a case study . Scribbr. 2019. /u.sc/r.sc/l.sc: https:
+//www.scribbr.com/methodology/case-study/.
+
+ RobertK.Yin. Designingandconductingmixedmethodsresearch .SAGE
+Publications, 2003. /u.sc/r.sc/l.sc: https://iwansuharyanto.ﬁles.wordpress.com/
+2013/04/robert_k-_yin_case_study_research_design_and_mebookﬁ-
+org.pdf.
+
+ RolfJohansson.“Casestudymethodology.”In:MethodologiesinHous-
+ing Research (Stockholm, Sweden, Sept. 22–24, 2003). 2003.
+
+ Ruaridh Currie. UX Testing for the Masses: Keep it Simple and Cost-
+eﬀective. Designers. /u.sc/r.sc/l.sc: https://www.toptal.com/designers/ux/ux-
+testing-for-the-masses.
+
+Remote Testing . usability.gov. /u.sc/r.sc/l.sc: https://www.usability.gov/how-to-
+and-tools/methods/remote-testing.html.
+
+ ShonaMcCombes. Howtowriteahypothesis .Scribbr.2019. /u.sc/r.sc/l.sc:https:
+//www.scribbr.com/research-process/hypotheses/.
+
+ VirginiaBraun,VictoriaClarke,andPaulWeate.“Usingthematicanal-
+ysisinsportandexerciseresearch.”In: Routledgehandbookofqualita-
+tive research in sport and exercise . Ed. by Brett Smith and Andrew C.
+Sparkes. London: Routledge., 2016. Chap. 15, pp. 191–205.
+
+ Jacl Caulﬁeld. How to do thematic analysis . Scribbr. 2019. /u.sc/r.sc/l.sc: https:
+//www.scribbr.com/methodology/thematic-analysis/.
+
+ RomanKamushken. Forthose10companiesFigmawasastartingpoint
+to new heights . Prototypr.io. 2020. /u.sc/r.sc/l.sc: https://blog.prototypr.io/for-
+those-10-companies-ﬁgma-was-a-starting-point-to-new-heights-
+611db7ee3b2b.
+
+ Mariya Videva. Using Figma for User Experience Design . codecoda.
+2020. /u.sc/r.sc/l.sc: https://codecoda.com/en/blog/entry/using-ﬁgma-for-user-
+experience-design.
+
+ UniversityofGlasgow. Ethicsapplicationprocedure. UniversityofGlas-
+gow. 2002. /u.sc/r.sc/l.sc: https://www.gla.ac.uk/colleges/arts/research/ethics/
+ethicsapplicationprocedures/.

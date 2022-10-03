@@ -1,0 +1,127 @@
+REFERENCES | 35
+References
+
+ O. I. des Constructeurs d’Automobiles, “Passengers cars world vehicles
+in use,” 2015.
+
+ List of countries by vehicles per capita. [Online]. Available: https:
+//en.wikipedia.org/wiki/List_of_countries_by_vehicles_per_capita
+
+ U. Nations, “68% of the world population projected
+to live in urban areas by 2050, says un.” [Online].
+Available: https://www.un.org/development/desa/en/news/population/
+2018-revision-of-world-urbanization-prospects.html
+
+ S.Shaheen,D.Sperling,andC.Wagner,“Carsharingineuropeandnorth
+american: past, present, and future,” 1998.
+
+ S. Shaheen and A. Cohen, “Innovative mobility: Carsharing outlook
+carsharing market overview, analysis, and trends.” 2020.
+
+ C. Rydén and E. Morin, “Mobility services for urban sustainability:
+Environmental assessment,” Moses Report WP6, Trivector Traﬃc AB,
+Stockholm, Sweden , 2005.
+
+ G. Seeger and M. Bick, “Mega and consumer trends-towards car-
+independent mobile applications.” in ICMB, 2013, p. 27.
+
+ T. Ericsson and M. Nilqvist, “A personalized car: A study on how to
+apply personalization to a driver environment,” 2006.
+
+ D. J. Wheatley, “Beyond the desktop: and into your vehicle,” in CHI’00
+ExtendedAbstractsonHumanFactorsinComputingSystems ,2000,pp.
+43–44.
+
+ Carplay. [Online]. Available: https://www.apple.com/ios/carplay/
+
+ Android auto. [Online]. Available: https://www.android.com/auto/
+
+ accenture, “Mobility as a service,” 2018. [Online]. Available: https:
+//www.accenture.com/us-en/insight-mobility-automotive-ecosystem
+
+ Volvo, “Volvo car group.” [Online]. Available: https://group.volvocars.
+com/company
+
+ R.E.Boyatzis, Transformingqualitativeinformation: Thematicanalysis
+and code development . sage, 1998.
+
+ S. Harms and B. Truﬀer, “The emergence of a nation-wide carsharing
+co-operativeinswitzerland,” Acase-studyfortheEC-supportedrsearch
+project “Strategic Niche Management as a tool for transition to a
+sustainable transport system”, EAWAG: Zürich , 1998.
+
+ H. Becker, F. Ciari, and K. W. Axhausen, “Comparing car-sharing
+schemesinswitzerland: Usergroupsandusagepatterns,” Transportation
+Research Part A-policy and Practice , vol. 97, pp. 17–29, 2017.
+
+ Frost&Sullivan, “Future of carsharing market to 2025,” 2016.
+[Online]. Available: http://www.frost.com/sublib/display-report.do?
+id=MB4D-01-00-00-00
+
+ Share now. [Online]. Available: https://www.share-now.com
+
+ M. Prieto, G. Baltas, and V. Stan, “Car sharing adoption intention
+in urban areas: what are the key sociodemographic drivers?”
+TransportationResearchPartA:PolicyandPractice ,vol.101,pp.218–
+227, 2017.
+
+ M. Chalmers and I. MacColl, “Seamful and seamless design in
+ubiquitous computing,” in Workshop at the crossroads: The interaction
+of HCI and systems issues in UbiComp , vol. 8, 2003.
+
+ I.Tashev,M.Seltzer,Y.-C.Ju,Y.-Y.Wang,andA.Acero,“Commuteux:
+Voice enabled in-car infotainment system,” 2009.REFERENCES | 39
+
+ N. Hataoka, M. Araki, T. Matsuda, M. Takahashi, R. Ohtaki, and
+Y.Obuchi,“Evaluationofinterfaceandin-carspeech-manyundesirable
+utterancesandsevernoisyspeechoncarnavigationapplication,”in 2008
+IEEE 10th Workshop on Multimedia Signal Processing . IEEE, 2008,
+pp. 956–959.
+
+ M.Schneider-Hufschmidt,U.Malinowski,andT.Kuhme, Adaptiveuser
+interfaces: Principles and practice . Elsevier Science Inc., 1993.
+
+ J. Blom, “Personalization: a taxonomy,” in CHI’00 extended abstracts
+on Human factors in computing systems , 2000, pp. 313–314.
+
+ J. Grossklags and A. Acquisti, “When 25 cents is too much: An
+experiment on willingness-to-sell and willingness-to-protect personal
+information.” in WEIS, 2007.
+
+ J. Sutanto, E. Palme, C.-H. Tan, and C. W. Phang, “Addressing the
+personalization-privacy paradox: an empirical assessment from a ﬁeld
+experimentonsmartphoneusers,” MISquarterly ,pp.1141–1164,2013.
+
+ J. Letchner, J. Krumm, and E. Horvitz, “Trip router with individualized
+preferences(trip): Incorporatingpersonalizationintorouteplanning,”in
+AAAI, 2006, pp. 1795–1800.
+
+ J.I.Árnason,J.Jepsen,A.Koudal,M.R.Schmidt,andS.Seraﬁn,“Volvo
+intelligent news: A context aware multi modal proactive recommender
+systemforin-vehicleuse,” PervasiveandMobileComputing ,vol.14,pp.
+95–111, 2014.
+
+ F.D.Davis,“Atechnologyacceptancemodelforempiricallytestingnew
+end-user information systems: Theory and results,” Ph.D. dissertation,
+Massachusetts Institute of Technology, 1985.
+
+ ——,“Perceivedusefulness,perceivedeaseofuse,anduseracceptance
+of information technology,” MIS quarterly , pp. 319–340, 1989.
+
+ X. Guo, X. Zhang, and Y. Sun, “The privacy–personalization paradox
+in mhealth services acceptance of diﬀerent age groups,” Electronic
+Commerce Research and Applications , vol. 16, pp. 55–65, 2016.
+
+ J.Spradley,“Theethnographicinterviewholtreinhartandwinston,” New
+York, 1979.
+
+ Oﬃcial page of framer. [Online]. Available: https://framer.com
+
+ J. Nielsen, “Guerrilla hci: Using discount usability engineering to
+penetrate the intimidation barrier,” Cost-justifying usability , pp. 245–
+272, 1994.
+
+ B. Friedman, P. H. Kahn, J. Hagman, R. L. Severson, and B. Gill, The
+Watcher and the Watched: Social Judgments About Privacy in a Public
+Place. Springer London, 2009.
+

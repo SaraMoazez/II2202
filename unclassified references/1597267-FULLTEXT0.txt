@@ -1,0 +1,8 @@
+Bibliography
+
+ Guillaume Maurice Jean-Bernard Chaslot Chaslot. Monte-carlo tree
+search. Maastricht University, 2010.
+
+ James Edmond Clune III. “Heuristic Evaluation Functions for General
+Game Playing”. PhD thesis. University of California, 2008.
+

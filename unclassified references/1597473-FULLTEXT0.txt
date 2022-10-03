@@ -1,0 +1,27 @@
+Bibliography
+
+ David N Dreman. Contrarian investment strategies: The next genera-
+tion. New York, NY: Free Press, 2008.
+
+ Jack D Schwager. A complete guide to the futures market: Technical
+analysis, trading systems, fundamental analysis, options, spreads, and
+trading principles .en.2nded.Nashville,TN:JohnWiley&Sons,2017.
+
+ AvraamTsantekidisetal.“Forecastingstockpricesfromthelimitorder
+book using convolutional neural networks”. In: 2017 IEEE 19th Con-
+ference on Business Informatics (CBI) . IEEE, 2017.
+
+ Hongyang Yang et al. “Deep Reinforcement Learning for Automated
+Stock Trading: An Ensemble Strategy”. en. Nov. 2020.
+
+ JonathanBerkandPeterDeMarzo. Corporate Finance, Global Edition .
+5th ed. London, England: Pearson Education, 2019.
+
+ Trading days New York stock exchange 2020-2022 . en. Tech. rep.
+
+ Richard S Sutton and Andrew G Barto. Reinforcement Learning: An
+Introduction . 2nd ed. Cambridge, MA: Bradford Books, 2018.
+
+ Rainer Andreas Jager. “Evaluation and Potential Improvements of a
+Deep Reinforcement Learning Model for Automated Stock Trading”.
+en. Feb. 2021.

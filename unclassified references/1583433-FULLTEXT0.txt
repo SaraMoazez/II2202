@@ -1,0 +1,19 @@
+REFERENCES | 59
+References
+
+ M. Ekstedt, S. Hacks, R. Lagerström, P. Mukherjee, and Z. Afzal,
+“Yetanothercybersecurityriskassessmentframework,”2021,submitted
+manuscript.
+
+ N. Friman, “Security analysis of smart buildings,” Bachelor’s Thesis, Royal
+Institute of Technology, KTH:s publikationsdatabas DiVA, 2020.
+
+ L. Wessman and N. Wessman, “Threat modeling of large scale computer
+systems: Implementing and evaluating threat modeling at company x,”
+Bachelor’s Thesis, Royal Institute of Technology, KTH:s publikationsdatabas
+DiVA, 2020.
+
+ C. Weigelt, “A process for threat modeling of large-scale computer systems:
+A case study,” Bachelor’s Thesis, Royal Institute of Technology, KTH:s
+publikationsdatabas DiVA, 2020.
+

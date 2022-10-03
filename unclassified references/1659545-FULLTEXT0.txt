@@ -1,0 +1,43 @@
+70 | References
+References
+
+ “1x1 lego block,” https://www.lego.com/en-us/product/
+lego-storage-brick-1-yellow-5004898, accessed: October 2021.
+
+ T. Amada, M. Imura, Y. Yasumuro, Y. Manabe, and K. Chihara,
+“Particle-based ﬂuid simulation on gpu,” in ACM workshop on general-
+purpose computing on graphics processors , vol. 41. Citeseer, 2004,
+p. 42.
+
+ R.Bridson, Fluidsimulationforcomputergraphics . CRCpress,2015.
+
+ N.ChentanezandM.Müller,“Real-timeeulerianwatersimulationusing
+arestrictedtallcellgrid,”in ACMSiggraph2011Papers ,2011,pp.1–10.
+
+ christopherbatty, “SDFGen,” https://github.com/christopherbatty/
+SDFGen, 2015.
+
+ B. O. Community, Blender - a 3D modelling and rendering package ,
+Blender Foundation, Stichting Blender Foundation, Amsterdam, 2018.
+[Online]. Available: http://www.blender.org
+
+ M. Desbrun and M.-P. Gascuel, “Smoothed particles: A new paradigm
+for animating highly deformable bodies,” in Computer Animation and
+Simulation’96 . Springer, 1996, pp. 61–76.
+
+ F. H. Harlow, “The particle-in-cell method for numerical solution of
+problemsinﬂuiddynamics,”LosAlamosScientiﬁcLab.,N.Mex.,Tech.
+Rep., 1962.
+
+ rlguy, “FLIPViscosity3D,” https://github.com/rlguy/FLIPViscosity3D,
+2018.
+
+ F. Salomonsson, “Pic/ﬂip ﬂuid simulation using block-optimized grid
+data structure,” 2011.
+
+ J.R.Shewchuk etal.,“Anintroductiontotheconjugategradientmethod
+without the agonizing pain,” 1994.
+
+ “The Stanford 3D Scanning Repository,” http://graphics.stanford.edu/
+data/3Dscanrep/.
+

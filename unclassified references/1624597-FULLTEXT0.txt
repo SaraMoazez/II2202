@@ -1,0 +1,34 @@
+86|REFERENCES
+References
+
+ K.Juvva.Real-timesystems.[Online].Available: https://users.ece.cmu.
+edu/~koopman/des_s99/real_time/
+
+ B.Lisper,“SWEET–atoolforWCETﬂowanalysis(extendedabstract),”
+pp.482–485.[Online].Available: http://urn.kb.se/resolve?urn=urn:nbn:
+se:mdh:diva-26836
+
+ J. Gustafsson, “Analyzing execution-time of object-oriented programs
+using abstract interpretation.”
+
+ C. Berg, J. Engblom, and R. Wilhelm, “Requirements for and design of
+a processor with predictable timing.”
+
+ L. Thiele and R. Wilhelm, “Design for time-predictability.”
+
+ C.Cullmann,C.Ferdinand,G.Gebhard,D.Grund,C.Maiza,J.Reineke,
+B. Triquet, and R. Wilhelm, “Predictability considerations in the design
+of multi-core embedded systems,” pp. 36–42.
+
+ K. Goossens, M. Koedam, A. Nelson, S. Sinha, S. Goossens, Y. Li,
+G. Breaban, R. Kampenhout, R. Tavakoli, J. Valencia, H. Balef,
+B.Akesson,S.Stuijk,M.Geilen,D.Goswami,andM.Nabi,“NoC-based
+multiprocessor architecture for mixed-time-criticality applications,” pp.
+1–40.
+
+ R. B. Sørensen, “Time-predictable communication on
+a time-division multiplexing network-on-chip multicore,”
+publisher: Technical University of Denmark.
+[Online]. Available: https://orbit.dtu.dk/en/publications/
+time-predictable-communication-on-a-time-division-multiplexing-ne
+

@@ -1,0 +1,36 @@
+40 | REFERENCES
+References
+
+ N. Andersson and A. Ekholm, “Vetenskaplighet-utvärdering av tre
+implementeringsprojekt inom it bygg & fastighet 2002,” 2002.
+
+ “Introduction to java tm technology,” 1999. [Online]. Available:
+https://www.oracle.com/java/technologies/introduction-to-java.html
+
+ A. Hejlsberg, M. Torgersen, S. Wiltamuth, and P. Golde, The C#
+Programming Language Microsoft .NET Development . Addison-
+Wesley Professional, 2010.
+
+ D.Kuhlman, APythonBook: BeginningPython,AdvancedPython,and
+Python Exercise . Platypus Global Media, 2012.REFERENCES | 41
+
+ B. Venners, “The making of python,” 2003. [Online].
+Available: https://web.archive.org/web/20160901183332/http://www.
+artima.com/intv/pythonP.html
+
+
+
+ A. Pettersson, “Investigation of reason as a substitute for javascript,”
+Digitala Vetenskapliga Arkivet , 2020. [Online]. Available: http:
+//urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-279305
+
+ “Hållbarhetsaspekter,” accessed: 2021-11-01. [Online]. Available:
+https://tillvaxtverket.se/vara-tjanster/guider-och-vagledningar/
+handbok-for-eu-projekt/ansoka/sa-bedomer-tillvaxtverket-er-ansokan/
+hallbarhetsaspekter.html
+
+ A. Hermansson, “Analytic hierarchy process - en kritisk genomgång,”
+2014.
+
+ R. Whitaker, “Criticisms of the analytic hierarchy process: Why they
+often make no sense,” Creative Decisions Foundation , 2007.

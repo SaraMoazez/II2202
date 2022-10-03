@@ -1,0 +1,50 @@
+REFERENCES | 85
+References
+
+ M. Series, “Imt vision–framework and overall objectives of the future
+development of imt for 2020 and beyond,” Recommendation ITU , vol.
+2083, p. 0, 2015.
+
+ O. baselines authors, “Rl algorithms user guide,” https:
+//stable-baselines.readthedocs.io/en/master/guide/algos.html.
+
+ M. O. Ojijo and O. Falowo, “A survey on slice admission control
+strategiesandoptimizationschemesin5gnetwork,” IEEEAccess ,vol.8,
+pp. 14977–14990, 2020.
+
+ C. Cavdar, M. Tornatore, F. Buzluca, and B. Mukherjee, “Dynamic
+scheduling of survivable connections with delay tolerance in wdm
+networks,”in IEEEINFOCOMWorkshops2009 . IEEE,2009,pp.1–6.
+
+ A. Tarhan and C. Cavdar, “Shared path protection for distance adaptive
+elasticopticalnetworksunderdynamictraffic,”in 20135thInternational
+Congress on Ultra Modern Telecommunications and Control Systems
+and Workshops (ICUMT) . IEEE, 2013, pp. 62–67.
+
+ fortinet, “What is quality of service (qos) in networking,” https://www.
+fortinet.com/resources/cyberglossary/qos-quality-of-service.
+
+ M. Masoudi and C. Cavdar, “Device vs edge computing for
+mobile services: Delay-aware decision making to minimize power
+consumption,” IEEE Transactions on Mobile Computing , 2020.
+
+ “Sinr_telecompedia,” https://telecompedia.net/sinr/, accessed: 2021-
+10-11.
+
+ “Tbler_techopedia,” https://www.techopedia.com/definition/6222/
+block-error-rate-bler, accessed: 2021-10-11.
+
+ H. Hasselt, “Double q-learning,” Advances in neural information
+processing systems , vol. 23, pp. 2613–2621, 2010.
+
+ R. Li, Z. Zhao, Q. Sun, I. Chih-Lin, C. Yang, X. Chen, M. Zhao, and
+H. Zhang, “Deep reinforcement learning for resource management in
+network slicing,” IEEE Access , vol. 6, pp. 74429–74441, 2018.
+
+ P. Dhariwal, C. Hesse, O. Klimov, A. Nichol, M. Plappert, A. Radford,
+J.Schulman,S.Sidor,Y.Wu,andP.Zhokhov,“Openaibaselines,”https:
+//github.com/openai/baselines, 2017.
+
+ N. Alliance. (2019) Sigsegv problem when harq process number in
+mmwave-phy-mac-common.cc is low.
+

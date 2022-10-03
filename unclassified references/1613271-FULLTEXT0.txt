@@ -1,0 +1,45 @@
+REFERENCES | 83
+References
+
+W. H. Organization, “Cardiovascular diseases (cvds),” https://www.who.
+int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds) , 2017,
+[Online: accessed 31-8-2021].
+
+PubMed, https://pubmed.ncbi.nlm.nih.gov/ , 2021, [Online: accessed 31-
+8-2021].
+
+R. C. Deo, “Machine learning in medicine,” Circulation, PMC , vol. 20,
+pp. 1920–1930, 2018.
+
+ PyCaret, https://pycaret.org/ , 2021, [Online: accessed 31-8-2021].
+
+ t. PyCaret, “Pycaret, transformations,” https://pycaret.org/transformation/ ,
+2021, [Online: accessed 31-8-2021].
+
+ J. Brownlee, “Smote for imbalanced classiﬁcation
+with python,” https://machinelearningmastery.com/
+smote-oversampling-for-imbalanced-classiﬁcation/ , 2021, [Online:
+accessed 31-8-2021].
+
+ Numpy, https://numpy.org/ , 2021, [Online: accessed 31-8-2021].
+
+ Pandas, “Pandas,” https://pandas.pydata.org/ , 2017, [Online: accessed
+31-8-2021].
+
+ SciPy, https://www.scipy.org/ , 2021, [Online: accessed 31-8-2021].
+
+ V. w. P. Matplotlib, https://matplotlib.org/ , 2021, [Online: accessed 31-8-
+2021].REFERENCES | 85
+
+ s. d. v. Seaborn, https://seaborn.pydata.org/ , 2021, [Online: accessed
+31-8-2021].
+
+ M. L. in Python, “Machine learning in python,” https://scikit-learn.org/
+stable/ , 2021, [Online: accessed 31-8-2021].
+
+ T. Afonja, “Accuracy paradox,” https://towardsdatascience.com/
+accuracy-paradox-897a69e2dd9b , 2017, [Online: accessed 31-8-2021].
+
+ M. L. McHugh, “The chi-square test of independence,” Biochemia
+Medica , vol. 23, pp. 143–149, 2013.
+

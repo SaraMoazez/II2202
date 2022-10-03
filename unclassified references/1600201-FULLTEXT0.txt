@@ -1,0 +1,13 @@
+Bibliography
+
+ITU­R. IMT Vision ­ Framework and overall objectives of the future
+development of IMT for 2020 and beyond .Tech.rep.International
+TelecommunicationUnion,Sept.2015.
+
+Balanis,ConstantineA. Antenna theory: analysis and design .Johnwiley&
+sons,2016.
+
+Gomanne,Sophie,Fonseca,Nelson,Jankovic,Petar,Toso,Giovanni,and
+Angeletti,Piero.“ComparativeStudyofWaveguideRotmanLensDesignsfor
+Q/VBandApplications”.In:Oct.2019.
+

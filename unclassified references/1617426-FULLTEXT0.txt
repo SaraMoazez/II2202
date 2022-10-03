@@ -1,0 +1,57 @@
+References | 55
+References
+
+ H. Ritchie, E. Mathieu, L. Rodés-Guirao, C. Appel, C. Giattino,
+E. Ortiz-Ospina, J. Hasell, B. Macdonald, D. Beltekian, and M. Roser,
+“Coronavirus Pandemic (COVID-19),” Our World in Data , Mar. 2020.
+[Online]. Available: https://ourworldindata.org/covid-vaccinations
+[Page 1.]
+
+ CSSEGISandData, “COVID-19 Data Repository by the Center for
+SystemsScienceandEngineering(CSSE)atJohnsHopkinsUniversity,”
+Sep. 2021, original-date: 2020-02-04T22:03:53Z. [Online]. Available:
+https://github.com/CSSEGISandData/COVID-19 [Pages4,15,and51.]
+
+ “Prophet.” [Online]. Available: http://facebook.github.io/prophet/
+[Pages 9 and 30.]
+
+ S. J. Taylor and B. Letham, “Forecasting at scale,” PeerJ Inc., Tech.
+Rep. e3190v2, Sep. 2017, iSSN: 2167-9843. [Online]. Available:
+https://peerj.com/preprints/3190 [Page 9.]
+
+ X. SHI, Z. Chen, H. Wang, D.-Y. Yeung, W.-k. Wong, and W.-
+c. WOO, “Convolutional LSTM Network: A Machine Learning
+Approach for Precipitation Nowcasting,” in Advances in Neural
+Information Processing Systems , vol. 28. Curran Associates, Inc.,
+2015. [Online]. Available: https://proceedings.neurips.cc/paper/2015/
+hash/07563a3fe3bbe7e3ba84431ad9d055af-Abstract.html [Page 11.]
+
+ A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones,
+A. N. Gomez, Kaiser, and I. Polosukhin, “Attention58 | References
+is All you Need,” in Advances in Neural Information
+Processing Systems , vol. 30. Curran Associates, Inc., 2017.
+[Online]. Available: https://proceedings.neurips.cc/paper/2017/hash/
+3f5ee243547dee91fbd053c1c4a845aa-Abstract.html [Pages ix, 11, 12,
+and 13.]
+
+ S. Wu, X. Xiao, Q. Ding, P. Zhao, W. Ying, and J. Huang, “Adversarial
+Sparse Transformer for Time Series Forecasting,” 2020. [Page 13.]
+
+ “TimeSeriesMadeEasyinPython,”Sep.2021,original-date: 2018-09-
+13T15:17:28Z. [Online]. Available: https://github.com/unit8co/darts
+[Pages 27 and 32.]
+
+ “pandas - Python Data Analysis Library.” [Online]. Available: https:
+//pandas.pydata.org/ [Page 30.]
+
+ “Keras: the Python deep learning API.” [Online]. Available: https:
+//keras.io/ [Page 30.]
+
+ O’Malley, Tom, Bursztein, Elie, Long, James, Chollet, François, Jin,
+Haifeng, and Invernizzi, Luca, “KerasTuner,” Sep. 2021, original-date:
+2019-06-06T22:38:21Z. [Online]. Available: https://github.com/keras-
+team/keras-tuner [Page 31.]
+
+ “CUDA Toolkit,” Jul. 2013. [Online]. Available: https://developer.
+nvidia.com/cuda-toolkit [Page 52.]
+

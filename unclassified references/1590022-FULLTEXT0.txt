@@ -1,0 +1,62 @@
+8 Bibliography
+References
+
+ K. Beck, Test Driven Development. By Example (Addison-Wesley Signa-
+ture) . Addison-Wesley Longman, Amsterdam, 2002, isbn: 0321146530.
+
+ I. Sommerville, Software engineering , 9th ed. Boston: Pearson, 2011, OCLC:
+ocn462909026, isbn: 9780135140758.
+
+ J. V. Guttag and J. J. Horning, Larch: Languages and Tools for Formal
+Specication . Berlin, Heidelberg: Springer-Verlag, 1993, isbn: 0387940065.
+
+ L. Lamport, The TLA+ Home Page . [Online]. Available: https://lamport.
+azurewebsites.net/tla/tla.html (visited on 05/28/2021).
+
+ Microsoft, Vcc: A verier for concurrent c , Jan. 20, 2021. [Online]. Avail-
+able: https://www.microsoft.com/en-us/research/project/vcc-a-
+verifier-for-concurrent-c .
+
+ TLA+ Video Course . [Online]. Available: https://lamport.azurewebsites.
+net/video/videos.html (visited on 05/28/2021).
+
+ H. Wayne, Practical TLA+: Planning Driven Development , 1st. USA:
+Apress, 2018, isbn: 1484238281.
+
+ B. W. Kernighan and D. M. Ritchie, The C Programming Language , 2nd.
+Prentice Hall Professional Technical Reference, 1988, isbn: 0131103709.
+
+ Introduction - The Rustonomicon . [Online]. Available: https : / / doc .
+rust-lang.org/nomicon/ (visited on 05/28/2021).
+
+ J. Gosling, \"java: An overview" the original java whitepaper", Feb. 1995.
+50
+ R. Hundt, \Loop recognition in c++/java/go/scala", Jan. 2011.
+
+ S. Klabnik and C. Nichols, The Rust Programming Language . USA: No
+Starch Press, 2018, isbn: 1593278284.
+
+ The FreeBSD Project . [Online]. Available: https://www.freebsd.org/
+(visited on 05/28/2021).
+
+ Google/googletest , original-date: 2015-07-28T15:07:53Z, May 2021. [On-
+line]. Available: https://github.com/google/googletest (visited on
+05/28/2021).
+
+ emil-e, Emil-e/rapidcheck , original-date: 2014-05-08T20:19:43Z, May 2021.
+[Online]. Available: https://github.com/emil-e/rapidcheck (visited
+on 05/28/2021).
+
+ CLion: A cross-platform IDE for C and C++ . [Online]. Available: https:
+//www.jetbrains.com/clion (visited on 06/10/2021).
+
+ GCC, the GNU Compiler Collection - GNU Project - Free Software Foun-
+dation (FSF) . [Online]. Available: https://gcc.gnu.org/ (visited on
+05/28/2021).
+
+ Gcc(1) linux user's manual , Jul. 2013. [Online]. Available: [https://
+linux.die.net/man/1/gcc] .
+
+ Rust Documentation std::option::Option , 2021. [Online]. Available: https:
+//doc.rust-lang.org/std/option/enum.Option.html .
+

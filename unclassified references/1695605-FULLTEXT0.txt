@@ -1,0 +1,29 @@
+Bibliography
+
+ Boyd, N., Martin, L., Yaffe, M., and Minkin, S. “Mammographic Density and
+Breast Cancer Risk: Current Understanding and Future Prospects”. In: Breast
+Cancer Res. 13 (Jan. 2011), pp. 1–12.
+67BIBLIOGRAPHY
+
+ Jylhävä, J., Pedersen, N. L, and Hägg, S. “Biological age predictors”. In:
+EBioMedicine 21 (2017), pp. 29–36.
+
+ Kohli, S., Prakash, S., and Gupta, P. “Hierarchical age estimation with
+dissimilarity­based classification”. In: Neurocomputing 120 (2013), pp. 164–
+176.
+68BIBLIOGRAPHY
+
+ Hecht­Nielsen, R. “Neural Networks for Perception ­ Computation, Learning,
+and Architectures”. In: ed. by H. Wechsler. Elsevier Inc, 1992. Chap. III.3 ­
+Theory of the Backpropagation Neural Network.
+
+ Reed, R. and MarksII, R. J. Neural smithing: supervised learning in
+feedforward artificial neural networks . Mit Press, 1999.
+
+ Van der Walt, S., Schönberger, J. L., Nunez­Iglesias, J., Boulogne, F., Warner,
+J. D., Yager, N., Gouillart, E., and Yu, T. “scikit­image: image processing in
+Python”. In: PeerJ 2 (2014), e453.
+
+ Koonce, B. “EfficientNet”. In: Convolutional Neural Networks With Swift for
+Tensorflow . Springer, 2021, pp. 109–123.
+

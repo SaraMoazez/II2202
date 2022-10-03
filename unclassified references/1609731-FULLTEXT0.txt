@@ -1,0 +1,79 @@
+REFERENCES|121
+References
+
+D.HarkutandZ.Shaikh,“Anoverviewofnetworktraﬃcclassiﬁcation
+methods,” Int. J. Recent Innovation Trends Comput. Commun , vol. 3, pp.
+482–488, 2015.
+
+Juan Sebastián Rojas. (2019) Labeled network traﬃc ﬂows - 141
+applications.UniversidadDelCauca.[Online].Available: https://www.
+kaggle.com/jsrojas/labeled-network-traﬃc-ﬂows-114-applications
+
+United Nations (U.N). (2015) Transforming our world: the 2030
+agenda for sustainable development. [Online]. Available: https:
+//EconPapers.repec.org/RePEc:ess:wpaper:id:7559
+
+J. Clement. (2019) Mobile internet usage worldwide - Statistics
+& Facts. Statista Research Department. [Online]. Available: https:
+//www.statista.com/topics/779/mobile-internet/
+
+InternetEngineeringTaskForce(IETF).(2021)RequestforComments
+(RFC) Index. [Online]. Available: https://tools.ietf.org/rfc/index
+
+Internet Engineering Task Force (IETF). (2020)
+IANA IPv4 Special-Purpose Address Registry. [Online].
+Available: https://www.iana.org/assignments/iana-ipv4-special-registry/
+iana-ipv4-special-registry.xhtml
+
+J. Rajahalme, A. Conta, B. Carpenter, and S. Deering, “IPv6 Flow
+Label Speciﬁcation,” IETF, RFC 3697, 2004. [Online]. Available:
+http://tools.ietf.org/rfc/rfc3697.txt
+
+M.Hjorth-Jensen,“Data analysisandmachine learning: Fromdecision
+trees to forests and all that.” Department of Physics and Astronomy
+and National Superconducting Cyclotron Laboratory, Michigan State
+University, 2019.
+
+I.N.DaSilva,D.H.Spatti,R.A.Flauzino,L.H.B.Liboni,andS.F.dos
+ReisAlves,“Artiﬁcialneuralnetworkarchitecturesandtrainingprocesses,”
+inArtiﬁcial neural networks . Springer, 2017, pp. 21–28.
+
+K. Hinkelmann. (2021) Neural networks. University
+of Applied Sciences Northwestern Switzerland. [Online].
+Available: http://didattica.cs.unicam.it/lib/exe/fetch.php?media\
+=didattica:magistrale:kebi:ay_1718:ke-11_neural_networks.pdf
+
+H. Drucker, C. J. Burges, L. Kaufman, A. Smola, V. Vapnik et al.,
+“Supportvectorregressionmachines,” Advancesinneuralinformation
+processing systems , vol. 9, pp. 155–161, 1997.
+
+B. Das, D. Science, T. O. (Australia), Electronics, and S. R. L.
+(Australia)., Representing uncertainties using Bayesian networks
+/ Balaram Das . DSTO Electronics and Surveillance Research
+Laboratory Salisbury, S. Aust, 1999. [Online]. Available: http:
+//www.dsto.defence.gov.au/corporate/reports/DSTO-TR-0918.pdf
+
+E.Haglund,“Estimatingprediction intervalswithmachinelearningand
+montecarlomethodsinonlineadvertising,”Master’sthesis,KTH,School
+of Electrical Engineering and Computer Science (EECS), 2020.
+
+A. Habibi Lashkari. (2018) Cicﬂowmeter: Ethernet traﬃc bi-
+ﬂow generator and analyzer for anomaly detection. University
+of New Brunswick. [Online]. Available: https://github.com/ISCX/
+CICFlowMeter
+
+E. D. Source, “Intrusion detection evaluation dataset (iscxids2012)
+(06/11/2010 to 06/17/2010),” 2018. [Online]. Available: https:
+//www.impactcybertrust.org/dataset_view?idDataset=916
+
+Cooperative Association for Internet Data Analysis (CAIDA), “Packet
+length distributions,” 2020.[Online]. Available: https://www.caida.org/
+research/traﬃc-analysis/AIX/plen_hist/
+
+Internet Engineering Task Force (IETF). (2021) IANA Assigned
+Internet Protocol Numbers. [Online]. Available: https://www.iana.org/
+assignments/protocol-numbers/protocol-numbers.xhtml
+
+M. S. Lewis-Beck and A. Skalaban, “The r-squared: Some straight talk,”
+Political Analysis , vol. 2, pp. 153–171, 1990.
+

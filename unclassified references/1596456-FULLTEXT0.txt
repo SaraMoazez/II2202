@@ -1,0 +1,20 @@
+ 
+           BIBLIOGRAPHY  
+ 
+23   
+
+ NSC . “About NSC ”. Url: https://www.nsc.liu.se/about/ .  
+
+ NSC . “Tetralith ”. Url: https://www.nsc.liu.se/systems/tetralith/ .  
+
+ SNIC . “Apply for access to SNIC resources ”. Url: 
+https://snic.se/allocations/apply4access/ .  
+
+ Docker . “About Docker ”. Url: https://www.docker.com/company .  
+
+ Docker Hub . “Docker Hub Quickstart ”. Url: 
+https://docs.docker.c om/docker -
+hub/#:~:text=Docker%20Hub%20is%20a%20service,container%20image
+s%20with%20your%20team.&text=Builds%3A%20Automatically%20bu
+ild%20container%20images,Docker%20Hub%20with%20other%20servi
+ces  

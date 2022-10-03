@@ -1,0 +1,117 @@
+REFERENCES|57
+References
+
+DC@KTH, Feature Store for ML , (accessed September 30, 2020), https:
+//www.featurestore.org/.
+
+Logical Clocks, Hopsworks Feature Store , (accessed September 15,
+2020), https://uploads-ssl.webﬂow.com/5e6f7cd3ee7f51d539a4da0b/
+5ef397dce942172c90259858_feature%20management%20platform%
+20v02.pdf.
+
+FEAST,Architecture , (accessedSeptember 15,2020), https://docs.feast.
+dev/user-guide/architecture.
+
+W. Pienaar, “Feast: Feature store for machine learning,” 2019,
+anthill Inside 2019 https://hasgeek.com/anthillinside/2019/proposals/
+feast-feature-store-for-machine-learning-HBMmchibhze5ZpWqzhcian.
+
+J. Hermann, Michelangelo - Machine Learning @Uber , Mar 23, 2019,
+qCon https://www.infoq.com/presentations/uber-ml-michelangelo/?utm_
+source=youtube&utm_medium=link&utm_campaign=qcontalks.
+
+J. Hermann and M. D. Balso, Meet Michelangelo: Uber’s Machine
+Learning Platform , 2017 (accessed September 30, 2020), https://eng.
+uber.com/michelangelo-machine-learning-platform/.
+
+V. Zanoyan and E. Shapiro, “Zipline—airbnb’s declarative
+feature engineering framework,” Okt 21, 2019, databricks
+https://www.youtube.com/watch?v=iUnO4MLAGDU&feature=
+emb_title&ab_channel=Databricks.
+
+N. Sarwar, “Operationalizing machine learning—managing
+provenance from raw data to predictions,” 2018, databricks
+https://www.youtube.com/watch?v=iUnO4MLAGDU&feature=
+emb_title&ab_channel=Databricks.58|REFERENCES
+
+R. Romano, “Overview of wix’s machine learning platform,” Feb
+18, 2020, wix Engineering Tech Talks https://www.youtube.
+com/watch?v=E8839ENL-WY&feature=emb_title&ab_channel=
+WixEngineeringTechTalks.
+
+N. Jain, “Real time machine learning inference platform,” Nov 27,
+2020, hagsgeekhttps://hasgeek.com/rootconf/2020-delhi/proposals/
+real-time-machine-learning-inference-platform-zoma-Jpk3vdwjcrQKGs19mGLibj.
+
+S. Khadder, “Feature stores: Building machine learning
+infrastructure on apache pulsar,” Jun 24, 2020, pulsar Summit
+2020 https://www.youtube.com/watch?v=eLJk5sOME0o&feature=emb_
+title&ab_channel=StreamNative.
+
+S. Bathini, “Sony interactive entertainment: Powering playstation
+personalization to millions,” Jun 17, 2020, aerospike SUMMIT
+’20 https://www.aerospike.com/resources/videos/summit20/
+sony-powering-playstation-personalization-to-millions/.
+
+A. Makris, K. Tserpes, V. Andronikou, and D. Anagnostopoulos, “A
+classiﬁcation of nosql data stores based on key design characteristics.” in
+Cloud Forward , 2016, pp. 94–103.
+
+T. Weiss, MySQL acquiring data management system vendor
+Alzato, Oct 2003, https://www.computerworld.com/article/2572959/
+mysql-acquiring-data-management-system-vendor-alzato.html.
+
+Oracle,Chapter4MySQLNDBClusterConnectorforJava ,(accessed
+Feb 5, 2021), https://dev.mysql.com/doc/ndbapi/en/mccj.html.
+
+Aerospike, Aerospike Technical Documentation , 2020 (accessed October
+2, 2020), https://www.aerospike.com/docs/#.
+
+Aerospike, Database Product Matrix , 2020 (accessed October 2, 2020),
+https://www.aerospike.com/products/product-matrix/.
+
+D. Gembalczyk, F. M. Schuhknecht, and J. Dittrich, “An experimental
+analysis of diﬀerent key-value stores and relational databases,”
+DatenbanksystemefürBusiness,TechnologieundWeb(BTW2017) ,2017.
+
+K.Kingsbury,“Redis-raft1b3fbf6,”Jun23,2020(accessedOctober1,
+2020), aphyr https://jepsen.io/analyses/redis-raft-1b3fbf6.
+
+——, “Jepsen: Redis,” 2013 (accessed October 1, 2020), aphyr https:
+//aphyr.com/posts/283-call-me-maybe-redis.
+
+Redis,Redis Cluster Speciﬁcation , (accessed September 30, 2020), https:
+//redis.io/topics/cluster-spec.
+
+Google Cloud, Overview of Memorystore for Redis , (accessed
+October 2, 2020), https://cloud.google.com/memorystore/docs/redis/
+redis-overview.60|REFERENCES
+
+ApacheHBase, WelcometoApacheHBase ™,(accessedOctober5,2020),
+http://hbase.apache.org/.
+
+Netﬂix,Introduction , (accessed September 19, 2020), https://hollow.
+how/.
+
+R. Srinivas, Q&A with Drew Koszewnik on a Disseminated Cache,
+Netﬂix Hollow , Dec 2016, https://www.infoq.com/news/2016/12/
+announcing-netﬂix-hollow/.
+
+B. Cooper, YCSB, (accessed September 30, 2020), https://github.com/
+brianfrankcooper/YCSB.
+
+K. Kingsbury, Jepsen, (accessed September 30, 2020), https://github.
+com/jepsen-io/jepsen.
+
+——,Jepsen: Aerospike ,2015(accessedOctober1,2020),aphyrhttps:
+//aphyr.com/posts/324-jepsen-aerospike.
+
+——,“Jepsen: Aerospike,”2018(accessedSeptember30,2020),aphyr
+https://jepsen.io/analyses/aerospike-3-99-0-3.
+
+The Apache SoftwareFoundation, “Apache beam: An advanced uniﬁed
+programming model,” (accessed January 19, 2021), https://beam.apache.
+org/.REFERENCES|61
+
+Spotify, “Scio,” 2020 (accessed January 19, 2021), https://spotify.github.
+io/scio/.

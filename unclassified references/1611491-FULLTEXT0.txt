@@ -1,0 +1,100 @@
+REFERENCES | 75
+References
+
+ A. Srivastava, R. Sharma, S. K. Sood, G. Shukla, V. Goyal, and
+M. Behari, “Saccadic eye movements in Parkinson’s disease,” pp. 538–
+544,
+
+ Y. Terao, H. Fukuda, Y. Ugawa, and O. Hikosaka, “New perspectives
+on the pathophysiology of Parkinson’s disease as assessed by saccade
+performance: A clinical review,” pp. 1491–1506,
+
+ M. Falke and L. Höglund, “Implementing gaze tracking with a simple
+web camera,” School of Electrical Engineering and Computer Science
+(EECS) at KTH, Tech. Rep.,
+
+ J. Waldthaler, P. Tsitsi, G. Ö. Seimyr, M. N. Benfatto, and
+P.Svenningsson,“EyemovementsduringreadinginParkinson’sdisease:
+A pilot study,” pp. 1661–1662,
+
+ L. Stock, C. Krüger-Zechlin, Z. Deeb, L. Timmermann, and
+J.Waldthaler,“NaturalReadinginParkinson’sDiseaseWithandWithout
+Mild Cognitive Impairment,” Frontiers in Aging Neuroscience , vol. 12,
+may 2020.
+
+ J. Kittler, “Feature selection and extraction.” Handbook of pattern
+recognition and image processing , pp. 59–83, jan 1986.
+
+ N. K. Verma and A. Salour, “Feature extraction,” in Studies in Systems,
+Decision and Control . Elsevier, jan 2020, vol. 256,
+
+ E.PretegianiandL.M.Optican,“EyemovementsinParkinson’sdisease
+and inherited parkinsonian syndromes,” p. 592,
+
+ J. A. Vilensky, W. M. Robertson, and C. A. Suárez-Quian, The Clinical
+Anatomy of the Cranial Nerves: The Nerves of "On Old Olympus
+Towering Top" . wiley, mar 2015.
+
+ D. J. Lohr, L. Friedman, and O. V. Komogortsev, “Evaluating the data
+quality of eye tracking signals from a virtual reality system: Case study
+using smi’s eye-tracking HTC vive: A Preprint,”
+
+ B. K. Nayak and S. Karmakar, “A review of eye tracking studies
+related to visual aesthetic experience: A bottom-up approach,” in Smart
+Innovation,SystemsandTechnologies . Springer,Singapore,2019,vol.
+135, pp. 391–403.
+
+ N. Quadar, A. Chehri, and G. Geon, “Visual analytics methods for
+eye tracking data,” in Smart Innovation, Systems and Technologies .
+Springer, pp. 3–12.
+
+ I.Rigas,L.Friedman,andO.Komogortsev,“AStudyontheExtraction
+andAnalysisofaLargeSetofEyeMovementFeaturesduringReading,”
+
+ W. H. Lopez Pinaya, S. Vieira, R. Garcia-Dias, and A. Mechelli,
+“Autoencoders,” in Machine Learning: Methods and Applications to
+Brain Disorders . Elsevier, jan 2019, pp. 193–208.
+
+ H. Liang, X. Sun, Y. Sun, and Y. Gao, “Text feature extraction based on
+deep learning: a review,” p. 211,
+
+ D. P. Kingma and M. Welling, “An introduction to variational
+autoencoders,” pp. 307–392,
+
+ A. Dertat, “Applied Deep Learning - Part 4: Convolutional Neural
+Networks | by Arden Dertat | Towards Data Science,” pp. 1–29,
+
+ M. G. Omran, A. P. Engelbrecht, and A. Salman, “An overview of
+clustering methods,” pp. 583–605,
+
+ G.Nathiya,S.C.Punitha,andM.Punithavalli,“AnAnalyticalStudyon
+Behavior of Clusters Using K Means, EM and K* Means Algorithm,”
+
+ M. Blog, “Data Clustering Algorithms Fuzzy c-means clustering
+algorithm ď ď,” pp. 1–2,
+
+ S. Atakishiyev and M. Z. Reformat, “Analysis of Word Embeddings
+using Fuzzy Clustering,”
+
+ Alboukadel Kassambara, “Agglomerative Hierarchical Clustering -
+Datanovia,” in Practical Guide to Cluster Analysis in R ,
+
+ B. Yan and G. Han, “Eﬀective Feature Extraction via Stacked Sparse
+Autoencoder to Improve Intrusion Detection System,” IEEE Access ,
+vol. 6, pp. 41238–41248, jul 2018.
+
+ S. Najdi, A. A. Gharbali, and J. M. Fonseca, “Feature transformation
+based on Stacked Sparse Autoencoders for sleep stage classiﬁcation,”
+inIFIP Advances in Information and Communication Technology .
+Springer New York LLC, may, pp. 191–200.
+
+ X. Luo, X. Li, Z. Wang, and J. Liang, “Discriminant autoencoder
+for feature extraction in fault diagnosis,” Chemometrics and Intelligent
+Laboratory Systems , vol. 192, p. 103814, sep 2019.
+
+ L. G. C. Bautista and P. C. Naval, “CLRGaze: Contrastive Learning of
+Representations for Eye Movement Signals,”
+
+ J. Han, M. Kamber, and J. Pei, “Getting to Know Your Data,” Data
+Mining, pp. 39–82, jan 2012.
+

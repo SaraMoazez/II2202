@@ -1,0 +1,125 @@
+Bibliography
+
+ ESA. (2016) Signal-in-space interface control document. [Online]. Available: https:
+//www.gsc-europa.eu/sites/default/les/sites/all/les/Galileo-OS-SIS-ICD.pdf
+
+Springer Handbook of Global Navigation Satellite Systems , 1st ed., ser. Springer
+Handbooks, 2017.
+
+ F. Dovis. Artech House, 2015. [Online]. Available: https://app.knovel.com/
+hotlink/toc/id:kpGNSSITC1/gnss-interference-threats/gnss-interference-threats
+
+ GSA. (2020) Galileo enabled devices. [Online]. Available: https://www.gsa.europa.
+eu/galileo/services/initial-services/galileo-enabled-devices
+
+ J. Nurmi, S. Sand, H. Hurskainen, and E. S. Lohan, Galileo positioning technology ,
+1st ed., ser. Signals and communication technology ; Volume 182, 2015.
+
+ A. Hussain, A. Ahmed, H. Magsi, and R. Tiwari, \Adaptive GNSS receiver design
+for highly dynamic multipath environments," IEEE Access , vol. 8, pp. 172 481{
+172 497, 2020.
+
+ ESA. (2017) https://www.gsc-europa.eu/news/two-more-satellites-join-galileo-
+service-provision-2. [Online]. Available: https://github.com/osqzss/gps-sdr-sim
+
+ B. Hofmann-Wellenhof, H. Lichtenegger, and E. Wasle, GNSS - Global Navigation
+Satellite Systems: GPS, GLONASS, Galileo, and More . Vienna: Springer Wien,
+2007.
+70
+ P. Papadimitratos and A. Jovanovic, \Protection and fundamental vulnerability of
+GNSS," in 2008 IEEE International Workshop on Satellite and Space Communica-
+tions , 2008, pp. 167{171.
+
+ A. Jafarnia-Jahromi, A. Broumandan, J. Nielsen, and G. Lachapelle, \GPS vulner-
+ability to spoong threats and a review of antispoong techniques," vol. 2012, pp.
+1{16, 2012.
+
+ FCC. (2013, 08) Notice of apparent liability for forfeiture, fcc13-106. [Online].
+Available: https://docs.fcc.gov/public/attachments/FCC-13-106A1.pdf
+
+ D. Hambling. (2011, 03) GPS chaos: How a $30 box can
+jam your life. [Online]. Available: https://www.newscientist.com/article/
+dn20202-gps-chaos-how-a-30-box-can-jam-your-life/
+
+ Aerospace. (2020, 03) GPS Jamming in the Arctic Circle. [Online]. Available:
+https://aerospace.csis.org/data/gps-jamming-in-the-arctic-circle/
+
+ ||, \On the Eects of Distance-decreasing Attacks on Cryptographically Pro-
+tected GNSS Signals," in Proceedings of 2019 International Technical Meeting of
+The Institute of Navigation , Reston, Virginia, USA, January 2019, pp. 363{372.
+
+ ||, \Safeguarding NMA Enhanced Galileo OS Signals from Distance-Decreasing
+Attacks," in Proceedings of the 32nd International Technical Meeting of the Satellite
+71Division of The Institute of Navigation (ION GNSS+ 2019) , Miami, FL, USA,
+September 2019, pp. 4041{4052.
+
+ R. Heue. (2016) GNSS Jamming and Spoong: Hazard
+or Hype? [Online]. Available: https://space-of-innovation.com/
+gnss-jamming-and-spoong-hazard-or-hype/
+
+ G. World. (2012, 01) Straight Talk on Anti-Spoong: Securing
+the Future of PNT. [Online]. Available: https://www.gpsworld.com/
+signal-processingstraight-talk-anti-spoong-12471/
+
+ I. Bart u nkov a. (2016) Parallel Software Architecture and Algorithms for GNSS
+Signal Simulation. [Online]. Available: https://athene-forschung.unibw.de/doc/
+121215/121215.pdf
+
+ J. Gaspar, R. Ferreira, P. Sebasti~ ao, and N. Souto, \Capture of UAVs Through
+GPS Spoong Using Low-Cost SDR Platforms," Wireless personal communications ,
+2020.
+
+ T. U. of Texas at Austin. (2013, 07) Spoong a Superyacht at Sea. [Online].
+Available: https://news.utexas.edu/2013/07/30/spoong-a-superyacht-at-sea/
+
+ L. Huang and Q. Yang. (2015, 08) Low-cost GPS simulator { GPS spoong
+by SDR. [Online]. Available: https://infocondb.org/con/def-con/def-con-23/
+low-cost-gps-simulator-gps-spoong-by-sdr
+
+ K. Wang, S. Chen, and A. Pan. (2015) Time and position spoong with open source
+projects. [Online]. Available: https://www.blackhat.com/docs/eu-15/materials/
+eu-15-Kang-Is-Your-Timespace-Safe-Time-And-Position-Spoong-Opensourcely-wp.
+pdf
+
+ K. Zhang and P. Papadimitratos, \Safeguarding NMA Enhanced Galileo OS Signals
+from Distance-Decreasing Attacks," in Proceedings of the 32nd International Tech-
+nical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+
+2019) , Miami, FL, USA, September 2019, pp. 4041{4052.
+
+ P. Papadimitratos and A. Jovanovic, \Method to Secure GNSS-based Locations in
+a Device having GNSS Receiver," April 2012, US Patent 8,159,391.
+72
+ Z. K. P. P. Spanghero, Marco, \Authenticated Time for Detecting GNSS Attacks,"
+inProceedings of the 33rd International Technical Meeting of the Satellite Division
+of The Institute of Navigation (ION GNSS+ 2020) , September 2020, pp. 3826{3834.
+
+ S. Osaki and K. Naito, \Proposal of indoor positioning scheme using ultrasonic
+signal by smartphone," in Innovation in Medicine and Healthcare Systems, and
+Multimedia , ser. Smart Innovation, Systems and Technologies, vol. 145. Singapore:
+Springer Singapore, 2019, pp. 583{592.
+
+ ESA. (2020) Almanac. [Online]. Available: https://www.gsc-europa.eu/
+product-almanacs
+
+ ||. (2020) Galileo satellites. [Online]. Available: https://www.esa.int/
+Applications/Navigation/Galileo/Galileo satellites
+
+ T. Ebinuma. (2020) GPS-SDR-SIM. [Online]. Available: https://github.com/
+osqzss/gps-sdr-sim
+
+ W. J. Lu, D. S. Yu, M. Huang, and X. Kong, \A gnss if signal simulator based-on
+fpga," vol. 239-240, pp. 573{576, 2012.
+
+ SurveyLab. (2016) GPS TTFF and startup modes . [Online]. Available:
+https://www.measurementsystems.co.uk/docs/TTFFstartup.pdf
+
+ G. GNSS. (2013) Ephemeris. keplerian parameters. [Online]. Available: https:
+//galileognss.eu/ephemeris-keplerian-parameters/
+
+ B. Bruegge, Object-oriented software engineering : using UML, patterns, and Java ,
+3rd ed. Boston: Prentice Hall, 2010.
+73
+ ESA. (2016) Ionospheric correction algorithm for galileo single frequency
+users. [Online]. Available: https://www.esa.int/Applications/Navigation/Galileo/
+Galileo satellites
+74

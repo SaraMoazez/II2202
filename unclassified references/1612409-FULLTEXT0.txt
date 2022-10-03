@@ -1,0 +1,62 @@
+References
+
+R. Montalba Mesa, “Parameter Estimation of a Six­Phase Machine for a Marine
+Application,” Master’s thesis, KTH Royal Institute of Technology, Jun. 2021, Not
+published yet .
+
+L. Peretti, G. Zanuso, Technology Aspects and Analytical Modelling of Multi­
+Phase Synchronous and Induction Machines , Oct. 2020.
+204REFERENCES
+
+L. Roebel, “Leiter für elektrische Maschinen, welcher aus zwei oder mehr
+Gruppen von Teilleitern besteht,” Germany patent DE277 012C, Mar. 19, 1912.
+
+A. Tessarolo, “Modeling and Analysis of Multiphase Electric Machines for High­
+Power Applications,” phdthesis, University of Padova, Jan. 2011, Available
+online: http://paduaresearch.cab.unipd.it/4076/1/PHD_THESIS.pdf.
+
+B. Moore, D. Tarrant, R. Melaia. Generator Rewind Technology and Efficiency
+improvements Implemented on Rewinds in Africa. Available online:
+http://az817975.vo.msecnd.net/wm­418498­cmsimages/
+AcknowledgmentstoPowerGenAfrica&PennwellCorporation.pdf.
+
+E. Clarke, Circuit Analysis of A­C Power Systems; Symmetrical and Related
+Components , ser. General Electric Series. John Wiley & Sons, Inc., 1943, vol. 1.
+
+(2021) Graphite. Minerals Education Coalition. Retrieved 2021­02­01. [Online].
+Available: https://mineralseducationcoalition.org/minerals­database/graphite/
+
+Y. P. Frei, “EJ2222 Project 1: Analysis of an induction machine using a FEM
+based software,” KTH Royal Institute of Technology, Tech. Rep., Sep. 2020, KTH
+internal document .
+
+(2021) Over 50 Years of Moore’s Law. Intel Corporation. Retrieved
+2021­03­01. [Online]. Available: https://www.intel.com/content/www/us/en/
+silicon­innovations/moores­law­technology.html
+
+O. Wallmark, AC Machine Analysis – Fundamental Theory . KTH Royal
+Institute of Technology, 2020, KTH internal document .
+
+G. Heinzel, A. Rüdiger, R. Schilling, “Spectrum and spectral density estimation
+by the Discrete Fourier transform (DFT), including a comprehensive list of
+window functions and some new flat­top windows,” Feb. 2002, Available online:
+https://pure.mpg.de/pubman/faces/ViewItemOverviewPage.jsp?itemId=item_
+152164.
+
+ Model SR785 Dynamic Signal Analyzer , 1st ed., Stanford Research Systems,
+Mar. 2017, Available online: https://thinksrs.com/downloads/pdfs/manuals/
+SR785m.pdf.
+
+L. Harnefors, M. Hinkkanen, O. Wallmark, Control of Voltage­Source Converters
+and Variable­Speed Drives . KTH Royal Institute of Technology, 2020, KTH
+internal document .
+
+(2021) Fast Fourier transform ­ MATLAB fft. The MathWorks, Inc. Retrieved
+2021­03­19. [Online]. Available: https://www.mathworks.com/help/matlab/
+ref/fft.html
+
+ L. Peretti, M Hirvonen, S Kallio, “Control of a Multiphase Machine,” European
+Patent EP3 713 079A1, Sep. 23, 2020. [Online]. Available: https://worldwide.
+espacenet.com/publicationDetails/biblio?II=0&ND=3&adjacent=true&locale=
+en_EP&FT=D&date=20200923&CC=EP&NR=3713079A1&KC=A1#
+

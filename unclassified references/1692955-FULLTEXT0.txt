@@ -1,0 +1,43 @@
+Bibliography
+
+ active learning . 2019. URL: https : / / www . investopedia . com / terms / s /
+standarddeviation.asp .
+
+ ACTIVE LEARNING INTRODUCTION . 2020. URL: https://zhuanlan.zhihu.
+com/p/239756522 .
+
+ FNN. 2019. URL: https://www.cnblogs.com/Luv-GEM/p/10694471.html .
+
+ linear transformation . 2021. URL: https : / / pytorch . org / docs / stable /
+generated/torch.nn.Linear.html/ .
+
+ Roy, Nicholas and McCallum, Andrew. “Toward optimal active learning through
+monte carlo estimation of error reduction”. In: ICML, Williamstown 2 (2001),
+pp. 441–448.
+
+ Settles, Burr, Craven, Mark, and Ray, Soumya. “Multiple-instance active
+learning”. In: Advances in neural information processing systems 20 (2007),
+pp. 1289–1296.
+
+ Sharma, Ramirez-Loaiza M.E. and al., M. Kumar G. et. “Active learning: an
+empirical study of common baselines”. In: Data Min Knowl Disc 31, 287–313
+(2017). (2016).
+
+ What is a Confusion Matrix in Machine Learning . 2021. URL: https : / /
+machinelearningmastery.com/confusion-matrix-machine-learning/ .
+
+ Wikipedia contributors. Convolutional neural network — Wikipedia, The Free
+Encyclopedia .https : / / en . wikipedia . org / w / index . php ? title =
+Convolutional _ neural _ network & oldid = 1054217311 . [Online; accessed 10-
+December-2021]. 2021.
+
+ Wikipedia contributors. Friedman test — Wikipedia, The Free Encyclopedia .
+[Online; accessed 6-January-2022]. 2021. URL: https://en.wikipedia.org/
+w/index.php?title=Friedman_test&oldid=1033975913 .
+
+ Yang, Yazhou and Loog, Marco. “A benchmark and comparison of active
+learning for logistic regression”. In: Pattern Recognition 83 (2018), pp. 401–
+415. ISSN: 0031-3203. DOI: https : / / doi . org / 10 . 1016 / j . patcog . 2018 .
+06 . 004 . URL: https : / / www . sciencedirect . com / science / article / pii /
+S0031320318302140 .
+45

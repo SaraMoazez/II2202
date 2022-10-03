@@ -1,0 +1,23 @@
+Bibliography
+
+ Cesar Cerrudo and Lucas Apa. “Hacking robots before skynet”. In:
+IOActive Website (2017), pp. 1–17.
+
+ Francisco Javier Rodrıguez Lera et al. “Cybersecurity in autonomous
+systems:EvaluatingtheperformanceofhardeningROS”.In: XVIIWork-
+shop en Agentes Fısicos 47 (2016).
+
+ Federico Maggi et al. “Rogue robots: Testing the limits of an indus-
+trialrobot’ssecurity”.In: TrendMicro,PolitecnicodiMilano,Tech.Rep
+(2017).
+
+ YananGongetal.“ForensicInvestigationofAHackedIndustrialRobot”.
+In:CriticalInfrastructureProtectionXIV .Ed.byJasonStaggsandSu-
+jeet Shenoi. Cham: Springer International Publishing, 2020, pp. 221–
+241.
+
+ WenjunXiongandRobertLagerström.“Threatmodeling–Asystematic
+literature review”. In: Computers & security 84 (2019), pp. 53–69.
+
+ AdamShostack.“ExperiencesThreatModelingatMicrosoft.”In: MOD-
+SEC@ MoDELS 2008 (2008).

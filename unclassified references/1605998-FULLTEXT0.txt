@@ -1,0 +1,58 @@
+BIBLIOGRAPHY|49
+Bibliography
+
+ mysql. https://github.com/mysqljs/mysql , 2021. Ac-
+cessed: 2021-05-07.
+
+ I. Balbaert. ThewaytoGo:Athorough introduction totheGo
+programming language. IUniverse, 2012.
+
+ D. Buettner, J. Kunkel, and T. Ludwig. Using non-blocking i/o oper-
+ations in high performance computing to reduce execution times. In
+European ParallelVirtualMachine/Message PassingInterface Users’
+GroupMeeting, pages 134–142. Springer, 2009.
+
+ P. DuBois. MySQL. Pearson Education, 2008.
+
+ Y. A. Liu and S. D. Stoller. From recursion to iteration: what are the
+optimizations? In Proceedings ofthe2000ACMSIGPLAN workshop
+onPartialevaluation andsemantics-based programmanipulation, pages
+73–82, 1999.
+
+ X. Mao. Comparison between symfony, asp. net mvc, and node. js ex-
+press for web development. Master’s thesis, North Dakota State Univer-
+sity, 2018.
+
+ D. Parker. JavaScript withPromises: Managing Asynchronous Code. "
+O’Reilly Media, Inc.", 2015.
+
+ B. Raghavan and J. Ma. The energy and emergy of the internet. In
+Proceedings ofthe10thACMWorkshop onhottopicsinnetworks,pages
+1–6, 2011.
+
+ G. Reese. Database Programming withJDBCandJAVA. " O’Reilly
+Media, Inc.", 2000.
+
+ T.L.Sterling. Beowulfclustercomputing withLinux. MITpress,2002.
+
+ N.J.YeagerandR.E.McGrath. Webservertechnology. MorganKauf-
+mann, 1996.Appendix A:Thread Use|53
+Appendix A
+Thread Use
+10 Users 100 Users 500 Users 1000 Users010203040506070
+8:47
+7:828:34
+7:6570 70:47
+69:59
+67:27
+31:69
+31:38
+29:61
+28:456463
+53:28
+49:01Number of ThreadsGo
+Apache
+IIS
+Node.js Sum
+Figure A.1: Comparison of the number of threads used in the Fibonacci 10
+test.

@@ -1,0 +1,50 @@
+Bibliography
+
+ Hien Thi Ha. “Recognition of Invoices from Scanned Documents.” In: RASLAN. 2017, pp. 71–
+78.
+
+ CarlBoströmetal. Automatic reading and interpretation of paper invoices: ADC invoice .2016.
+
+ Jason DM Rennie and Ryan Rifkin. “Improving multiclass text classiﬁcation with the support
+vector machine”. In: (2001).
+
+ Patrick et al Farley. Printed, handwritten text recognition - Computer Vision - Azure Cogni-
+tive Services .url:https://docs.microsoft.com/en- us/azure/cognitive- services/
+computer-vision/concept-recognizing-text .
+
+ Christopher D Manning. Introduction to information retrieval. eng. Cambridge: Cambridge
+University Press, 2008. isbn: 0-521-86571-9.
+
+ Christopher M Bishop. Pattern recognition and machine learning . eng. Information science
+and statistics. New York: Springer, 2006. isbn: 978-0-387-31073-2.
+39
+ Stuart Russell. Artiﬁcial intelligence : a modern approach . eng. 3.ed., Global edition.. Pren-
+tice Hall Series in Artiﬁcial Intelligence. Harlow: Pearson Education Limited; 2016. isbn:
+9781292153964.
+
+ Quoc V Le et al. “A tutorial on deep learning part 2: Autoencoders, convolutional neural
+networks and recurrent neural networks”. In: Google Brain (2015), pp. 1–20.
+
+ Salma Ghoneim. Accuracy, Recall, Precision, F-Score & Speciﬁcity, which to optimize on?
+2019. url:https://towardsdatascience.com/accuracy-recall-precision-f-score-
+specificity-which-to-optimize-on-867d3f11124.
+
+ Karen Simonyan and Andrew Zisserman. “Very Deep Convolutional Networks for Large-Scale
+Image Recognition”. In: (2014).
+
+ Ronald Aylmer Fisher et al. “014: On the" Probable Error" of a Coeﬃcient of Correlation
+Deduced from a Small Sample.” In: (1921).
+
+PyTorch. url:https://pytorch.org/.
+40
+What is PyTorch? url:https : / / pytorch . org / tutorials / beginner / blitz / tensor _
+tutorial.html .
+
+ Soumith et al Chintala. pytorch/pytorch. url:https://github.com/pytorch/pytorch/
+blob/master/README.md.
+
+ Val Neekman. un33k/python-slugify. url:https://github.com/un33k/python-slugify/
+blob/master/README.md.
+41Appendix
+Individual Models
+42

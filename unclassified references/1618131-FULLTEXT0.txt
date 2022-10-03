@@ -1,0 +1,47 @@
+64 | REFERENCES
+References
+
+ G. Grimmett, Percolation , second edition ed. New York: Springer-
+Verlag, 1999.
+
+ B. Sedgewick and K. Wayne, COS 226 Programming
+Assignment, Percolation , Princeton, 2008. [Online].
+Available: https://www.cs.princeton.edu/courses/archive/spring11/
+cos226/assignments/percolation.html
+
+ [Online]. Available: https://upload.wikimedia.org/wikipedia/
+commons/thumb/e/e6/Gamma_distribution_pdf.svg/800px-Gamma_
+distribution_pdf.svg.png
+
+ J. E. Steif, A mini course on percolation theory . Chalmersplatsen,
+Göteborg: Chalmers University, Aug 2009.
+
+ R. Rojas, Neural Networks - A Systematic
+Introduction . Berlin: Springer-Verlag, 1996. [Online].
+Available: http://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/pmwiki/
+pmwiki.php?n=Books.NeuralNetworksBook
+
+ S. Chandramouli, S. Dutt, A. Das, and a. O. M. C. Safari, Machine
+Learning. Pearson Education India, 2018. [Online]. Available:
+https://books.google.se/books?id=R6ZJzQEACAAJ
+
+ S. Yan, L. Wu, J. Fan, F. Zhang, Y. Zou, and Y. Wu, “A novel hybrid
+woa-xgb model for estimating daily reference evapotranspiration using
+local and external meteorological data: Applications in arid and humid
+regions of china,” Agricultural water management , vol. 244, 2021.
+
+ A. Pathy, S. Meher, and B. P, “Predicting algal biochar yield
+using extreme gradient boosting (xgb) algorithm of machine learning
+methods,” Algal research (Amsterdam) , vol. 50, p. 102006, 2020.
+
+ P. García Nieto, E. García-Gonzalo, F. Sánchez Lasheras, and
+F. de Cos Juez, “Hybrid pso–svm-based method for forecasting of the
+remainingusefullifeforaircraftenginesandevaluationofitsreliability,”
+Reliability engineering & system safety , vol. 138, pp. 219–231, 2015.
+
+ [Online]. Available: https://github.com/dmlc/xgboost/blob/master/doc/
+parameter.rstAppendix A: Data Representation | 69
+Appendix A
+Data Representation
+A.1 Training Data Representation
+Figure A.1 – Visualisation of the Training Data Representation

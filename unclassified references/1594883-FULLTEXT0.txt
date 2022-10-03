@@ -1,0 +1,92 @@
+Bibliography
+
+ D-Wave’sSystems. D-WaveOceanSoftwareDocumentation .Available
+athttps://docs.ocean.dwavesys.com/en/stable/d-
+wave-ocean-software-documentation (2021/04/13).
+
+ GeeksforGeeks. Evolutions of Microprocessors . Available at https:
+//www.geeksforgeeks.org/evolution-of-microprocessors/ .
+
+ E.R. Johnston, N. Harrigan, and M. Gimeno-Segovia. Programming
+QuantumComputers:EssentialAlgorithmsandCodeSamples .O’Reilly
+Media,2019. /i.sc/s.sc/b.sc/n.sc:9781492039631. /u.sc/r.sc/l.sc:https://books.google.
+se/books?id=SKegDwAAQBAJ .
+
+ National Institute of Standards and Technology. Quantum logic gates
+NIST page . Available at https://www.nist.gov/topics/
+physics / introduction - new - quantum - revolution /
+quantum-logic-gates .
+
+ NVIDIA. NVIDIA CUDA developer zone . Available at https : / /
+developer.nvidia.com/cuda-zone .
+
+ DimitrisMavrommatis. CUDAGPUImplementationofTravellingSalesman
+Problem. Availableatrepository https://github.com/slowr/
+TSP-Cuda .
+5354 BIBLIOGRAPHY
+
+ D-Wave’s Systems. More than 250 Quantum Computing applications .
+Available at https://www.dwavesys.com/applications
+(2021/04/16).
+
+ AIMultiple. Top20QuantumComputingUseCasesin2021 .Available
+athttps://research.aimultiple.com/quantum-computing-
+applications/ (2021/04/16).
+
+ DavidL.Applegateetal. Thetravelingsalesmanproblem:acomputational
+study. Princeton university press, 2006.
+
+ William J Cook. In pursuit of the traveling salesman: mathematics at
+the limits of computation . Princeton University Press, 2011.
+
+ GregorioHernándezPeñalver. ComplejidadNP-Completitud .Available
+athttp://www.dma.fi.upm.es/personal/gregorio/
+optimizacion_combinatoria/ComplejidadNP.pdf (2021/04/21).
+
+ EdwardFarhietal.“Quantumcomputationbyadiabaticevolution”.In:
+arXiv preprint quant-ph/0001106 (2000).
+
+ D-Wave’s Systems. Binary Quadratic Models . Available at https:
+//docs.ocean.dwavesys.com/en/stable/concepts/
+bqm.html (2021/04/21).
+
+ AndrewLucas.“IsingformulationsofmanyNPproblems”.In: Frontiers
+in Physics 2 (2014), p. 5.
+
+ StefanieZbindenetal.“EmbeddingAlgorithmsforQuantumAnnealers
+withChimeraandPegasusConnectionTopologies”.In: HighPerformance
+Computing .Ed.byPonnuswamySadayappanetal.Cham:SpringerInternational
+Publishing, 2020, pp. 187–206. /i.sc/s.sc/b.sc/n.sc: 978-3-030-50743-5.
+
+ BenTurner. World’s1stmultinodequantumnetworkisabreakthrough
+forthequantuminternet .Availableat https://www.livescience.
+com/three-node-quantum-network.html .
+
+ MattSwayne. TQDExclusive:WithKeyPartnershipsinPlace,PsiQuantum
+SetsSightonDeliveringCommerciallyViable1Million-QubitQuantum
+Computer . Available at https : / / thequantumdaily . com /
+2021/06/07/tqd-exclusive-with-key-partnerships-
+in-place-psiquantum-sets-sight-on-delivering-
+commercially- viable- 1- million- qubit- quantum-
+computer/ .56 BIBLIOGRAPHY
+Technical Reports:
+- D-WaveSystemsInc.,"Choosinggoodproblemsforquantumannealing",
+Corporate Headquarters, Burnaby, Canada, Tech. Rep. 14-1046A-A.
+2020-09-06.
+- D-WaveSystemsInc.,"D-WaveProblem-SolvingHandbook",Corporate
+Headquarters, Burnaby, Canada, Tech. Rep. 9-1171A-H. 2021-02-04.
+User Manual:
+- D-WaveSystemsInc.,"D-WaveSolverPropertiesandParametersReference",
+Corporate Headquarters, Burnaby, Canada, User Manual. 9-1171A-H.
+2021-01-28.
+- D-WaveSystemsInc.,"SolverComputationTime",CorporateHeadquarters,
+Burnaby, Canada, User Manual. 09-1107B-C. 2021-02-09.
+Online Documentation and Guides:
+- D-Wave Systems Inc., "Solving Problems With D-Wave Solvers",
+https://docs.dwavesys.com/docs/latest/c_gs_3.html
+- D-Wave Systems Inc., "Quantum Computing Tutorial Part 1: Quantum
+annealing,QUBOsandmore",D-WaveSystems,YouTube. https://youtu.be/teraaPiaG8s
+- D-Wave Systems Inc., "Quantum Computing Tutorials Part 2: QUBOs
+andEmbedding",D-WaveSystems,YouTube. https://youtu.be/vknIOydOJOo
+- D-WaveSystemsInc.,"SolvingProblemsWithD-WaveSolvers",D-Wave
+Systems, YouTube. https://youtu.be/rOrvvF-xjD4

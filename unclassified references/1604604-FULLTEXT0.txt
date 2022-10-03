@@ -1,0 +1,110 @@
+REFERENCES | 57
+References
+
+ A.Vaswani,N.Shazeer,N.Parmar,J.Uszkoreit,L.Jones,A.N.Gomez,
+L. Kaiser, and I. Polosukhin, “Attention is all you need,” 2017.
+
+ J. Dodge, G. Ilharco, R. Schwartz, A. Farhadi, H. Hajishirzi,
+and N. Smith, “Fine-tuning pretrained language models: Weight
+initializations, data orders, and early stopping,” 2020.
+
+ F. Olsson, “Bootstrapping named entity annotation by means of active
+machine learning: A method for creating corpora,” Ph.D. dissertation, ,
+SICS, 2008. [Online]. Available: http://spraakdata.gu.se/publikationer/
+datalinguistica/DL21.pdf
+
+ A. Kirsch, J. van Amersfoort, and Y. Gal, “Batchbald: Eﬃcient
+and diverse batch acquisition for deep bayesian active learning,” in
+Advances in Neural Information Processing Systems , H. Wallach,
+H. Larochelle, A. Beygelzimer, F. d /quotesingle.ts1Alché-Buc, E. Fox, and58 | REFERENCES
+R. Garnett, Eds., vol. 32. Curran Associates, Inc., 2019.
+[Online]. Available: https://proceedings.neurips.cc/paper/2019/ﬁle/
+95323660ed2124450caaac2c46b5ed90-Paper.pdf
+
+ T. Mikolov, G. Corrado, K. Chen, and J. Dean, “Eﬃcient estimation of
+word representations in vector space,” 01 2013, pp. 1–12.
+
+ M.E.Peters,M.Neumann,M.Iyyer,M.Gardner,C.Clark,K.Lee,and
+L.Zettlemoyer, “Deepcontextualized wordrepresentations,”in Proc.of
+NAACL, 2018.
+
+ J. Ba, J. Kiros, and G. Hinton, “Layer normalization,” 07 2016.
+
+ J. Alammar, 2018. [Online]. Available: https://jalammar.github.io/
+illustrated-transformer/60 | REFERENCES
+
+ A. Radford and K. Narasimhan, “Improving language understanding by
+generative pre-training,” 2018.
+
+ Y. Liu, M. Ott, N. Goyal, J. Du, M. Joshi, D. Chen, O. Levy, M. Lewis,
+L. Zettlemoyer, and V. Stoyanov, “Roberta: A robustly optimized bert
+pretraining approach,” 2019.
+
+ Z. Yang, Z. Dai, Y. Yang, J. Carbonell, R. R. Salakhutdinov,
+and Q. V. Le, “Xlnet: Generalized autoregressive pretraining for
+languageunderstanding,”in AdvancesinNeuralInformationProcessing
+Systems, H. Wallach, H. Larochelle, A. Beygelzimer, F. d /quotesingle.ts1Alché-Buc,
+E. Fox, and R. Garnett, Eds., vol. 32. Curran Associates, Inc.,
+2019. [Online]. Available: https://proceedings.neurips.cc/paper/2019/
+ﬁle/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf
+
+ V. Sanh, L. Debut, J. Chaumond, and T. Wolf, “Distilbert, a distilled
+version of bert: smaller, faster, cheaper and lighter,” 2020.
+
+ X.Jiao,Y.Yin,L.Shang,X.Jiang,X.Chen,L.Li,F.Wang,andQ.Liu,
+“Tinybert: Distilling bert for natural language understanding,” 2020.
+
+ M.Malmsten,L.Börjeson,andC.Haﬀenden,“Playingwithwordsatthe
+national library of sweden – making a swedish bert,” 2020.
+
+ L.RamshawandM.Marcus,“Textchunkingusingtransformation-based
+learning,” in Third Workshop on Very Large Corpora , 1995. [Online].
+Available: https://www.aclweb.org/anthology/W95-0107
+
+ B. Settles, “Active learning literature survey,” University of Wisconsin–
+Madison, Computer Sciences Technical Report 1648, 2009.
+
+ B.Settles,M.Craven,andS.Ray,“Multiple-instanceactivelearning,”in
+Advances in Neural Information Processing Systems , J. Platt, D. Koller,
+Y. Singer, and S. Roweis, Eds., vol. 20. Curran Associates, Inc.,
+2008. [Online]. Available: https://proceedings.neurips.cc/paper/2007/
+ﬁle/a1519de5b5d44b31a01de013b9b51a80-Paper.pdf
+
+ B. Settles and M. Craven, “An analysis of active learning strategies for
+sequence labeling tasks,” ser. EMNLP ’08. USA: Association for
+Computational Linguistics, 2008, p. 1070–1079.
+
+ L. Ahrenberg, J. Frid, and L.-J. Olsson, “A new resource for
+swedish named-entity recognition,” 2020. [Online]. Available: https:
+//gubox.app.box.com/v/SLTC-2020-paper-17
+
+ Arbetsförmedlingen AI-Center. AF-BERT. [Online]. Available: https:
+//github.com/af-ai-center/SweBERT
+
+ F. Stollenwerk, N. Fastlund, A. Nyqvist, and J. Öhman, “Annotated job
+ads using swedish language models and named entity recognition,” in
+preparation.
+
+ F.Stollenwerk.nerblackbox: apythonpackagetoﬁne-tunetransformer-
+basedlanguagemodelsfornamedentityrecognition.[Online].Available:
+https://af-ai-center.github.io/nerblackbox/
+
+ K.Margatina,L.Barrault,andN.Aletras,“Bayesianactivelearningwith
+pretrained language models,” 2021.Appendix A: Hyperparameter Comparison | 65
+Appendix A
+Hyperparameter Comparison
+A.1 ALPS Inspired vs Early Stopping
+While the hyperparameters from ALPS may push the performance slightly
+for full-sized datasets with learning rate decay, it does not allow model
+training to convergence due to the low number of epochs. Instead, training
+until convergence using early stopping and a maximum of 50 epochs allows
+convergencealsoforearlyiterationsandsmalldatasets. Thiscouldbetreated
+as a trade-oﬀ. Nevertheless, stable and fair training throughout all iterations
+is in this thesis deemed more important than perfect ﬁne-tuning for AL
+experiments. A comparison of the hyperparameters from ALPS and the
+hyperparameters used in the experiments is shown in Figure A.1. Indeed,
+models in early iterations perform poorly with a low number of epochs.
+Furthermore, the variance with early stopping is reduced.
+FigureA.1–Modelhyperparameterperformanceforanincreasingnumberof
+datalabels. Thex-axisshowsthenumberoflabeledsamplesbeyondtheinitial
+seed dataset of 50 samples.

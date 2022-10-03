@@ -1,0 +1,50 @@
+Bibliography
+
+ D. Jacobson and D. Mayne, Dierential Dynamic Programming , ser. Modern
+analytic and computational methods in science and mathematics. American
+Elsevier Publishing Company, 1970.
+
+ P.-B. Wieber, R. Tedrake, and S. Kuindersma, \Modeling and control of legged
+robots," in Springer handbook of robotics . Springer, 2016, pp. 1203{1234.
+
+ M. Diehl, \Lecture notes on optimal control and estimation," 2014.
+
+ M. Giftthaler, \Towards a unied framework of ecient algorithms for numer-
+ical optimal robot control," Ph.D. dissertation, ETH Zurich, 2018.
+
+ R. Sargent and G. Sullivan, \The development of an ecient optimal control
+package," in Optimization Techniques . Springer, 1978, pp. 158{168.
+
+ E. Pellegrini and R. P. Russell, \A multiple-shooting dierential dynamic pro-
+gramming algorithm. part 1: Theory," Acta Astronautica , vol. 170, pp. 686{
+700, 2020.
+
+ \Documentation for optimal control for switched systems algorithm (ocs2),"
+https://leggedrobotics.github.io/ocs2/, accessed: 2021-01-27.
+
+ I. P olik and T. Terlaky, Interior Point Methods for Nonlinear Optimization .
+Berlin, Heidelberg: Springer Berlin Heidelberg, 2010, pp. 215{276.
+
+ P. T. Boggs and J. W. Tolle, \Sequential quadratic programming," Acta nu-
+merica , vol. 4, pp. 1{51, 1995.
+
+ J. Nocedal and S. Wright, Numerical optimization . Springer Science & Busi-
+ness Media, 2006.
+
+ 7. The Trust-Region Subproblem , pp. 169{248.
+
+ G. Frison, \Numerical methods for model predictive control," 2012.
+
+ G. Guennebaud, B. Jacob et al. , \Eigen v3," http://eigen.tuxfamily.org, 2010.
+
+ \Documentation for hpipm," https://github.com/giaf/hpipm/blob/master/
+doc/guide.pdf, accessed: 2021-01-27.
+
+ P. Fankhauser and C. Gwerder, \Modeling and control of a ballbot," Master's
+thesis, ETH Zurich, Z urich, 2010, bachelor Thesis ETH Zurich, 2010.
+
+ J. Hall, A. Nurkanovi c, F. Messerer, and M. Diehl, \A sequential convex pro-
+gramming approach to solving quadratic programs and optimal control prob-
+lems with linear complementarity constraints," IEEE Control Systems Letters ,
+2021.
+

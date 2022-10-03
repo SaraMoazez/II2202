@@ -1,0 +1,10 @@
+Bibliography
+
+Bishop, Christopher M. Pattern recognition and Machine learning . Springer
+Science,2209.
+
+Taylor, Graham W, Hinton, Geoffrey E, and Roweis, Sam. “Modeling Human
+Motion Using Binary Latent Variables”. In: Advances in Neural Information
+Processing Systems . Ed. by B. Schölkopf, J. Platt, and T. Hoffman. Vol. 19. MIT
+Press,2007.
+

@@ -1,0 +1,29 @@
+Bibliography
+
+Ayyadevara, Yeshwanth Reddy; V Kishore. Modern Computer Vision with
+PyTorch.PacktPublishing,2020.
+
+Chan,Sixian,Huang,Cheng,Bai,Cong,Ding,Weilong,andChen,Shengyong.
+“Res2­UNeXt: a novel deep learning framework for few­shot cell image
+segmentation”.In: Multimedia Tools and Applications (2021),pp.1–14.
+
+Hoiem, Derek, Divvala, Santosh K, and Hays, James H. “Pascal VOC 2008
+challenge”.In: World Literature Today (2009).
+
+Honda,Hiroto. Digging into Detectron 2 — part 1 .URL: https://medium.com/
+@hirotoschwert/digging-into-detectron-2-47b2e794fabd .
+
+Ruder, Sebastian. Transfer Learning ­ Machine Learning’s Next Frontier .
+http://ruder.io/transfer-learning/ .2017.
+
+Sweden, AI. Baltic Seabird dataset .https : / / www . ai . se / sites / default /
+files / content / resource / files / baltic _ seabird _ dataset _ description .
+pdf.[Online;accessed22­February­20021].2021.
+
+Voigtlaender, Paul, Krause, Michael, Os￿ep, Aljos￿a, Luiten, Jonathon, Sekar,
+BerinBalachandarGnana,Geiger,Andreas,andLeibe,Bastian.“MOTS:Multi­
+ObjectTrackingandSegmentation”.In: CVPR.2019.
+
+Wu,Yuxin,Kirillov,Alexander,Massa,Francisco,Lo,Wan­Yen,andGirshick,
+Ross. Detectron2 .2019.
+

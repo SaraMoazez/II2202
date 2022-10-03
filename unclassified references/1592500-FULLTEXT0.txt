@@ -1,0 +1,12 @@
+Bibliography
+
+ Mitsumori,
+Ryo, Uchiyama, Hideaki, Saito, Hideo, Servières, Myriam, and
+Moreau, Guillaume. “Change Detection Based on SURF and Color Edge
+Matching”. In: Jan. 2009.
+
+ Niemöller, Jörg and Mokrushin, Leonid. Cognitive technologies in network and
+business automation . June 2018. URL: https : / / www . ericsson . com / en /
+reports- and- papers/ericsson- technology- review/articles/cognitive-
+technologies-in-network-and-business-automation.
+

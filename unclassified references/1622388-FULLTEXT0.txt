@@ -1,0 +1,113 @@
+References
+
+ MARKETSANDMARKETS. Application security market by compo-
+nent(softwaretools(SASTandDAST)andservices),type(webapplica-
+tionsecurityandmobileapplicationsecurity),organizationsize,deploy-
+ment mode, vertical (healthcare and BFSI), and region - global forecast
+to2025.Online: https://www.marketsandmarkets.com/Market-Reports/
+application-security-market-110170194.html, accessed on 2021-04-09.
+
+ GitLab team. 2020 global DevSecOps survey - GitLab. Online: https:
+//about.gitlab.com/developer-survey/, accessed on 2021-04-09.
+
+ United Nations. United Nationals substainable development goals. On-
+line: https://sdgs.un.org/goals, accessed on 2021-07-23.
+
+ Finnish advisory board on research integrity. (2012) Responsible con-
+ductofresearchandproceduresforhandlingallegationsofmisconductin
+Finland. Online: https://tenk.ﬁ/sites/tenk.ﬁ/ﬁles/HTK_ohje_2012.pdf.
+
+ Swedish research council. (2017) Ethics in research. Online: https://
+www.vr.se/english/mandates/ethics/ethics-in-research.html.
+
+ M. Felderer, M. Büchler, M. Johns, A. D. Brucker, R. Breu, and
+A. Pretschner, “Chapter one — security testing: A survey,” ser.
+Advances in Computers, A. Memon, Ed. Elsevier, 2016, vol. 101.
+[Online]. Available: https://www.sciencedirect.com/science/article/pii/
+S0065245815000649
+5758|REFERENCES
+
+ Synopsys. Black Duck software composition analysis. Online:
+https://www.synopsys.com/software-integrity/security-testing/
+software-composition-analysis.html, accessed on 2021-04-16.
+
+ C. Richardson. Microservice patterns. Online: https://microservices.io,
+accessed on 2021-04-23.
+
+ E.Shmueli,R.Vaisenberg,Y.Elovici,andC.Glezer,“Databaseencryp-
+tion — an overview of contemporary challenges and design considera-
+tions,” SIGMOD Record. Publisher: ACM , vol. 38, pp. 29–34, 09 2009.
+
+ The Pallets Projects. Python Flask module. Online: https:
+//palletsprojects.com/p/ﬂask/, accessed on 2021-05-05.
+
+ Gogs team. Ggos - a painless self-hosted Git service. Online: https://
+gogs.io, accessed on 2021-05-06.
+
+ Gogsteam.GogsRESTAPIv1usage.Online: https://github.com/gogs/
+docs-api, accessed on 2021-05-06.
+
+ V. Radha and D. H. Reddy, “A survey on single sign-on techniques,”
+Procedia Technology. Elsevier , vol. 4, pp. 134–139, 2012.
+
+ Network Working Group. HTTP authentication: Basic and digest ac-
+cessauthentication.RFC2617.IETF,1999.Online: https://tools.ietf.org/
+html/rfc2617.
+
+ National Institute of Standards and Technology. (2001, 11) FIPS 197
+- advanced encryption standard (AES). Online: https://csrc.nist.gov/
+publications/detail/ﬁps/197/ﬁnal.
+
+ Docker Inc. Develop with Docker Engine API. Online: https://docs.
+docker.com/engine/api/, accessed on 2021-05-11.
+
+ Docker Inc. Docker SDK for Python. Online: https://docker-py.
+readthedocs.io/, accessed on 2021-05-11.
+
+ RabbitMQ team. RabbitMQ message broker. Online: https://www.
+rabbitmq.com/, accessed on 2021-05-17.
+
+ RabbitMQ team. Message reliaility in RabbitMQ. Online: https://www.
+rabbitmq.com/reliability.html, accessed on 2021-05-17.
+
+ OWASP project. OWASP damn vulnerable serverless application
+project. Avaiable: https://github.com/OWASP/DVSA, accessed on
+2021-06-7.
+
+ Foreseeti AB. The missing piece in DevSecOps. Online: https://
+foreseeti.com/missing-piece-devsecops/, accessed on 2021-06-14.For DIVA
+{
+"Author1": {
+"Last name": "Le",
+"First name": "Duc Quang",
+"Local User Id": "u100001",
+"E-mail": "dqle@kth.se",
+"ORCiD": "0000-0002-00001-1234",
+"organisation": {"L1": "School of Electrical Engineering and Computer Science ",
+}
+},
+"Degree": {"Educational program": ""},
+"Title": {
+"Main title": "A framework to unify application security testing in DevOps environment",
+"Language": "eng" },
+"Alternative title": {
+"Main title": "Ett ramverk för enhetlig testning av applikationssäkerhet i DevOps-miljöer",
+"Language": "swe"
+},
+"Supervisor1": {
+"Last name": "Aura",
+"First name": "Tuomas",
+"E-mail": "tuomas.aura@aalto.ﬁ",
+"Other organisation": "Aalto University, School of Science, Department of Computer Science"}
+},
+"Examiner1": {
+"Last name": "Robert",
+"First name": "Lagerström",
+"E-mail": "robertl@kth.se",
+"organisation": {"L1": " ",
+"L2": "Division of network and systems engineering" }
+},
+"Cooperation": { "Partner_name": "KONE Corporation, Finland"},
+"Other information": {
+"Year": "2021", "Number of pages": "vii, ??"}
+}

@@ -1,0 +1,68 @@
+Bibliography
+
+ ARM . URL: https://www.arm.com (visited on 12/03/2020).
+
+ Dubrova, Elena. Fault-Tolerant Design . 1st ed. Springer, 2013.
+
+ Goodfellow, Ian, Bengio, Yoshua, and Courville, Aaron. Deep Learning .http:
+//www.deeplearningbook.org . MIT Press, 2016.
+
+ Google. Edge TPU . URL: https : / / cloud . google . com / edge - tpu (visited on
+12/03/2020).
+
+ Google. Edge TPU Benchmarks . URL: https : / / coral . ai / docs / edgetpu /
+benchmarks/ (visited on 12/03/2020).
+
+ Håkansson, Anne. “Portal of research methods and methodologies for research
+projects and degree projects”. In: The 2013 World Congress in Computer
+Science, Computer Engineering, and Applied Computing WORLDCOMP 2013;
+Las Vegas, Nevada, USA, 22-25 July . CSREA Press USA. 2013, pp. 67–73.
+60BIBLIOGRAPHY
+
+ Han, Song, Pool, Jeff, Tran, John, and Dally, William. “Learning both
+weights and connections for efficient neural network”. In: Advances in neural
+information processing systems 28 (2015), pp. 1135–1143.
+
+ LeCun, Yann, Boser, Bernhard E, Denker, John S, Henderson, Donnie,
+Howard, Richard E, Hubbard, Wayne E, and Jackel, Lawrence D. “Handwritten
+digit recognition with a back-propagation network”. In: Advances in neural
+information processing systems . 1990, pp. 396–404.
+
+ LeCun, Yann, Cortes, Corinna, and Burges, Christopher J.C. The MNIST
+Database of Handwritten Digits . URL: http://yann.lecun.com/exdb/mnist/
+(visited on 12/03/2020).
+61BIBLIOGRAPHY
+
+ Martin Abadi, Ashish Agarwal, Paul Barham, Eugene Brevdo, Zhifeng Chen,
+Craig Citro, Greg S. Corrado, Andy Davis, Jeffrey Dean, Matthieu Devin,
+Sanjay Ghemawat, Ian Goodfellow, Andrew Harp, Geoffrey Irving, Michael
+Isard, Jia, Yangqing, Rafal Jozefowicz, Lukasz Kaiser, Manjunath Kudlur,
+Josh Levenberg, Dandelion Mané, Rajat Monga, Sherry Moore, Derek Murray,
+Chris Olah, Mike Schuster, Jonathon Shlens, Benoit Steiner, Ilya Sutskever,
+Kunal Talwar, Paul Tucker, Vincent Vanhoucke, Vijay Vasudevan, Fernanda
+Viégas, Oriol Vinyals, Pete Warden, Martin Wattenberg, Martin Wicke, Yuan
+Yu, and Xiaoqiang Zheng. TensorFlow: Large-Scale Machine Learning on
+Heterogeneous Systems . Software available from tensorflow.org. 2015. URL:
+https://www.tensorflow.org/ .
+
+ Marwedel, Peter. Embedded System Design . 3rd ed. Springer, 2018.
+
+ NVIDIA. NVDLA . URL: http://nvdla.org/ (visited on 12/03/2020).
+
+ Paszke, Adam, Gross, Sam, Massa, Francisco, Lerer, Adam, Bradbury, James,
+Chanan, Gregory, Killeen, Trevor, Lin, Zeming, Gimelshein, Natalia, Antiga,
+Luca, Desmaison, Alban, Kopf, Andreas, Yang, Edward, DeVito, Zachary,
+Raison, Martin, Tejani, Alykhan, Chilamkurthy, Sasank, Steiner, Benoit, Fang,
+Lu, Bai, Junjie, and Chintala, Soumith. “PyTorch: An Imperative Style, High-
+Performance Deep Learning Library”. In: Advances in Neural Information
+Processing Systems 32 . Curran Associates, Inc., 2019, pp. 8024–8035. URL:
+http : / / papers . neurips . cc / paper / 9015 - pytorch - an - imperative - style -
+high-performance-deep-learning-library.pdf .
+62BIBLIOGRAPHY
+
+ Russell, Stuart and Norvig, Peter. “Artificial intelligence: a modern approach”.
+In: (2002).
+
+ TensorFlow. TensorFlow Lite . URL: https : / / www . tensorflow . org / lite
+(visited on 12/03/2020).
+

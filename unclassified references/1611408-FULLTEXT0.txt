@@ -1,0 +1,56 @@
+BIBLIOGRAPHY BIBLIOGRAPHY
+
+ G. W. Tigwell, D. R. Flatla, and N. D. Archibald, “ACE: A Colour Palette
+Design Tool for Balancing Aesthetics and Accessibility,” ACM Transactions
+on Accessible Computing , vol. 9, pp. 5:1–5:32, Jan. 2017.
+
+ S. Imtiaz, “The Psychology Behind Web Design,” tech. rep., Dec. 2016.
+
+ J. Best, “Colour Design,” in Front Matter , Woodhead Publishing Series in
+Textiles, Woodhead Publishing, Jan. 2017.
+
+ canva.com, “Color wheel - color theory and calculator | Canva Colors.”
+
+ plex.page, “Participant observation - Summarized by Plex.page | Content |
+Summarization.”
+
+ Q. Ainsworth, “Data Collection Methods.”
+
+ B. B. Kawulich, “Participant Observation as a Data Collection Method,” Forum
+Qualitative Sozialforschung / Forum: Qualitative Social Research , vol. 6, May
+2005.
+
+ utwente.nl, “Data Collection Methods | BMS - DataLab.”
+
+ freeonlinesurveys.com, “Survey vs Questionnaire: What’s the Difference?,”
+July 2019.
+
+ J. Ross, “The Role of Observation in User Research,” Sept. 2018.
+
+ interaction design.org, “What is Usability Testing?.”
+
+ J. Sauer and A. Sonderegger, “The inﬂuence of prototype ﬁdelity and aesthetics
+of design in usability tests: Effects on user behaviour, subjective evaluation and
+emotion,” Applied Ergonomics , vol. 40, pp. 670–677, July 2009.
+
+ J. Sauer, K. Seibel, and B. Rüttinger, “The inﬂuence of user expertise and
+prototype ﬁdelity in usability tests,” Applied Ergonomics , vol. 41, pp. 130–140,
+Jan. 2010.
+
+ P. McFedries, “What Is a Local Web Development Environment and Do You
+Need One?.”
+
+ S. Curtis, “Why Visual Studio Code?.”
+
+ B. Art ¯uras, “What is CSS: Cascading Style Sheet Explained for Beginners,”
+Jan. 2019.
+
+ J. Alexandrea, “What Is JavaScript? A Basic Introduction to JS for Beginners,”
+Aug. 2021.
+
+ M. Brett, PHP & MySQL: The Missing Manual .
+60BIBLIOGRAPHY BIBLIOGRAPHY
+
+ A. Sarosa, “What Is PHP? Learning All About the Scripting Language,” Apr.
+2019.
+

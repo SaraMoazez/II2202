@@ -1,0 +1,18 @@
+Bibliography
+
+Goodfellow,Ian,Bengio,Yoshua,andCourville,Aaron. Deep Learning .http:
+//www.deeplearningbook.org .MITPress,2016.
+
+Krizhevsky, Alex, Sutskever, Ilya, and
+Hinton,GeoffreyE.“ImageNetClassificationwithDeepConvolutionalNeural
+Networks”. In: Advances in Neural Information Processing Systems . Ed. by
+F. Pereira, C. J. C. Burges, L. Bottou, and K. Q. Weinberger. Vol. 25. Curran
+Associates,Inc.,2012.URL: https://proceedings.neurips.cc/paper/2012/
+file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf .
+
+Rangayyan,RangarajM. Biomedical image analysis .CRCpress,2004.
+
+Veeling,BastiaanS.,Linmans,Jasper,Winkens,Jim,Cohen,Taco,andWelling,
+Max. Rotation Equivariant CNNs for Digital Pathology . 2018. arXiv: 1806 .
+03962 [cs.CV] .
+

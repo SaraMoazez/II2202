@@ -2,6 +2,7 @@ from PyPDF2 import PdfReader
 from nltk.tokenize import word_tokenize
 import re
 import os
+import pandas as pd
 
 
 def get_reference_types(file):
@@ -40,15 +41,34 @@ def get_reference_types(file):
                 webPage += 1
             else:
                 journal += 1
-        else:
-            unclassifiedReferences = open(file[0:17]+".txt", "a", encoding="utf-8")
-            unclassifiedReferences.write(reference)
-            unclassifiedReferences.write("\n")
-            unclassifiedReferences.close()
+        #else:
+         #   unclassifiedReferences = open(file[0:17]+".txt", "a", encoding="utf-8")
+          #  unclassifiedReferences.write(reference)
+           # unclassifiedReferences.write("\n")
+            #unclassifiedReferences.close()
 
-    print("Total references: ", (len(splitText)-1), "Number of unclassified references: ", ((len(splitText)-1)-(journal+conference+isbn+webPage)))
-    print("occurrences of journal: " , journal , "occurrences of isbn: " , isbn, "occurrences of conference: ", conference, 
-            "occurrences of webpages: " , webPage)
+    diva_df=pd.read_excel(open("eecs-2022with_references_info_kopia.xlsx", 'rb'))
+    for idx, row in diva_df.iterrows():
+        #print(row["PID"])
+        print(row["PID"], file[0:7])
+        if str(row["PID"]) == str(file[0:7]):
+            print(row["PID"])
+            diva_df.loc[idx, 'Number of Journals'] = journal
+            diva_df.loc[idx, 'Number of Books'] = isbn
+            diva_df.loc[idx, 'Number of Conference Papers'] = conference
+            diva_df.loc[idx, 'Number of Websites'] = webPage
+            diva_df.loc[idx, 'Number of References'] = (len(splitText)-1)
+
+    #print("Total references: ", (len(splitText)-1), "Number of unclassified references: ", ((len(splitText)-1)-(journal+conference+isbn+webPage)))
+    #print("occurrences of journal: " , journal , "occurrences of isbn: " , isbn, "occurrences of conference: ", conference, 
+     #       "occurrences of webpages: " , webPage)
+
+    writer = pd.ExcelWriter("eecs-2022with_references_info_kopia.xlsx", engine='xlsxwriter')
+    diva_df.to_excel(writer, sheet_name='ReferencesInfo')
+
+    # Close the Pandas Excel writer and output the Excel file.
+    writer.save()
+
 
 files = os.listdir("./dataset")
 for file in files:

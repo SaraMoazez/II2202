@@ -1,0 +1,107 @@
+REFERENCES | 61
+References
+
+F. Vannella, G. Iakovidis, E. A. Hakim, E. Aumayr, and S. Feghhi,
+“Remoteelectricaltiltoptimizationviasafereinforcementlearning,”2021.
+
+G.Brockman,V.Cheung,L.Pettersson,J.Schneider,J.Schulman,J.Tang,
+and W. Zaremba, “Openai gym,” 2016.
+
+D. Kalashnikov, A. Irpan, P. Pastor, J. Ibarz, A. Herzog, E. Jang,
+D. Quillen, E. Holly, M. Kalakrishnan, V. Vanhoucke, and S. Levine,
+“Qt-opt: Scalabledeepreinforcementlearningforvision-basedrobotic
+manipulation,” 2018.
+
+P. Abbeel, A. Coates, M. Quigley, and A. Ng, “An application of
+reinforcement learning to aerobatic helicopter ﬂight.” 01 2006, pp. 1–
+8.
+
+D. Silver, T. Hubert, J. Schrittwieser, I. Antonoglou, M. Lai, A. Guez,
+M. Lanctot, L. Sifre, D. Kumaran, T. Graepel, T. Lillicrap, K. Simonyan,
+and D. Hassabis, “Mastering chess and shogi by self-play with a general
+reinforcement learning algorithm,” 2017.
+
+T. Lillicrap, J. Hunt, A. Pritzel, N. Heess, T. Erez, Y. Tassa, D. Silver,
+and D. Wierstra, “Continuous control with deep reinforcement learning,”
+CoRR, 09 2015.
+
+H. Mania, A. Guy, and B. Recht, “Simple random search provides a
+competitive approach to reinforcement learning,” 2018.
+
+F.P.Such,V.Madhavan,E.Conti,J.Lehman,K.O.Stanley,andJ.Clune,
+“Deepneuroevolution: Geneticalgorithmsareacompetitivealternative
+for training deep neural networks for reinforcement learning,” 2018.
+
+H. Liu, K. Simonyan, O. Vinyals, C. Fernando, and K. Kavukcuoglu,
+“Hierarchical representations for eﬃcient architecture search,” 2018.
+
+K. Cho, B. van Merrienboer, D. Bahdanau, and Y. Bengio, “On the
+properties of neural machine translation: Encoder-decoder approaches,”
+2014.
+
+K.Xu,J.Ba,R.Kiros,K.Cho,A.Courville,R.Salakhutdinov,R.Zemel,
+and Y.Bengio, “Show, attend andtell: Neural imagecaption generation
+with visual attention,” 2016.
+
+R.E.Bellman, TheTheoryofDynamicProgramming . SantaMonica,
+CA: RAND Corporation, 1954.
+
+ L. Bottou, “Online learning and stochastic approximations,” 1998.
+
+I.Goodfellow,Y.Bengio,andA.Courville, DeepLearning . MITPress,
+2016, http://www.deeplearningbook.org.
+
+D. Rumelhart, G. Hinton, and J. Mcclelland, “A general framework
+for parallel distributed processing,” Parallel Distributed Processing:
+Explorations in the Microstructure of Cognition , vol. 1, 01 1986.
+
+L.B.Rall,“Automaticdiﬀerentiation: Techniquesandapplications,”in
+Lecture Notes in Computer Science , 1981.
+
+A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, and I. Sutskever,
+“Language models are unsupervised multitask learners,” 2019.
+
+ H. Gholamalinezhad and H. Khosravi, “Pooling methods in deep neural
+networks, a review,” 2020.
+
+S. Baluja and R. Caruana, “Removing the genetics from the standard
+genetic algorithm,” USA, Tech. Rep., 1995.
+
+H. Hasselt, “Double q-learning,” in Advances in Neural Information
+Processing Systems , J. Laﬀerty, C.Williams, J. Shawe-Taylor, R. Zemel,
+and A. Culotta, Eds., vol. 23. Curran Associates, Inc., 2010.
+[Online]. Available: https://proceedings.neurips.cc/paper/2010/ﬁle/
+091d584fced301b442654dd8c23b3fc9-Paper.pdf
+
+T. Schaul, J. Quan, I. Antonoglou, and D. Silver, “Prioritized experience
+replay,” 11 2016.
+
+A. Nair, P. Srinivasan, S. Blackwell, C. Alcicek, R. Fearon, A. De Maria,
+V. Panneershelvam, M. Suleyman, C. Beattie, S. Petersen, S. Legg,
+V.Mnih, K. Kavukcuoglu, andD.Silver, “Massively parallel methodsfor
+deep reinforcement learning,” 07 2015.
+
+J.LehmanandK.Stanley,“Exploitingopen-endednesstosolveproblems
+through the search for novelty,” in ALIFE, 2008.
+
+M. Jaderberg, V. Dalibard, S. Osindero, W. M. Czarnecki, J. Donahue,
+A. Razavi, O. Vinyals, T. Green, I. Dunning, K. Simonyan, C. Fernando,REFERENCES | 69
+and K. Kavukcuoglu, “Population based training of neural networks,”
+2017.
+
+T. Gangwani and J. Peng, “Policy optimization by genetic distillation,”
+2018.
+
+S. Khadka and K. Tumer, “Evolution-guided policy gradient in
+reinforcement learning,” 2018.
+
+G.Brockman,V.Cheung,L.Pettersson,J.Schneider,J.Schulman,J.Tang,
+and W. Zaremba, “Openai gym,” 06 2016.
+
+K. Cho, B. van Merrienboer, D. Bahdanau, and Y. Bengio, “On the
+properties of neural machine translation: Encoder-decoder approaches,”
+2014.
+
+K.He,X.Zhang, S.Ren,andJ.Sun, “Deepresiduallearningforimage
+recognition,” 2015.
+

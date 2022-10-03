@@ -1,0 +1,66 @@
+REFERENCES | 45
+References
+
+ F ederal Enterprise Architecture Framework v2 . Jan. 2013. URL:
+https : / / obamawhitehouse . archives . gov / sites /
+default / files / omb / assets / egov _ docs / fea _ v2 . pdf
+(visited on 11/25/2021).
+
+ UK MOD. MOD Architectural Framework . Dec. 2012. URL: https:
+/ / www . gov . uk / guidance / mod - architecture -
+framework (visited on 11/25/2021).
+
+ Anne Lapkin, Phillip Allega, Brian Burke, Betsy Burton, R Scott
+Bittler, Robert A Handler, Greta A James, Bruce Robertson, David
+Newman, Deborah Weiss, et al. “Gartner clarifies the definition of
+the term enterprise architecture.” In: Research G00156559, Gartner
+(2008).REFERENCES | 47
+
+ John P . Zachman. The Zachman Framework Evolution by John P
+Zachman . 2009. URL: https : / / www . zachman . com /
+resource/ea-articles/54-the-zachman-framework-
+evolution-by-john-p-zachman (visited on 09/20/2021).
+
+ Svyatoslav Kotusev . “Enterprise Architecture Is Not TOGAF.” In:
+British Computer Society (BCS) (Jan. 2016). URL: http : / / www .
+bcs.org/content/conWebDoc/55547 .
+
+ Archi – Open Source ArchiMate Modelling . URL: https : / / www .
+archimatetool.com/ (visited on 12/25/2021).
+
+ A volution. ABACUS Enterprise Architecture T ool . URL: https :
+/ / www . avolutionsoftware . com / abacus/ (visited on
+12/25/2021).
+
+ QualiWare X Enterprise Architecture and Business Management T ool .
+URL: https : / / www . qualiware . com / enterprise -
+architecture (visited on 12/25/2021).
+
+ UNICOM Systems T eamBLUE. UNICOM System Architect® . URL:
+https : / / www . teamblue . unicomsi . com / products /
+system-architect/ (visited on 12/25/2021).
+
+ Svyatoslav Kotusev . “Enterprise architecture frameworks: the fad of the
+century .” In: British Computer Society (BCS) (2016). URL: http://
+www.bcs.org/content/conWebDoc/56347 .
+
+ Barbara Kitchenham and Stuart Charters. “Guidelines for performing
+systematic literature reviews in software engineering.” In: (2007).
+
+ Roberto Garcia and Adina Aldea. “On Enterprise Architecture Patterns:
+A Systematic Literature Review .” In: Jan. 2020, pp. 666–678. DOI: 10.
+5220/0009392306660678 .
+
+ Muhammad Usman, Ricardo Britto, Jürgen Börstler, and Emilia
+Mendes. “T axonomies in software engineering: A Systematic mapping
+study and a revised taxonomy development method.” In: Information
+and Software T echnology 85 (2017), pp. 43–59. ISSN: 0950-5849. DOI:
+https : / / doi . org / 10 . 1016 / j . infsof . 2017 . 01 .
+006 . URL: https : / / www . sciencedirect . com / science /
+article/pii/S0950584917300472 .REFERENCES | 51
+
+ Pallab Saha. “Analyzing The open group architecture framework from
+the GERAM perspective.” In: (). URL: https://www.opengroup.
+org / architecture / wp / saha / TOGAF _ GERAM _ Mapping .
+pdf .
+

@@ -1,0 +1,25 @@
+Bibliography
+
+Tijian Wang, Fei Jiang, Junjun Deng, Yi Shen, Qinyan Fu, Qian Wang, Yin
+Fu, Jianhua Xu, and Danning Zhang. “Urban air quality and regional haze
+weatherforecastforYangtzeRiverDeltaregion”.In: Atmospheric Environment
+58(2012),pp.70–83.
+
+Jui­Sheng Chou and Abdi Suryadinata Telaga. “Real­time detection of
+anomalous power consumption”. In: Renewable and Sustainable Energy
+Reviews33(2014),pp.400–411.
+
+AnvardhNanduriandLanceSherry.“Anomalydetectioninaircraftdatausing
+Recurrent Neural Networks (RNN)”. In: 2016 Integrated Communications
+Navigation and Surveillance (ICNS) .IEEE.2016,pp.5C2–1.
+
+Andreas Theissler. “Detecting known and unknown faults in automotive
+systems using ensemble­based anomaly detection”. In: Knowledge­Based
+Systems123(2017),pp.163–173.
+
+XieZhuangandCaoHongxing.“Theasymmetrictrendofchangeinmaximum
+andminimumtemperatureinBeijing”.In: Acta Meteorologica Sinica 4(1996),
+p.04.
+
+KlausNeusser. Time series econometrics .Springer,2016.
+

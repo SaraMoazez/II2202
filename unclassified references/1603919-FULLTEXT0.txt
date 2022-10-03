@@ -1,0 +1,75 @@
+References
+
+ H. Wirth. Recent Facts about Photovoltaics in Germany (Version of June 10, 2020) .
+Fraunhofer Institute for Solar Energy Systems ISE, Freiburg, Germany, 2020.
+
+ IRENA. Global Renewables Outlook: Energy transformation 2050 . International
+Renewable Energy Agency, Abu Dhabi, 2020.
+
+ IEA PVPS. Trends in Photovoltaic Applications 2020 . International Energy Agency
+Photovoltaic Power Systems Programme, 2020.
+
+ IEA PVPS. National Survey Report of PV Power Applications in Sweden 2019 .
+International Energy Agency Photovoltaic Power Systems Programme, 2020.
+
+ IRENA. Future of solar photovoltaics: Deployment, investment, technology, grid
+integration and socio-economic aspects . International Renewable Energy Agency,
+Abu Dhabi, 2019.
+
+ C. Ahlrot. Tekniska villkor f or anslutning av kunder i regionn at samt till 20/10
+kV-f ordelningsstationer . E.ON Energidistribution AB, 2020.
+
+ A. Nordling. Sveriges framtida eln at- En delrapport . Kungl. Ingenj orsakademien,
+Stockholm, 2016.
+
+ L. S oder. Statisk Analys av Elsystem . KTH Royal Institute of Technology, Stock-
+holm, 2005.
+
+ N. Jenkins and J. Ekanayake. Renewable Energy Engineering . Cambridge University
+Press, Cambridge, 2017.
+
+ E. Axelsson, P. Blomqvist, K. Dvali, K. Ludvig, and T. Unger. Utbyggnad av solel
+i Sverige . Energiforsk, 2017.
+
+ Energimarknadsinspektionen. EIFS2013:1 Energimarknadsinspektionens
+f oreskrifter och allm anna r  ad om krav som ska vara uppfyllda f or att  overf oringen
+av el ska vara av god kvalitet . Energimarknadsinspektionens f orfattningssamling,
+2013.
+
+ SEK Svensk Elstandard. SS-EN 50160 Voltage characteristics of electricity supplied
+by public distribution systems . SEK Svensk Elstandard, 2020.
+
+ Energimarknadsinspektionen. EIFS 2018:2 Energimarknadsinspektionens
+f oreskrifter om fastst allande av generellt till ampliga krav f or n atanslutning av
+generatorer . Energimarknadsinspektionens f orfattningssamling, 2018.
+
+ Svensk Solenergi. Installationsguide: N atanslutna Solcellsanl aggningar . SolEl-
+programmet, n.d.
+
+ Energimyndigheten. Eekter i elsystemet fr  an en  okad andel solel . Energimyn-
+digheten, Eskilstuna, 2016.
+
+ S. Shivashankar, S. Mekhilef, H. Mokhlis, and M. Karimi. Mitigating methods of
+power uctuation of photovoltaic (PV) sources - A review. Renewable and Sustain-
+able Energy Reviews , 59:1170{1184, 2016.
+
+ M. Kraiczy, L. Al Fakhri, T. Stetz, and M. Braun. Do it locally: Local voltage sup-
+port by distributed generation { A management summary (Report IEA-PVPS T14-
+08:2017) . International Energy Agency Photovoltaic Power Systems Programme,
+Germany, 2017.
+
+ P. Bagge. Analys av elkvaliteten i Sveriges f orsta MW-solcellspark . M alardalens
+H ogskola, M alarEnergi, Kraftpojkarna, Energimyndigheten, 2015.
+
+ NREL. Advanced inverter functions to support high levels of distributed solar . Na-
+tional Renewable Energy Laboratory, Golden, 2014.
+
+ EPRI. Common Functions for Smart Inverter: 4th Edition . Electric Power Research
+Institute, Palo Alto, 2016.
+
+ C. Schauder. Advanced Inverter Technology for High Penetration Levels of PV Gen-
+eration in Distribution Systems . National Renewable Energy Laboratory, Boston,
+2014.
+
+ R. Gustavsson. Praktisk Elkvalitet . Nordbo Kraftteknik AB, 2003.
+107108

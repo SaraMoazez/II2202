@@ -1,0 +1,38 @@
+REFERENCES|53
+References
+
+INA226 High-Side or Low-Side Measurement, Bi-Directional Current
+and Power Monitor with I 2C Compatible Interface , Texas Instruments,
+9 2015, rev. A. [Online]. Available: https://www.ti.com/lit/ds/symlink/
+ina226.pdf
+
+MAX4172 Low-Cost, Precision, High-Side Current-Sense Ampliﬁer ,
+MaximIntegrated,62016,rev.4.[Online].Available: https://datasheets.
+maximintegrated.com/en/ds/MAX4172.pdf
+
+STM32F405/415, STM32F407/417, STM32F427/437 and
+STM32F429/439 advanced Arm ®-based 32-bit MCUs ,
+STMicroelectronics, 2 2021, rev.19. [Online]. Available:
+https://www.st.com/resource/en/reference_manual/dm00031020-54|REFERENCES
+stm32f405-415-stm32f407-417-stm32f427-437-and-stm32f429-439-
+advanced-arm-based-32-bit-mcus-stmicroelectronics.pdf
+
+Discovery kit with STM32F407VG MCU , STMicroelectronics, 10
+2020, rev.7. [Online]. Available: https://www.st.com/resource/
+en/user_manual/dm00039084-discovery-kit-with-stm32f407vg-mcu-
+stmicroelectronics.pdf
+
+4 pin ultra small sop phototransistor photocoupler , Everlight, 12 2009,
+rev.4. [Online]. Available: https://datasheet.octopart.com/EL357N-G-
+Everlight-datasheet-11863159.pdf
+
+Description of STM32F4 HAL and low-layer
+drivers, STMicroelectronics, 7 2020, rev.6. [Online].
+Available: https://www.st.com/resource/en/user_manual/dm00105879-
+description-of-stm32f4-hal-and-ll-drivers-stmicroelectronics.pdf
+
+Microcontroller datasheet STM32F405xx STM32F407xx ,
+STMicroelectronics, 8 2020, rev.9. [Online]. Available: https:
+//www.st.com/resource/en/datasheet/dm00037051.pdfAppendix A:STM32F4Discovery Schematic|55
+Appendix A
+STM32F4Discovery Schematic

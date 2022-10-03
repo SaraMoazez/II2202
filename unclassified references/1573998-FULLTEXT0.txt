@@ -1,0 +1,93 @@
+References
+
+Arrhythmia | Irregular Heartbeat . Mar. 2021. URL: https : / /
+medlineplus.gov/arrhythmia.html .
+
+Bhattacharyya, A. “On a measure of divergence between two statistical
+populationsdefinedbytheirprobabilitydistributions.”In: Bulletinofthe
+CalcuttaMathematicalSociety 35(1943),pp.99–110.
+
+Chen,Guangyuanetal.“AnomalyDetectioninEEGSignals:ACaseStudy
+onSimilarityMeasure”.In: Computationalintelligenceandneuroscience
+2020(2020).
+
+Cochran,W.T.etal.“Burstmeasurementsinthefrequencydomain”.In:54
+(1966),p.83.
+
+D,MarkandM,Greg. Signalfiltering:Whyandhow .2019.URL: https:
+/ / www . controlglobal . com / articles / 2019 / signal - filtering - why -
+and- how/#:~:text=The%20main%20reason%20to%20filter, used%20to%
+20infer%20flow%20rate .
+
+Faust, Oliver et al. “Wavelet­based EEG processing for computer­aided
+seizure detection and epilepsy diagnosis”. In: Seizure26 (2015), pp. 56–
+64.
+
+Fisher, Robert S, Scharfman, Helen E, and DeCurtis, Marco. “How can
+we identify ictal and interictal abnormal activity?” In: Issues in Clinical
+Epileptology:AViewfromtheBench (2014),pp.3–23.
+45
+GurselOzmen,Nurhan,Gumusel,Levent,andYang,Yuan.“Abiologically
+inspired approach to frequency domain feature extraction for EEG
+classification”.In: Computationalandmathematicalmethodsinmedicine
+2018(2018).
+
+instfreq.URL: https://se.mathworks.com/help/signal/ug/classify-
+ecg-signals-using-long-short-term-memory-networks.html#mw_rtc_
+ClassifyECGSignalsUsingLSTMNetworksExample_334CD7A7 .
+
+Joshi, Varun, Pachori, Ram Bilas, and Vijesh, Antony. “Classification of
+ictal and seizure­free EEG signals using fractional linear prediction”. In:
+BiomedicalSignalProcessingandControl 9(2014),pp.1–5.
+
+Mougoufan, Jean Bertin Bidias et al. “Adaptive ECG beat classification
+by ordinal pattern based entropies”. In: Communications in Nonlinear
+ScienceandNumericalSimulation 84(2020),p.105156.
+
+P, Kanani and M, Padole. “ECG Heartbeat Arrhythmia Classification
+UsingTime­SeriesAugmentedSignalsandDeepLearningApproach”.In:
+ProcediaComputerScience 171(2020),pp.524–531.
+
+Panganiban, Edward B et al. “ECG diagnostic support system (EDSS): A
+deeplearningneuralnetworkbasedclassificationsystemfordetectingECG
+abnormalrhythmsfromalow­poweredwearablebiosensors”.In: Sensing
+andBio­SensingResearch 31(2021),p.100398.
+
+Plawiak, Pawel. “ECG signals (1000 fragments)”. In: Mendeley Data, v3
+(2017).
+
+Schomer, Donald L and Da Silva, Fernando Lopes. Niedermeyer’s
+electroencephalography: basic principles, clinical applications, and
+relatedfields .LippincottWilliams&Wilkins,2012.
+
+Semmlow,John. Signalsandsystemsforbioengineers:aMATLAB­based
+introduction .AcademicPress,2011.
+
+Sivaraks, Haemwaan and Ratanamahatana, Chotirat Ann. “Robust and
+accurate anomaly detection in ECG artifacts using time series motif
+discovery”. In: Computational and mathematical methods in medicine
+2015(2015).
+
+Talebi, Shawhin. The Wavelet Transform . Jan. 2021. URL: https : / /
+towardsdatascience.com/the-wavelet-transform-e9cfa85d7b34 .
+
+Understanding ROC Curves with Python . URL: https : / / stackabuse .
+com/understanding-roc-curves-with-python/ .
+
+Wang, Jikuo et al. “Automated ECG classification using a non­local
+convolutional block attention module”. In: Computer Methods and
+ProgramsinBiomedicine 203(2021),p.106006.
+
+What are brainwaves? URL: https : / / brainworksneurotherapy . com /
+what-are-brainwaves .
+
+What is Epilepsy? URL: https : / / epilepsyfoundation . org . au /
+understanding-epilepsy/about-epilepsy/what-is-epilepsy/ .
+
+Whitlock,MCandSchluter,D. Theanalysisofbiologicaldata.Robertsand
+CompanyPublishers .2009.
+
+Yan, Zhanglu, Zhou, Jun, and Wong, Weng­Fai. “Energy efficient
+ECG classification with spiking neural network”. In: Biomedical Signal
+ProcessingandControl 63(2021),p.102170.
+51

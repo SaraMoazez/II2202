@@ -1,0 +1,39 @@
+REFERENCES | 43
+References
+
+ R. Bashshur, C. R. Doarn, J. M. Frenk, J. C. Kvedar, and J. O.
+Woolliscroft, “Telemedicine and the covid-19 pandemic, lessons for the
+future,” 2020.
+
+ “Utmaningar och möjligheter med att använda skärmläsare: En
+användarundersökning,” https://www.srf.nu/rapporter, Synskadades
+Riksförbund, Nov. 2019, accessed: 2021-01-20.
+
+ D. Göransson, “What is a screen reader?” https://axesslab.com/
+what-is-a-screen-reader/, Nov. 2019, accessed: 2021-02-04.
+
+ WebAIM, “Screen reader user survey 8 results,” https://webaim.org/
+projects/screenreadersurvey8/#used, 2019, accessed: 2021-02-04.
+
+ Apple, “Voiceover for ios (let our voice be your guide),” http://www.
+apple.com/accessibility/ios/voiceover/, 2021, accessed: 2021-02-04.
+
+ Google, “Android accessibility suite,” https://play.google.com/store/
+apps/details?id=com.google.android.marvin.talkback, 2021, accessed:
+2021-02-04.
+
+ Google, “Use talkback gestures,” https://support.google.com/
+accessibility/android/answer/6151827?hl=en&ref_topic=3529932,
+2021, accessed: 2021-02-04.
+
+ M.F.Story,“Principlesofuniversaldesign,” Universaldesignhandbook ,
+2001.REFERENCES | 45
+
+ B. R. Connell, M. Jones, R. Mace, J. Mueller, A. Mullick, E. Ostroﬀ,
+J.Sanford,E.Steinfeld,M.Story,andG.Vanderheiden,“Theprinciples
+of universal design,” Retrieved January , vol. 11, p. 2005, 1997.
+
+ M.Rosala,“Howtoanalyzequalitativedatafromuxresearch: Thematic
+analysis,”2019.[Online].Available: https://www.nngroup.com/articles/
+thematic-analysis/
+

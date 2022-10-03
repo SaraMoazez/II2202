@@ -1,0 +1,37 @@
+REFERENCES | 80
+References
+
+ R.ElmazriandN.B.Shamkant, Thefundamentalsofdatabasesystems .
+Pearson, 2016.
+
+ H. Dombrovskaya, B. Novikov, and A. Bailliekova, PostgreSQL query
+optimization: the ultimate guide to building eﬃcient queries . Apress,
+2021.
+
+ S. J. Kamatkar, A. Kamble, A. Viloria, L. Hernandez-Fernandez, and
+E. Garcia, “Database performance tuning and query optimization,” in
+Lecture notes in computer science 10943 - Data mining and big data ,
+2018, pp. 3–11.
+
+ D. Sasha and P. Bonnet, Database tuning principles, experiments and
+troubleshooting techniques . Morgan Kaufman, 2002.
+
+ F. Oyvind, “Comparison of physical tuning techniques implemented in
+two open source dbmss,” 2005.
+
+ Q. Wang, “Postgresql database performance optimization,” 2011.
+
+ A. Makris, K. Tserpes, G. Spiliopoulus, D. Zissis, and
+D. Anagnostopoulos, “Mongodb vs postgresql: a comparative study on
+perfomance aspects,” 2020.
+
+ P.Martins,P.Tomé,C.Wanzeller,F.A.Sá,andM.Abbasi,“Comparing
+oracle and postgresql, performance and optimization,” in Trends and
+applications in information systems and technologies, vol. II , 2021, pp.
+3–11.
+
+ A. Håkansson, “Portal of research methods and methodologies for
+research projects and degree projects,” in WORLDCOMP’13 - The
+2013WorldCongressinComputerScience,ComputerEngineering,and
+Applied Computing , 2013.
+

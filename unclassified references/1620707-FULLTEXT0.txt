@@ -1,0 +1,123 @@
+REFERENCES | 79
+References
+
+ “Ansi/ul, ansi/ul 4600 - standard for evaluation of autonomous products.
+presentingthestandardforsafetyfortheevaluationofautonomousvehiclesand
+other products,” https://ul.org/UL4600, accessed: 2021-02-26.
+
+ “SAE J3016,” https://www.sae.org/news/2019/01/
+sae-updates-j3016-automated-driving-graphic, accessed: 2021-03-05.
+
+ “Road vehicles - functional safety iso26262,” https://www.iso.org/obp/ui/#iso:
+std:iso:26262:-1:ed-2:v1:en, accessed: 2021-02-15.
+
+ “Ainomaly fengco mxl tech pitch 2021,” https://www.youtube.com/watch?v=
+JiuwnqDU-6c&t, accessed: 2021-02-18.
+
+ “Formal methods, carnegie mellon university, spring 1998, michael collins,”
+https://users.ece.cmu.edu/~koopman/des_s99/formal_methods/, accessed:
+2021-03-09.
+
+ K. S. Weldemariam, “Using formal methods for building more reliable and
+secure e-voting systems,” Ph.D. dissertation, University of Trento, 2010.
+[Online]. Available: http://eprints-phd.biblio.unitn.it/253/1/Thesis.pdf
+
+ Z. Jun, “Overview of formal methods in software reengineering [j],” Science
+Mosaic, vol. 5, 2009. [Online]. Available: https://en.cnki.com.cn/Article_en/
+CJFDTotal-KJIG200905003.htmlREFERENCES | 81
+
+ F. D. Aarts, “Tomte: bridging the gap between active learning and real-
+world systems,” Ph.D. dissertation, [Sl: sn], 2014. [Online]. Available:
+https://repository.ubn.ru.nl/handle/2066/130428
+
+ S. Cassel, F. Howar, and B. Jonsson, “Ralib: A learnlib extension for inferring
+efsms,” 2015. [Online]. Available: https://www.faculty.ece.vt.edu/chaowang/
+difts2015/papers/paper_5.pdf
+
+ Y. Selvaraj, “On provably correct decision-making for automated driving,”
+research.chalmers.se , 2020. [Online]. Available: $https://research.chalmers.se/
+publication/518961/ﬁle/518961_Fulltext.pdf$82 | REFERENCES
+
+ S.Giorgio,“Automata,languagesandcomputationchapter2: Finiteautomata,”
+University Lecture, 2020. [Online]. Available: https://elearning.dei.unipd.it/
+course/view.php?id=9254
+
+ C. De la Higuera, Grammatical inference: learning automata and grammars .
+Cambridge University Press, 2010. [Online]. Available: https://doi.org/10.
+1017/CBO9781139194655
+
+ “Programming in tabled prolog,” https://www3.cs.stonybrook.edu/~warren/
+xsbbook/book.html, accessed: 2021-03-09.
+
+ B. Holdsworth and C. Woods, Digital logic design . Elsevier, 2002. [Online].
+Available: https://books.google.it/books?hl=en&lr=&id=o7enSwSVvgYC&
+oi=fnd&pg=PP1&dq=digital+logic+design+holdsworth+&ots=zEBo2wkefs&
+sig=_wxwoAC8l4EHpNY41dhM_0lDHd8&redir_esc=y#v=onepage&q=
+digital%20logic%20design%20holdsworth&f=false
+
+ M. Dorofeeva and I. Koufareva, “Novel modiﬁcation of the w-method,”
+Bulletin of the Novosibirsk Computing Center. Series: Computer Science , vol.
+2002, pp. 69–80, 2002. [Online]. Available: https://nccbulletin.ru/ﬁles/article/
+dorofeeva1.pdf
+
+ “Modelastatemachineforhdlcodegeneration,”https://it.mathworks.com/help/
+hdlcoder/ug/model-a-state-machine-for-hdl-code-generation.html, May 2021.
+
+ “Calling matlab from java,” https://it.mathworks.com/help/matlab/
+matlab-engine-api-for-java.html, May 2021.
+
+ “Build java engine programs,” https://it.mathworks.com/help/matlab/matlab_
+external/setup-environment.html, May 2021.REFERENCES | 85
+
+ “Java engine api summary,” https://it.mathworks.com/help/matlab/matlab_
+external/java-api-summary.html, May 2021.
+
+ “Execute matlab functions from java,” https://it.mathworks.com/help/matlab/
+matlab_external/execute-matlab-functions-from-java.html, May 2021.
+
+ “Class interruptedexception,” https://docs.oracle.com/javase/7/docs/api/java/
+lang/InterruptedException.html, July 2021.
+
+ “Class executionexception,” https://docs.oracle.com/javase/7/docs/api/java/
+util/concurrent/ExecutionException.html, July 2021.
+
+ M. Benedikt, C. Ley, and G. Puppis, “What you must remember when
+processing data words,” in Proceedings of AMW 2010 , vol. 619. CEUR-WS.
+org, 2010, pp. http–ceur. [Online]. Available: https://www.cs.ox.ac.uk/ﬁles/
+3092/amw-main.pdf
+
+ A. Farooqui, “On supervisor synthesis via active automata learning,”
+researchgate.net , 2021. [Online]. Available: https://research.chalmers.se/en/
+publication/523934
+
+ B. Sophia, “Learning-based testing of automotive ecus,” 2016.
+[Online]. Available: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%
+3A1065359&dswid=9156
+
+ P. Nycander, “Learning-based testing of microservices: An exploratory case
+studyusinglbtest,”2015.[Online].Available: http://kth.diva-portal.org/smash/
+record.jsf?pid=diva2%3A847215&dswid=6524
+
+ M. Sindhu, “Algorithms and tools for learning-based testing of reactive
+systems,” Ph.D. dissertation, KTH Royal Institute of Technology, 2013.
+[Online]. Available: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%
+3A610371&dswid=-3564
+
+ O. Niese, “An integrated approach to testing complex systems.” Ph.D.
+dissertation, Technical University of Dortmund, Germany, 2003. [Online].
+Available: http://eldorado.tu-dortmund.de/handle/2003/2545REFERENCES | 87
+
+ H. Khosrowjerdi, K. Meinke, and A. Rasmusson, “Automated behavioral
+requirementstestingforautomotiveecuapplications,”in Proc.5thInt.Workshop
+on Model Based Safety Analysis (IMBSA 2017)-to appear. Springer LNCS ,
+2017. [Online]. Available: https://www.researchgate.net/proﬁle/Karl-Meinke/
+publication/310599998_Automated_Behavioral_Requirements_Testing_
+for_Automotive_ECU_Applications/links/607d28032fb9097c0cf379e1/
+Automated-Behavioral-Requirements-Testing-for-Automotive-ECU-Applications.
+pdf
+
+ A. Yasmine, A.-B. Rabea, and G.-O. Patricia, “Towards formal veriﬁcation
+of autonomous driving supervisor functions,” in 10th European Congress on
+Embedded Real Time Software and Systems (ERTS 2020) , 2020. [Online].
+Available: https://hal.archives-ouvertes.fr/hal-02442221
+

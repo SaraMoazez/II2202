@@ -1,0 +1,64 @@
+REFERENCES | 67
+References
+
+ E. Gregersen, “Lidar,” Encyclopaeida Britannica , 2011. [Online].
+Available: https://www.britannica.com/technology/lidar
+
+ M.I.Skolnik,“Radar,” EncyclopaeidaBritannica ,1999(Updated2020).
+[Online]. Available: https://www.britannica.com/technology/radar
+
+ E. Gregersen, “Lidar,” Encyclopaeida Britannica , 2011. [Online].
+Available: https://www.britannica.com/technology/lidar
+
+ Z. Ranjbar and M. Joborn, “Framtidens ﬂexibla processindustriella
+logistik,” SICS Technical Report , May 2015. [Online]. Available: https:
+//www.diva-portal.org/smash/get/diva2:1043550/FULLTEXT01.pdf
+
+ B. Smakic, “Hinderdetektering på den svenska järnvägen,” Master’s
+thesis, Lunds Tekniska Högskola, Lund, SE, 2019.
+
+ A. Mukaru, M. Lenman, S. Olsson, H. Graf, D. Müller, L. Andersson
+etal.,“Rﬁdinrailguidelinefortheidentiﬁcationofrailwayassetsusing
+gs1 standards,” GS1, Guideline, 2012.
+
+ S. Javadi, M. Dahl, and M. I. Pettersson, “Vehicle speed measurement
+model for video-based systems,” Computers Electrical Engineering ,
+vol. 76, pp. 238–248, 2018.
+
+ How does gps work? [Online]. Available: https://spaceplace.nasa.gov/
+gps/en/
+
+ D. M. Tratt, “Emerging technologies, lidar,” in Encyclopedia of Remote
+Sensing, 1st ed., E. G. Njoku, Ed. Springer, NY, 2014.
+
+ R.Menzies,“Lidarsystems,”in EncyclopediaofRemoteSensing ,1sted.,
+E. G. Njoku, Ed. Springer, NY, 2014.
+
+ J.SchneiderandA.Caracas,“Robustspeedmeasurementswithstandard
+wirelessdevices,” IETwirelesssensorsystems ,vol.7,pp.35–43,42017.
+
+ (2020) Zigbee faq. [Online]. Available: https://zigbeealliance.org/
+zigbee-faq
+
+ M. Muzal, Z. Mierczyk, M. Zygmunt, J. Wojtanowski, and
+W. Piotrowski, “Measurement of vehicles speed with full waveform
+lidar,” inSPIE Proceedings , vol. 10159, 2016.
+
+ G.Ryan,“Introductiontopositivism,interpretivismandcriticaltheory,”
+Nurse Researcher , 2018.
+
+ Y. Gidron, “Reliability and validity,” in Encyclopedia of Behavioral
+Medicine, M. Gellman and J. Turner, Eds. Springer, NY, 2013.
+
+ Tfmini plus documentation. [Online]. Available:
+https://www.robotshop.com/media/ﬁles/content/b/ben/pdf/
+sj-gu-tfminiplus-01-a04-datasheet_en.pdf
+
+ B. Nour, K. Sharif, F. Li, S. Biswas, H. Moungla, M. Guizani, and
+Y. Wang, “A survey of internet of things communication using icn: A
+usecaseperspective,” ComputerCommunications ,vol.142-143,pp.95–
+123.
+
+ D. Gatziolis and H.-E. Andersen, “A guide to lidar data acquisition and
+processing for the forests of the paciﬁc northwest,” 7 2008.
+

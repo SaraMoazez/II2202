@@ -1,0 +1,46 @@
+ 
+59 
+ References 
+ 
+
+ United Nations Department of Economic and Social Affairs, World Urbanization Prospects: 
+The 2018 Revision, United Nations Publications, 2019.  
+
+ R. N. Colwell, Manual of Remote Sensing, American Society of Photogrammetry, 1983.  
+
+ T. M. Lillesand, R. W. Kiefer and J. W. Chipman, Remote Sensing and Image Interpretation, 
+7th Edition, Wiley, 2015.  
+
+ United Nations Department of Economic and Social Affairs, The World's Cities in 2018: data 
+booklet, United Nations Publications, 2018.  
+
+ D. A. Quattrochi and M. F. Goodchild, Scale in Remote Sensing and GIS, Lewis Publishers, 
+CRC Press, 1997.  
+
+ R. G. Congalton and K. Green, Assessing the Accuracy of Remotely Sensed Data: Principles 
+and Practices, Third Edition, Taylor and Francis group, CRC Press, 2019.  
+
+ J. R. Jensen, Introductory Digital Image Processing: A Remote Sensing Perspective, 4th 
+Edition, Pearson Education, 2015.  
+
+ P. M. Mather, Computer Processing of Remotely-Sensed Images: An Introduction, Wiley, 
+2004.  
+
+ D. P. Paine and J. D. Kiser, Aerial Photography and Image Interpretation, Wiley, 2003.  
+
+ A. Ferretti, A. Monti-Guarnieri, C. Prati and F. Rocca, InSAR Principles: Guidelines for SAR 
+Interferometry Processing and Interpretation, ESA Publications, 2007.  
+
+ S. Karthikeyan, The Fauna of Bangalore – the Vertebrates and Butterflies of Bangalore: A 
+checklist, World Wide Fund for Nature – India, Karnataka State Office, 1999.  
+
+ 
+ 
+ J. R. Anderson, E. E. Hardy, J. T. Roach and R. E. Witmer, “A land use and land cover 
+classification system for use with remote sensor data,” United States Geological Survey , 
+1976. 
+
+ J. R. Jensen and D. C. Cowen, “Remote Sensing of Urban/Suburban Infrastructure and Socio-
+Economic Attributes,” PHOTOGRAMMETRIC ENGINEERING & REMOTE SENSING , pp. 611-
+622, 1999.  
+

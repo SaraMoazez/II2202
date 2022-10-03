@@ -1,0 +1,27 @@
+References
+
+ A. Alshnakat, D. Gurov, C. Lidström, and P. Rümmer, “Constraint-
+based contract inference for deductive veriﬁcation,” Deductive Software
+Veriﬁcation: Future Perspectives , to appear in: Hähnle, R., Bubel R.
+(eds), KeY 20 Years State-of-Art Volume on Deductive Veriﬁcation.
+Lecture Notes in Computer Science, vol. 12345, 2020.
+
+ G.T.Leavens,E.Poll,C.Clifton,Y.Cheon,C.Ruby,D.Cok,P.Müller,
+J. Kiniry, P. Chalin, D. M. Zimmerman et al., “JML reference manual,”
+2008.
+
+ K.R.M.Leino,“Thisisboogie2,”June2008.[Online].Available: https:
+//www.microsoft.com/en-us/research/publication/this-is-boogie-2-2/
+
+ P. Baudin, P. Cuoq, J.-C. Filliâtre, C. Marché, B. Monate, Y. Moy, and
+V. Prevosto, ACSL: ANSI/ISO C Speciﬁcation Language .
+
+ J. Singleton, G. Leavens, H. Rajan, and D. Cok, “Inferring concise
+speciﬁcations of APIs,” 05 2019.
+
+ “International standard ISO/IEC 9899:2018 – programming languages
+– C.” [Online]. Available: https://webstore.iec.ch/publication/63478
+
+ D. Skantz, “Synthesis of annotations for partially automated deductive
+veriﬁcation,” 2021.
+

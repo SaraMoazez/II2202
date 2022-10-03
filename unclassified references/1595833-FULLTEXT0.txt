@@ -1,0 +1,11 @@
+References
+
+Hastings, Erin and Mesit, Jaruwan. “Optimization of large­scale, real­time
+simulations by spatial hashing”. In: (Jan. 2005).
+
+Li, Bo. “A Comparative Analysis of Spatial Partitioning Methods for Large­
+scale , Real­time Crowd Simulation”. In: 2014.
+
+Reynolds, Craig. “Steering Behaviors For Autonomous Characters”. In:
+(June 2002).
+

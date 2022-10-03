@@ -1,0 +1,17 @@
+Bibliography
+
+ Raul Murillo, Alberto A Del Barrio, and Guillermo Botella. “Deep
+PeNSieve: A deep learning framework based on the posit number sys-
+tem”. eng. In: Digital signal processing 102 (2020), p. 102762. /i.sc/s.sc/s.sc/n.sc:
+1051-2004.
+3233 BIBLIOGRAPHY BIBLIOGRAPHY 33
+
+ SeyedHamedFatemiLangroudi,TejPandit,andDhireeshaKudithipudi.
+“Deep learning inference on embedded devices: Fixed-point vs posit”.
+In:20181stWorkshoponEnergyEﬃcientMachineLearningandCog-
+nitiveComputingforEmbeddedApplications(EMC2) .IEEE.2018,pp.19–
+23.
+
+ Johan Besseling and Anders Renström. A comparative study of IEEE
+754 32-bit Float and Posit 32-bit ﬂoating point format on precision.:
+Using numerical methods. 2020.

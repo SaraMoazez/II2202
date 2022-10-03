@@ -1,0 +1,197 @@
+Bibliography
+
+Cartocarcommunicationsastepcloser .2012. /u.sc/r.sc/l.sc:https://www.
+itsinternational . com / its10 / feature / car - car -
+communications-step-closer .
+
+U.S. Department of Transportation Announces Decision to Move For-
+wardwithVehicle-to-VehicleCommunicationTechnologyforLightVe-
+hicles. 2014. /u.sc/r.sc/l.sc:https://mobility21.cmu.edu/u- s-
+department-of-transportation-announces-decision-
+to-move-forward-with-vehicle-to-vehicle-communication-
+technology-for-light-vehicles/ .
+
+PKI Memo . Tech. rep. C2C-CC, 2011. /u.sc/r.sc/l.sc:http://www.car-2-
+car.org/ .
+
+ PanagiotisPapadimitratos,VirgilGligor,andJean-PierreHubaux.“Se-
+curingVehicularCommunications-Assumptions,Requirements,andPrin-
+ciples”.In: WorkshoponEmbeddedSecurityinCars(ESCAR) .Berlin,
+Germany, 2006, pp. 5–14. /u.sc/r.sc/l.sc:https : / / people . kth . se /
+~papadim/publications/fulltext/secure-vehicular-
+communication-requirements-fundamentals.pdf .
+
+ H. Jin, M. Khodaei, and P. Papadimitratos. “Security and Privacy in
+Vehicular Social Networks”. In: Vehicular Social Networks . Taylor &
+Francis Group, 2016. /u.sc/r.sc/l.sc:https : / / www . taylorfrancis .
+com / chapters / edit / 10 . 1201 / 9781315368450 - 12 /
+security-privacy-vehicular-social-networks-hongyu-
+jin-mohammad-khodaei-panos-papadimitratos .
+
+ Jeremy Clark and Paul C Van Oorschot. “SoK: SSL and HTTPS: Re-
+visiting Past Challenges and Evaluating Certiﬁcate Trust Model En-
+hancements”. In: IEEE SnP . Berkeley, USA, 2013. /u.sc/r.sc/l.sc:https://
+ieeexplore.ieee.org/abstract/document/6547130 .
+
+ MarcosASimplicioJr,EduardoLopesCominetti,HarshKupwadePatil,
+Jeﬀerson E Ricardini, and Marcos Vinicius M Silva. “ACPC: Eﬃcient
+RevocationofPseudonymCertiﬁcatesusingActivationCodes”.In: El-
+sevierAdHocNetworks (2018). /u.sc/r.sc/l.sc:https://www.sciencedirect.
+com/science/article/pii/S1570870518304761 .48 BIBLIOGRAPHY
+
+ Ismail Ari, Bo Hong, Ethan L Miller, Scott A Brandt, and Darrell DE
+Long.“ManagingFlashCrowdsontheInternet”.In: IEEE/ACMMAS-
+COTS.Orlando,FL,USA,2003,pp.246–249. /u.sc/r.sc/l.sc:https://ieeexplore.
+ieee.org/abstract/document/1240667 .
+
+ Stefan Santesson, Michael Myers, Rich Ankney, Ambarish Malpani,
+SlavaGalperin,andCarlisleAdams. X.509InternetPublicKeyInfras-
+tructure Online Certiﬁcate Status Protocol - OCSP . Tech. rep. 2013.
+/u.sc/r.sc/l.sc:https://www.hjp.at/doc/rfc/rfc6960.html .
+
+ Panos Papadimitratos, Giorgio Calandriello, Jean-Pierre Hubaux, and
+AntonioLioy.“ImpactofVehicularCommunicationsSecurityonTrans-
+portation Safety”. In: IEEE INFOCOM Mobile Networking for Vehic-
+ular Environments (MOVE) Workshop (IEEE MOVE) . Phoenix, AZ,
+USA, 2008, pp. 1–6. /u.sc/r.sc/l.sc:https://ieeexplore.ieee.org/
+abstract/document/4544663 .
+
+ MartinFowlerandKentBeck. Refactoring:Improvingthedesignofex-
+isting code . 2018. /u.sc/r.sc/l.sc:https://martinfowler.com/books/
+refactoring.html .
+
+Redis,In-memoryDataStructureStore,UsedasaDatabase .2018. /u.sc/r.sc/l.sc:
+https://redis.io/ .
+
+An Open Source Load Testing Tool . 2019. /u.sc/r.sc/l.sc:https://locust.
+io/.
+
+What’s a Linux container? 2021. /u.sc/r.sc/l.sc:https://www.redhat.
+com/en/topics/containers/whats-a-linux-container .
+
+WhatisaContainer?Astandardizedunitofsoftware .2021. /u.sc/r.sc/l.sc:https:
+//www.docker.com/resources/what-container .50 BIBLIOGRAPHY
+
+Kubernetes: Production-Grade Container Orchestration . 2019. /u.sc/r.sc/l.sc:
+https://kubernetes.io/ .
+
+GoogleKubernetesEngineOverview .2021. /u.sc/r.sc/l.sc:https://cloud.
+google.com/kubernetes-engine/docs/concepts/kubernetes-
+engine-overview .
+
+Kubernetes workloads, Pods . 2021. /u.sc/r.sc/l.sc:https://kubernetes.
+io/docs/concepts/workloads/pods/ .
+
+Kubernetesworkloads,Deployments .2021. /u.sc/r.sc/l.sc:https://kubernetes.
+io/docs/concepts/workloads/controllers/deployment/ .
+
+Kubernetesservice .2021. /u.sc/r.sc/l.sc:https://kubernetes.io/docs/
+concepts/services-networking/service/ .
+
+Kubernetesingress .2021. /u.sc/r.sc/l.sc:https://kubernetes.io/docs/
+concepts/services-networking/ingress/ .
+
+Kubelet.2021. /u.sc/r.sc/l.sc:https://kubernetes.io/docs/reference/
+command-line-tools-reference/kubelet/ .
+
+ MartinFowler. Microservices,adeﬁnitionofthisnewarchitecturalterm .
+2014. /u.sc/r.sc/l.sc:https://martinfowler.com/articles/microservices.
+html.
+
+ T.Leinmüller,L.Buttyan,J-P.Hubaux,F.Kargl,R.Kroh,P.Papadimi-
+tratos, M. Raya, and E. Schoch. “SEVECOM-Secure Vehicle Commu-
+nication”.In: ProceedingsofISTMobileSummit .2006. /u.sc/r.sc/l.sc:https:
+//nss.proj.kth.se/publications/fulltext/sevecom-
+early-1.pdf .
+
+ PRESERVE-Project. 2015. /u.sc/r.sc/l.sc:www.preserve-project.eu/ .
+
+ StylianosGisdakis,MarcelloLaganà,ThanassisGiannetsos,andPanos
+Papadimitratos.“SEROSA:SERviceOrientedSecurityArchitecturefor
+Vehicular Communications”. In: IEEE Vehicular Networking Confer-
+ence(VNC) .Boston,MA,USA,2013. /u.sc/r.sc/l.sc:https://ieeexplore.
+ieee.org/abstract/document/6737597 .BIBLIOGRAPHY 51
+
+ Thanassis Giannetsos, Stylianos Gisdakis, and Panos Papadimitratos.
+“Trustworthy People-Centric Sensing: Privacy, Security and User In-
+centivesRoad-Map”.In: IEEEIFIPMediterraneanAdHocNetworking
+Workshop (IEEE IFIP MedHocNet) . Piran, Slovenia, 2014, pp. 39–46.
+
+ M.KhodaeiandP.Papadimitratos.“Scalable&ResilientVehicle-Centric
+Certiﬁcate Revocation List Distribution in Vehicular Communication
+Systems”.In: IEEETransactionsonMobileComputing(TMC) (2021).
+/u.sc/r.sc/l.sc:https://ieeexplore.ieee.org/abstract/document/
+9042314 .
+
+ JulienFreudiger,MaximRaya,MárkFélegyházi,PanosPapadimitratos,
+andJean-PierreHubaux.“Mix-zonesforLocationPrivacyinVehicular
+Networks”.In: Win-ITS.Vancouver,BC,Canada,2007. /u.sc/r.sc/l.sc:https:52 BIBLIOGRAPHY
+//people.kth.se/~papadim/publications/fulltext/
+location-privacy-mix-zones-vanet.pdf .
+
+ Xiaodong Lin, Xiaoting Sun, Pin-Han Ho, and Xuemin Shen. “GSIS:
+A Secure and Privacy-preserving Protocol for Vehicular Communica-
+tions”. In: IEEE Transactions on Vehicular Technology (2007). /u.sc/r.sc/l.sc:
+https://ieeexplore.ieee.org/abstract/document/
+4357367 .
+
+ Dave Cooper. Internet X.509 Public Key Infrastructure Certiﬁcate and
+Certiﬁcate Revocation List Proﬁle . Tech. rep. RFC 5280, 2008. /u.sc/r.sc/l.sc:
+https://tools.ietf.org/html/rfc5280 .
+
+ Maximiliano Contieri. Singleton Pattern: The Root of All Evil . 2020.
+/u.sc/r.sc/l.sc:https://hackernoon.com/singleton- pattern-
+the-root-of-all-evil-e4r3up7 .
+
+Horizontal Pod Autoscaler . 2019. /u.sc/r.sc/l.sc:https://kubernetes.
+io/docs/tasks/run-application/horizontal-pod-
+autoscale/ .
+
+YAML API Reference . 2018. /u.sc/r.sc/l.sc:https://learn.getgrav.
+org/advanced/yaml .BIBLIOGRAPHY 53
+
+Google Cloud HSM . 2019. /u.sc/r.sc/l.sc:https://cloud.google.com/
+hsm/.
+
+FIPS140-2Level3Non-ProprietarySecurityPolicy .2018. /u.sc/r.sc/l.sc:https:
+//csrc.nist.gov/csrc/media/projects/cryptographic-
+module- validation- program/documents/security-
+policies/140sp2850.pdf .
+
+Redis Transactions . 2021. /u.sc/r.sc/l.sc:https://redis.io/topics/
+transactions .
+
+HomomorphicEncryptionStandard .2021. /u.sc/r.sc/l.sc:https://homomorphicencryption.
+org/.
+
+Bluemail app removed from Google play store without notice! 2021.
+/u.sc/r.sc/l.sc:https://www.androidheadlines.com/2020/07/
+bluemail-app-removed-from-play-store-without-
+notice-from-google.html .
+
+OpenStack by Open Infrastructure Foundation . 2021. /u.sc/r.sc/l.sc:https:
+//www.openstack.org/ .
+
+Cloud Memorystore . 2019. /u.sc/r.sc/l.sc:https://cloud.google.com/
+memorystore/ .
+
+CloudArmor .2021. /u.sc/r.sc/l.sc:https://cloud.google.com/armor .
+
+Cloud SQL . 2019. /u.sc/r.sc/l.sc:https://cloud.google.com/sql .
+
+Prometheus . 2019. /u.sc/r.sc/l.sc:https://prometheus.io/ .
+
+Grafana. 2019. /u.sc/r.sc/l.sc:https://grafana.com/ .
+
+Styx. 2020. /u.sc/r.sc/l.sc:https://github.com/go-pluto/styx .
+
+ JohnHarding,GregoryPowell,RebeccaYoon,JoshuaFikentscher,Char-
+leneDoyle,DanaSade,MikeLukuc,JimSimons,andJingWang. V2V
+Communications: Readiness of V2V Technology for Application . Tech.
+rep.U.S.DepartmentofTransportation-NationalHighwayTraﬃcSafety
+Administration-DOTHS812014,2014. /u.sc/r.sc/l.sc:http://www.nhtsa.
+gov/staticfiles/rulemaking/pdf/V2V/Readiness-
+of-V2V-Technology-for-Application-812014.pdf .
+
+SOPS: Secrets OPerationS . 2021. /u.sc/r.sc/l.sc:https://github.com/
+mozilla/sops .

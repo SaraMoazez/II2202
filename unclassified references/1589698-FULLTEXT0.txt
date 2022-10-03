@@ -1,0 +1,63 @@
+Bibliography
+
+ApacheCassandra’swebsite . Mar. 2021. URL: https : / / cassandra . apache .
+org/.
+
+ApacheKafka’swebsite . Mar. 2021. URL: https://kafka.apache.org/ .
+
+ApacheSpark’swebsite . Mar. 2021. URL: https://spark.apache.org/ .
+
+Carcillo, Fabrizio, Dal Pozzolo, Andrea, Le Borgne, Yann­Aël, Caelen, Olivier,
+Mazzer, Yannis, and Bontempi, Gianluca. “Scarff: a scalable framework for
+streaming credit card fraud detection with spark”. In: Information fusion 41
+(May 2018), pp. 182–194.
+
+ElasticSearch’swebsite . Mar. 2021. URL: https://www.elastic.co/fr/ .
+
+EQL Search . Mar. 2021. URL: https : / / www . elastic . co / guide / en /
+elasticsearch/reference/current/query-dsl.html .
+
+Esper’swebsite . Mar. 2021. URL: https://www.espertech.com/esper/ .
+59BIBLIOGRAPHY
+
+Flink’swebsite . Mar. 2021. URL: https://flink.apache.org/ .
+
+Ionos website: Apache Kafka . Mar. 2021. URL: https : / / www . ionos . fr /
+digitalguide/serveur/know-how/apache-kafka/ .
+
+Kafka Documentation . Mar. 2021. URL: http : / / kafka . apache . org /
+documentation.html#security .
+
+Kafka­Proxy Documentation . Mar. 2021. URL: https : / / github . com /
+grepplabs/kafka-proxy/tree/master .
+
+ Kotenko, Igor, Kuleshov, Artem, and Ushakov, Igor. “Aggregation of elastic
+stack instruments for collecting, storing and processing of security information
+and events”. In: 2017IEEESmartWorld,UbiquitousIntelligence&Computing,
+Advanced & Trusted Computed, Scalable Computing & Communications,
+Cloud&BigDataComputing,InternetofPeopleandSmartCityInnovation
+(SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI) . San Francisco, CA,
+USA, Aug. 2017, pp. 1–8.
+60BIBLIOGRAPHY
+
+NextgenerationSIEM . Mar. 2021. URL: https://www.securonix.com/what-
+is-next-generation-siem/ .
+
+OVHcloud’swebsite . Mar. 2021. URL: https://www.ovh.com/fr/ .
+
+Query DSL . Mar. 2021. URL: https : / / www . elastic . co / guide / en /
+elasticsearch/reference/current/query-dsl.html .
+
+ Ramaki, Ali Ahmadian, Amini, Morteza, and Atani, Reza Ebrahimi. “RTECA:
+Real time episode correlation algorithm for multi­step attack scenarios
+detection”. In: computers&security 49 (Mar. 2015), pp. 206–219.
+
+SecurityInformationandEventManagement . Mar. 2021. URL: https://fr.
+wikipedia.org/wiki/Security_information_management_system .
+
+Sigma Correlations . Mar. 2021. URL: https : / / onedrive . live . com / view .
+aspx ? resid = 3454E59DF98D7D65 ! 7485 & ithint = file % 5C % 2cdocx & authkey =
+!ADb97TgRX9Fr4xQ .
+
+Sigmagithub . Mar. 2021. URL: https://github.com/Neo23x0/sigma .
+61

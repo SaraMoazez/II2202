@@ -1,0 +1,55 @@
+REFERENCES | 39
+References
+
+ S.-O.Daunfeldt,N.Rudholm,H.Sporre etal.,“Eﬀectsofbrand-ﬁtmusic
+on consumer behavior: A ﬁeld experiment,” HUI Research, Tech. Rep.,
+2017.
+
+ D.E.Hall, Musicalacoustics . Brooks/ColePublishingCompany,1991.
+
+ A.Wang etal.,“Anindustrialstrengthaudiosearchalgorithm.”in Ismir,
+vol. 2003. Citeseer, 2003, pp. 7–13.
+
+ M. Müller, Fundamentals of music processing: Audio, analysis,
+algorithms, applications . Springer, 2015.
+
+ L. Barrington, R. Oda, and G. R. Lanckriet, “Smarter than genius?
+human evaluation of music recommender systems.” in ISMIR, vol. 9.
+Citeseer, 2009, pp. 357–362.
+
+ M. Abadi, A. Agarwal, P. Barham et al., “TensorFlow: Large-scale
+machine learning on heterogeneous systems,” 2015, software available
+from tensorﬂow.org. [Online]. Available: https://www.tensorﬂow.org/
+
+ “Information and documentation — International Standard Recording
+Code (ISRC),” International Organization for Standardization, Standard
+ISO 3901:2019, Feb. 2019.
+
+ “Hyperparameter tuning in Cloud Machine Learning
+Engine using Bayesian Optimization,” https://
+cloud.google.com/blog/products/ai-machine-learning/
+hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization,
+accessed: 2021-05-20.
+
+ D. Harwell, “iHeartMedia laid oﬀ hundreds of radio DJs. Executives
+blame AI. DJs blame the executives.” January 2020. [Online].
+Available: https://www.washingtonpost.com/technology/2020/01/31/
+iheartmedia-radio-artiﬁcial-intelligence-djs/42 | REFERENCES
+
+ K. Tsukuda, S. Fukayama, and M. Goto, “Listener anonymizer:
+Camouﬂaging play logs to preserve user’s demographic anonymity.” in
+ISMIR, 2018, pp. 687–694.Estimated results for a random recommender system | 43
+Appendix A
+Estimated results for a random
+recommender system
+Forsimulatingtheresultsforasystemrecommendingrandomtracksfromthe
+catalog, the following numbers were used:
+•Number of relevant tracks per playlist: 30
+(the average playlist had ~100 tracks, and 30% of them were in the
+hidden section of the playlist).
+•Number of playlists: 9000 (the number of test set playlists)
+•Numberofiterations: 100(howmanytimesthesimulationwasrunper
+k)
+Following is the source code for the simulation, and the average recall@10 ,
+precision@10 ,recall@500 , andprecision@500 for the simulated random
+recommender.

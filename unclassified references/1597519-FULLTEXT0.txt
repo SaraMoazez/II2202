@@ -1,0 +1,69 @@
+References
+
+ I. Maglogiannis, Emerging Artiﬁcial Intelligence Applications in
+Computer Engineering: Real Word AI Systems with Applications in
+EHealth, HCI, Information Retrieval and Pervasive Technologies , ser.
+Frontiers in artiﬁcial intelligence and applications. IOS Press, 2007.
+[Online].Available: https://books.google.se/books?id=vLiTXDHr_sYC
+
+ L. Wang, Support Vector Machines: Theory and Applications ,
+ser. Studies in Fuzziness and Soft Computing. Springer Berlin
+Heidelberg, 2005. [Online]. Available: https://books.google.se/books?
+id=uTzMPJjVjsMC
+
+ E.García-Gonzalo,Z.Fernández-Muñiz,P.J.GarciaNieto,A.Sánchez,
+andM.Menéndez,“Hard-rockstabilityanalysisforspandesigninentry-
+type excavations with learning classiﬁers,” Materials , vol. 9, p. 531, 06
+2016.
+
+ Z. Zhang, Artiﬁcial Neural Network . Cham: Springer International
+Publishing, 2018, pp. 1–35. [Online]. Available: https://doi.org/10.
+1007/978-3-319-67340-0_1
+
+ F. Bre, J. Gimenez, and V. Fachinotti, “Prediction of wind pressure co-
+eﬃcients on building surfaces using artiﬁcial neural networks,” Energy
+and Buildings , vol. 158, 11 2017.
+
+ S. Sapna, A. Tamilarasi, M. P. Kumar et al., “Backpropagation learning
+algorithm based on levenberg marquardt algorithm,” Comp Sci Inform
+Technol (CS and IT) , vol. 2, pp. 393–398, 2012.
+
+ T. M. Oshiro, P. S. Perez, and J. A. Baranauskas, “How many trees in
+a random forest?” in Machine Learning and Data Mining in Pattern
+Recognition , P. Perner, Ed. Berlin, Heidelberg: Springer Berlin Hei-
+delberg, 2012, pp. 154–168.
+
+ J. Yang, G. Qin, P. Tang, Shen, Liu, and S. Gao, “Delineation of urban
+growth boundaries using a patch-based cellular automata model under
+multiple spatial and socio-economic scenarios,” Sustainability , vol. 11,
+p. 6159, 11 2019.
+
+ E.Kalapanidas,N.Avouris,M.Craciun,andD.Neagu,“Machinelearn-
+ing algorithms: a study on noise sensitivity,” 01 2003.
+
+ J.A.Sáez,J.Luengo,andF.Herrera,“Evaluatingtheclassiﬁerbehavior
+withnoisydataconsideringperformanceandrobustness: Theequalized
+loss of accuracy measure,” Neurocomputing , vol. 176, 05 2015.
+
+ M. Saberi, A. Azadeh, A. Nourmohammadzadeh, and P. Pazhoheshfar,
+“Comparing performance and robustness of svm and ann for fault diag-
+nosis in a centrifugal pump,” in 19th International Congress on Mod-
+elling and Simulation. Perth, Australia , 2011.
+
+ M. Hopkins et al., “UCI machine learning repository,” 1999. [Online].
+Available: https://archive.ics.uci.edu/ml/datasets/Spambase?fbclid=
+IwAR1M5U1f4dOoAECO30cD4sWRxlThVkFY-4w4kopn3h8TUCoc6m0CxB0EfXs
+
+ Conﬁdential Source, “Stroke prediction dataset,” https:
+//www.kaggle.com/fedesoriano/stroke-prediction-dataset?
+select=healthcare-dataset-stroke-data.csv&fbclid=IwAR1NdUp_
+OICmL1NQKRCOpNAGQgHmODENuMRVuNRDfg5WGJS41NR_
+7XsjQqc, accessed: 2021-04-01.
+
+ Dr. WIlliam H. Wolberg, “Breast cancer wisconsin (original) data
+set,” https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+
+(original), accessed: 2021-04-20.
+
+ Volker Lohweg, “Banknote authentication data set,” https://archive.ics.
+uci.edu/ml/datasets/banknote+authentication, accessed: 2021-04-20.
+

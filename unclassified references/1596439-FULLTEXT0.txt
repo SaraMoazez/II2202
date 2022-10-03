@@ -1,0 +1,60 @@
+Bibliography
+
+ PaulE.BlackandVredaPieterse. "datastructure",inDictionaryofAl-
+gorithms and Data Structures [online] . 2004. /u.sc/r.sc/l.sc:http://www.
+nist . gov / dads / HTML / datastructur . html (visited on
+02/26/2021).
+
+ PeterWegnerandEdwinD.Reilly.“DataStructures”.In: Encyclopedia
+ofComputerScience .GBR:JohnWileyandSonsLtd.,2003,pp.507–
+512. /i.sc/s.sc/b.sc/n.sc: 0470864125.
+
+ Britannica, The Editors of Encyclopaedia. "Data structure." Encyclo-
+pedia Britannica . 2017. /u.sc/r.sc/l.sc:https://www.britannica.com/
+technology/data-structure (visited on 02/26/2021).
+
+ HenryMWalker. Abstractdatatypes:speciﬁcations,implementations,
+and applications . Jones & Bartlett Learning, 1996.
+
+ RossJ.Anderson. SecurityEngineering:AGuidetoBuildingDepend-
+able Distributed Systems . 2nd ed. Wiley Publishing, 2008. Chap. 2.
+/i.sc/s.sc/b.sc/n.sc: 9780470068526.
+
+ Dieter Gollmann. Computer Security . USA: John Wiley & Sons, Inc.,
+1999. /i.sc/s.sc/b.sc/n.sc: 0471978442.
+
+ Synopsys. TheHeartbleedBug .2020. /u.sc/r.sc/l.sc:https://heartbleed.
+com/(visited on 05/05/2021).
+
+ JonathanAfekandAdiSharabani. DanglingPointer .2007. /u.sc/r.sc/l.sc:https:
+//www.exploit-db.com/docs/english/17260-dangling-
+pointer.pdf (visited on 05/04/2021).
+28BIBLIOGRAPHY 29
+
+ EyalNussbaumandMichaelSegal.“SkiplistTimingAttackVulnerabil-
+ity”. In:Data Privacy Management, Cryptocurrencies and Blockchain
+Technology . Springer, 2019, pp. 49–58.
+
+ Thomas H. Cormen et al. Introduction to Algorithms, Third Edition .
+3rd. The MIT Press, 2009. /i.sc/s.sc/b.sc/n.sc: 0262033844.
+
+ Kenny Paterson. Probabilistic Data Structures in Adversarial Settings .
+KeynotetalkgivenbyKennyPatersonfromETHZurichatCANS2020.
+Dec. 2020. /u.sc/r.sc/l.sc:https://www.youtube.com/watch?v=
+ASBFQgQcmWU (visited on 05/05/2021).
+
+ PedroReviriegoandDanielTing. SecurityofHyperLogLog(HLL)Car-
+dinalityEstimation:VulnerabilitiesandProtection .2020.arXiv: 2002.
+06463 [cs.CR] .
+
+ KTH Royal Institute of Technology. Degree Programme in Computer
+ScienceandEngineering:Programmesyllabuses .2021. /u.sc/r.sc/l.sc:https:
+//www.kth.se/student/kurser/program/CDATE?l=en
+(visited on 01/22/2021).Appendix A
+Mandatory Courses of CDATE
+Table A.1 lists the mandatory courses of CDATE by the year they are sched-
+uled to be taught. DD1390 and DD2300 spans over three and two years, re-
+spectively. Courses marked with (*) are courses which are fully dedicated to
+individual projects. Such courses were deemed non-applicable since students
+may study a variety of diﬀerent topics for their projects.
+31

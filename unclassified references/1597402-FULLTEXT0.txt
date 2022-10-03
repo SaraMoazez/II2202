@@ -1,0 +1,20 @@
+Bibliography
+
+ Hany Farid. “Photo Tampering Throughout History”. In: (2011). /u.sc/r.sc/l.sc:
+https://www.cc.gatech.edu/~beki/cs4001/history.
+pdf.
+
+ Alin C. Popescu and Hany Farid. “Statistical Tools for Digital Foren-
+sics”.In:InformationHiding.IH2004.LectureNotesinComputerSci-
+ence3200 (2004), pp. 128–147. /d.sc/o.sc/i.sc:https://doi.org/10.
+1007/978-3-540-30114-1_10 .
+
+ Jyh-Woei Lin. “Artiﬁcial neural network related to biological neuron
+network: a review”. In: 2017.
+
+ Anders Krogh and John A. Hertz. “A Simple Weight Decay Can Im-
+prove Generalization”. In: Proceedings of the 4th International Con-
+ference on Neural Information Processing Systems . NIPS’91. Denver,
+Colorado:MorganKaufmannPublishersInc.,1991,pp.950–957. /i.sc/s.sc/b.sc/n.sc:
+1558602224.
+

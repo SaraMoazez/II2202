@@ -1,0 +1,7 @@
+ Ashdown, M., & Robinson, P. (2003, November). The escritoire: remote collaboration in a task space. In Proceedings of the 2003 acm sigmm workshop on experiential telepresence (pp. 73-75). 
+ Brooke, J. (1986). System usability scale (SUS): a quick-and-dirty method of system evaluation user informationReading, UK: Digital Equipment Co Ltd, 43, 1–7.  
+ Cooper, A., Reimann, R., Cronin, D., & Noessel, C. (2014). About face: the essentials of interaction design. John Wiley & Sons. pp. 249-250 
+ Czikszentmihalyi, M. (1990). Flow: The psychology of optimal experience. New York: Harper & Row. 
+ International Organization for Standardization. (2016). Ergonomics of human-system interaction — Part 11: Usability: Definitions and concepts (ISO/DIS Standard No. 9241-11:2018(en)). Retrieved from https://www.iso.org/obp/ui/#iso:std:iso:9241:-11:ed-2:v1:en 
+ Tang, A., Neustaedter, C., & Greenberg, S. (2007). Videoarms: embodiments for mixed presence groupware. In People and Computers XX—Engage (pp. 85-102). Springer, London. 
+ Wilson, A. D., & Robbins, D. C. (2007). Playtogether: Playing games across multiple interactive tabletops. Tangible Play, 13. 

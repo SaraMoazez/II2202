@@ -1,0 +1,33 @@
+, till skillnad från t.ex. Java som är statiskt typat[ 8]. Detta språk
+valdes då den dels har support i AWS Lambda samt att den nuvarande
+lösningensomteametanvändersigavärgjortiPython.
+Pandas
+Pandas är ett bibliotek till Python som fokuserar på analys och manipulation
+avdata
+Apache, “Apache Parquet,” https://parquet.apache.org/ , 2022, [Online;
+accessed13-April-2022]. [Page 3.]
+
+Amazon, “Amazon S3,” https://aws.amazon.com/s3/ , 2022, [Online;
+accessed10-May-2022]. [Page 5.]
+
+——, “AWS Lambda Layers,” https://docs.aws.amazon.com/lambda/
+latest/dg/invocation-layers.html , 2022, [Online; accessed 25-May-
+2022]. [Page 6.]
+
+——, “AWS Glue,” https://aws.amazon.com/glue/ , 2022, [Online;
+accessed10-May-2022]. [Page 6.]
+
+——,“AmazonAthena,” https://aws.amazon.com/athena/ ,2022, [Onli-
+ne;accessed12-May-2022]. [Page 6.]
+
+——, “AWS Cost and usage reports,” https://docs.aws.amazon.com/
+cur/latest/userguide/what-is-cur.html ,2022,[Online;accessed12-May-
+2022]. [Page 6.]
+
+Oracle, “Dynamic typing vs static typing,” https://docs.oracle.com/cd/
+E57471_01/bigData.100/extensions_bdd/src/cext_transform_typing.
+html#:~:text=Java ,2015,[Online;accessed10-May-2022]. [Page 7.]
+
+“pandas: powerful Python data analysis toolkit,” https://github.com/
+pandas-dev/pandas ,2022,[Online;accessed10-May-2022]. [Page 7.]
+

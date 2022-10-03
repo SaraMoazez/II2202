@@ -1,0 +1,27 @@
+43 
+ References  
+
+ Rao, Ashwin, et al. "Network characteristics of video streaming 
+traffic."  Proceedings of the Seventh COnference on emerging Networking 
+EXperiments and Technologies . ACM, 2011.  
+
+ Maz, What is SVOD? A Beginner’s Guide to Subscription Video on Demand , 
+January 2021. [Online]. Available:  
+https://www.mazsystems.com/en/blog/what -is-svod  
+
+ Sykes, Alan O. "An introduction to regression analysis." (1993).  
+
+ Rob J Hyndman and George Athanasopoulos, Forecasting: Principles and 
+Practice - Chapter 6 Time series decomposition , January 2021. [Online]. 
+Available: https://otexts.com/fpp2/decomposition.html  
+
+ Hsieh, Wen -Tai, et al. "Predicting tv audience rating with social 
+media."  Proceedings of the IJCNLP 2013 Workshop on Natural Language 
+Processing for Social Media (SocialNLP) . 2013.  
+
+ Twitter, Tweet geospatial metadata , January 2021. [Online]. Available: 
+https://developer.twitter.com/en/docs/tutorials/tweet -geo-metadata  
+ 
+ 
+ 
+ 

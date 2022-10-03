@@ -1,0 +1,33 @@
+Bibliography
+
+ WorldHealthOrganization,“Coronavirusdisease(covid-19)pandemic,”
+03 2021.
+
+ Folkhälsomyndigheten,“Bekräftadefallisverige–dagliguppdatering,”
+03 2021.
+
+ J.Gnanvi,V.K.Salako,B.Kotanmi,andR.G.Kakaï,“Onthereliability
+ofpredictionsoncovid-19dynamics: asystematicandcriticalreviewof
+modelling techniques,” Infectious Disease Modelling, vol. 6, pp. 258–
+272, 2021.
+
+ B. Hu, H. Guo, P. Zhou, and Z.-L. Shi, “Characteristics of sars-cov-2
+and covid-19,” Nature Reviews Microbiology, vol. 19, pp. 141–154, 10
+2020.
+
+ F. Ndaïrou, I. Area, J. J. Nieto, and D. F. Torres, “Mathematical
+modeling of covid-19 transmission dynamics with a case study of
+wuhan,” Chaos, Solitons & Fractals, vol. 135, 06 2020.
+
+ G.Massonis,J.R.Banga,andA.F.Villaverde,“Structuralidentiﬁability
+and observability of compartmental models of the covid-19 pandemic,”
+Annual Reviews in Control, vol. 51, pp. 441–459, 12 2020.
+
+ Folkhälsomyndigheten, “The infection fatality rate of covid-19 in
+stockholm – technical report,” 2020.
+
+ W. C. Roda, M. B. Varughese, D. Han, and M. Y. Li, “Why is
+it diﬃcult to accurately predict the covid-19 epidemic?” Infectious
+Disease Modelling, vol. 5, pp. 271–281, 2020.
+
+ United Nations, “Universal declaration of human rights.”

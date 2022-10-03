@@ -1,0 +1,67 @@
+REFERENCES | 65
+References
+
+P.K. Kundu, I.M. Cohen, andD. R.Dowling, “Fluidmechanics,” 1990.
+
+ S. B. Pope, “Turbulent ﬂows,” 2001.
+
+A. P. Álvarez, Fluid Mechanics Applied to Medicine: Cardiac Flow
+Visualization Techniques . Springer Nature, 2020.
+
+J. Tyacke, N. Vadlamani, W. Trojak, R. Watson, Y. Ma, and P. Tucker,
+“Turbomachinery simulation challenges and the future,” Progress in
+Aerospace Sciences , vol. 110, p. 100554, 2019.
+
+K.Duraisamy,G.Iaccarino,andH.Xiao,“Turbulencemodelinginthe
+ageofdata,” AnnualReviewofFluidMechanics ,vol.51,pp.357–377,
+2019.
+
+H. Hauser, R. S. Laramee, and H. Doleisch, “State-of-the-art report 2002
+in ﬂow visualization,” VRVis Research Center, Vienna, Tech. Rep. TR-
+VRVis-2002-003 , 2002.
+
+F.H.Post,B.Vrolijk,H.Hauser,R.S.Laramee,andH.Doleisch,“Feature
+extraction and visualisation of ﬂow ﬁelds.” Eurographics (STARs) , vol. 2,
+2002.
+
+P. F. Fischer, J. W. Lottes, and S. G. Kerkemeier. [Online]. Available:
+http://nek5000.mcs.anl.gov
+
+P. R. Spalart and J. D. McLean, “Drag reduction: enticing turbulence,
+and then an,” 2011.
+
+A. E. Kaufman and K. Mueller, “Overview of volume rendering.” The
+visualization handbook , vol. 7, pp. 127–174, 2005.
+
+I. Hotz, L. Feng, H. Hagen, B. Hamann, K. Joy, and B. Jeremic,
+“Physically based methods for tensor ﬁeld visualization,” in IEEE
+Visualization 2004 . IEEE, 2004, pp. 123–130.
+
+ T. Weinkauf, “Lecture in data description: Sampled data,” 2020.
+
+ J. D. Cohen and D. Manocha, “Model simpliﬁcation.” 2005.
+
+R. B. Haber and D. A. McNabb, “Visualization idioms: A conceptual
+model for scientiﬁc visualization systems,” Visualization in scientiﬁc
+computing , vol. 74, p. 93, 1990.
+
+D.Guichard, Calculus: EarlyTranscendentals . Placeofpublicationnot
+identiﬁed: Lyryx, 2021.
+
+ T. Weinkauf, “Lecture in data description: Continuous data,” 2020.
+
+C.Mancinelli,M.Livesu, andE.Puppo,“Acomparisonofmethodsfor
+gradientﬁeldestimationonsimplicial meshes,” Computers&Graphics ,
+vol. 80, pp. 37–50, 2019.
+
+ M. P. Wand and M. C. Jones, Kernel smoothing . CRC press, 1994.
+
+A. Gramacki, Nonparametric kernel density estimation and its
+computational aspects . Springer, 2018.
+
+W. Härdle, A. Werwatz, M. Müller, and S. Sperlich, “Nonparametric
+density estimation,” in Nonparametric and semiparametric models .
+Springer, 2004, pp. 39–83.
+
+ A. P. Mouritz, Introduction to aerospace materials . Elsevier, 2012.
+

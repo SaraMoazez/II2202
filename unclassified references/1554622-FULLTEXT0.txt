@@ -1,0 +1,173 @@
+REFERENCES | 59
+References
+
+ X. Wang, C. Macdonald, and I. Ounis, “Deep reinforced query
+reformulation for information retrieval,” 2020.
+
+ D. Bahdanau, K. Cho, and Y. Bengio, “Neural machine translation by
+jointly learning to align and translate,” 2014.
+
+ T. Dozat and C. D. Manning, “Deep biaﬃne attention for neural
+dependency parsing,” 2016.
+
+ A.Vaswani,N.Shazeer,N.Parmar,J.Uszkoreit,L.Jones,A.N.Gomez,
+L. Kaiser, and I. Polosukhin, “Attention is all you need,” 2017.
+
+ M.E.Peters,M.Neumann,M.Iyyer,M.Gardner,C.Clark,K.Lee,and
+L. Zettlemoyer, “Deep contextualized word representations,” 2018.
+
+ J. Devlin, M.-W. Chang, K. Lee, and K. Toutanova, “Bert: Pre-training
+of deep bidirectional transformers for language understanding,” 2018.
+
+ A. Radford, J. Wu, R. Child, D. Luan, D. Amodei, and I. Sutskever,
+“Language models are unsupervised multitask learners,” 2019.
+
+ D. R. So, C. Liang, and Q. V. Le, “The evolved transformer,” 2019.
+
+ J. M. Zurada, Introduction to artiﬁcial neural systems . West St. Paul,
+1992, vol. 8.
+
+ S.Marsland, Machinelearning: analgorithmicperspective . CRCpress,
+2015.REFERENCES | 61
+
+ D. Rumelhart, G. E. Hinton, and R. J. Williams, “Learning
+representations by back-propagating errors,” Nature, vol. 323, pp. 533–
+536, 1986.
+
+ D.P. Kingma and J. Ba, “Adam: A method for stochastic optimization,”
+2017.
+
+ G. Hinton, “Neural networks for machine learning,” Coursera, 2012.
+
+ R. K. Srivastava, K. Greﬀ, and J. Schmidhuber, “Training very deep
+networks,” 2015.
+
+ I.Goodfellow,Y.Bengio,andA.Courville, DeepLearning . MITPress,
+2016, http://www.deeplearningbook.org.
+
+ D.P.KingmaandM.Welling,“Auto-encodingvariationalbayes,”2013.
+
+ D. J. Rezende, S. Mohamed, and D. Wierstra, “Stochastic
+backpropagationandapproximateinferenceindeepgenerativemodels,”
+2014.
+
+ C. Doersch, “Tutorial on variational autoencoders,” 2016.
+
+ T. Mikolov, K. Chen, G. Corrado, and J. Dean, “Eﬃcient estimation of
+word representations in vector space,” 2013.
+
+ Y. Wu, M. Schuster, Z. Chen, Q. V. Le, M. Norouzi, W. Macherey,
+M. Krikun, Y. Cao, Q. Gao, K. Macherey, J. Klingner, A. Shah,
+M. Johnson, X. Liu, Łukasz Kaiser, S. Gouws, Y. Kato, T. Kudo,
+H.Kazawa,K.Stevens,G.Kurian,N.Patil,W.Wang,C.Young,J.Smith,
+J. Riesa, A. Rudnick, O. Vinyals, G. Corrado, M. Hughes, and J. Dean,
+“Google’sneuralmachinetranslationsystem: Bridgingthegapbetween
+human and machine translation,” 2016.
+
+ B. Turovsky, “Found in translation: More accurate, ﬂuent sentences in
+google translate,” 11 2016.
+
+ ——, “Ten years of google translate,” 10 2016.
+
+Cloud Translation documentation .
+
+ A. Lavie and A. Agarwal, “Meteor: An automatic metric for mt
+evaluation with high levels of correlation with human judgments,” pp.
+228–231, 07 2007.
+
+ M. Snover, B. Dorr, R. Schwartz, L. Micciulla, and J. Makhoul, “A
+study of translation edit rate with targeted human annotation,” in InREFERENCES | 63
+Proceedings of Association for Machine Translation in the Americas ,
+2006, pp. 223–231.
+
+ K. McKeown, “Paraphrasing questions using given and new
+information,” Am. J. Comput. Linguistics , vol. 9, pp. 1–10, 1983.
+
+ C. Fellbaum, WordNet: An Electronic Lexical Database . Bradford
+Books, 1998.
+
+ A.Prakash,S.A.Hasan,K.Lee,V.Datla,A.Qadir,J.Liu,andO.Farri,
+“Neural paraphrase generation with stacked residual lstm networks,”
+2016.
+
+ I. Sutskever, O. Vinyals, and Q. V. Le, “Sequence to sequence learning
+with neural networks,” 2014.
+
+ K. Cho, B. van Merrienboer, C. Gulcehre, D. Bahdanau, F. Bougares,
+H.Schwenk,andY.Bengio,“Learningphraserepresentationsusingrnn
+encoder-decoder for statistical machine translation,” 2014.
+
+ X. Li and X. Wu, “Constructing long short-term memory based deep
+recurrent neural networks for large vocabulary speech recognition,”
+2014.
+
+ O. Vinyals, L. Kaiser, T. Koo, S. Petrov, I. Sutskever, and G. Hinton,
+“Grammar as a foreign language,” 2014.
+
+ K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image
+recognition,” 2015.
+
+ K. Cho, B. van Merrienboer, D. Bahdanau, and Y. Bengio, “On the
+propertiesofneuralmachinetranslation: Encoder-decoderapproaches,”
+2014.
+
+ S. Ma, X. Sun, W. Li, S. Li, W. Li, and X. Ren, “Query and output:
+Generating words by querying distributed word representations for
+paraphrase generation,” 2018.
+
+ S. Huang, Y. Wu, F. Wei, and M. Zhou, “Dictionary-guided editing
+networks for paraphrase generation,” 2018.
+
+ M. Iyyer, J. Wieting, K. Gimpel, and L. Zettlemoyer, “Adversarial
+example generation with syntactically controlled paraphrase networks,”
+2018.
+
+ S. Wang, R. Gupta, N. Chang, and J. Baldridge, “A task in a suit and a
+tie: paraphrase generation with semantic augmentation,” 2018.
+
+ M. Ringgaard, R. Gupta, and F. C. N. Pereira, “Sling: A framework for
+frame semantic parsing,” 2017.
+
+ K.Sohn,H.Lee,andX.Yan,“Learningstructuredoutputrepresentation
+using deep conditional generative models,” in Advances in NeuralREFERENCES | 65
+Information Processing Systems 28 , C. Cortes, N. D. Lawrence, D. D.
+Lee, M. Sugiyama, and R. Garnett, Eds. Curran Associates, Inc.,
+2015, pp. 3483–3491. [Online]. Available: https://proceedings.neurips.
+cc/paper/2015/ﬁle/8d55a249e6baa5c06772297520da2051-Paper.pdf
+
+ S. Bengio, O. Vinyals, N. Jaitly, and N. Shazeer, “Scheduled sampling
+for sequence prediction with recurrent neural networks,” 2015.
+
+ L. Yu, W. Zhang, J. Wang, and Y. Yu, “Seqgan: Sequence generative
+adversarial nets with policy gradient,” 2016.
+
+ J.Li,W.Monroe,T.Shi,S.Jean,A.Ritter,andD.Jurafsky,“Adversarial
+learning for neural dialogue generation,” 2017.
+
+ Y. Zhang, Z. Gan, K. Fan, Z. Chen, R. Henao, D. Shen, and L. Carin,
+“Adversarial feature matching for text generation,” 2017.
+
+ J. Guo, S. Lu, H. Cai, W. Zhang, Y. Yu, and J. Wang, “Long text
+generation via adversarial training with leaked information,” 2017.
+
+ M. Arjovsky, S. Chintala, and L. Bottou, “Wasserstein generative
+adversarial networks,” ser. Proceedings of Machine Learning Research,
+D. Precup and Y. W. Teh, Eds., vol. 70. International Convention
+Centre, Sydney, Australia: PMLR, 06–11 Aug 2017, pp. 214–223.
+[Online]. Available: http://proceedings.mlr.press/v70/arjovsky17a.html
+
+ R. K. Srivastava, K. Greﬀ, and J. Schmidhuber, “Highway networks,”
+2015.
+
+ P. Qi, Y. Zhang, Y. Zhang, J. Bolton, and C. D. Manning, “Stanza: A
+Pythonnaturallanguageprocessingtoolkitformanyhumanlanguages,”
+inProceedings of the 58th Annual Meeting of the Association for
+Computational Linguistics: System Demonstrations , 2020. [Online].
+Available: https://nlp.stanford.edu/pubs/qi2020stanza.pdf
+
+ A.GattandE.Krahmer,“Surveyofthestateoftheartinnaturallanguage
+generation: Core tasks, applications and evaluation,” 2018.
+
+ J. Randolph, “Free-marginal multirater kappa (multirater free): An
+alternative to ﬂeiss ﬁxed-marginal multirater kappa,” vol. 4, 01 2010.
+

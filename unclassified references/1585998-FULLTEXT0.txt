@@ -1,0 +1,172 @@
+REFERENCES | 63
+References
+
+ J. Davin, J. D. Case, M. Fedor, and M. L. Schoﬀstall, “Simple
+Network Management Protocol (SNMP).” [Online]. Available: https:
+//tools.ietf.org/html/rfc1157
+
+ G. Developers, “Protocol Buﬀers | Google Developers.” [Online].
+Available: https://developers.google.com/protocol-buﬀers
+
+ gRPC Authors, “About gRPC.” [Online]. Available: https://grpc.io/
+about/
+
+ A.Wang,P.Martinez-Julia,H.Song,F.Qin,andL.Ciavaglia,“Network
+Telemetry Framework.” [Online]. Available: https://tools.ietf.org/html/
+draft-ietf-opsawg-ntf-07
+
+ S. Waldbusser, M. Rose, J. Case, and K. McCloghrie, “Introduction to
+Community-basedSNMPv2.”[Online].Available: https://tools.ietf.org/
+html/rfc1901
+
+ R. Presuhn, J. Case, K. McCloghrie, M. Rose, and S. Waldbusser,
+“Transport Mappings for the Simple Network Management Protocol
+(SNMP).” [Online]. Available: https://tools.ietf.org/html/rfc3417
+
+ Huawei, “Telemetry Conﬁguration NE05E and NE08E
+V300R005C10SPC100 Conﬁguration Guide System Monitor 0264 | REFERENCES
+Huawei.” [Online]. Available: https://support.huawei.com/enterprise/
+en/doc/EDOC1100125868/3ea8d77c/telemetry-conﬁguration
+
+ Juniper Networks, “Overview of the Junos Telemetry Interface
+| Junos Telemetry Interface User Guide | Juniper Networks
+TechLibrary.” [Online]. Available: https://www.juniper.net/
+documentation/us/en/software/junos/interfaces-telemetry/topics/
+concept/junos-telemetry-interface-oveview.html
+
+ J. Postel, “Transmission Control Protocol.” [Online]. Available: https:
+//tools.ietf.org/html/rfc793
+
+ D. Harrington, B. Wijnen, and R. Presuhn, “An Architecture
+for Describing Simple Network Management Protocol (SNMP)
+Management Frameworks.” [Online]. Available: https://tools.ietf.org/
+html/rfc3411
+
+ Linus Larsson, Kristoﬀer Örstadius, Stefan Rothmaier,
+and Veronika Ljung–Nielsen, “Svenska censurfabriken blev
+diktaturernas hovleverantör.” [Online]. Available: https://www.dn.
+se/svenska-censurfabriken/
+
+ “EUR-Lex - 32016R0679 - EN - EUR-Lex.” [Online]. Available:
+https://eur-lex.europa.eu/eli/reg/2016/679/oj
+
+ Riksdagsförvaltningen, “Förordning (2003:396) om elektronisk
+kommunikation Svensk författningssamling 2003:2003:396 t.o.m. SFS
+2020:1120-Riksdagen,”lastModiﬁed: 2014-12-1215:00:54.[Online].
+Available: https://www.riksdagen.se/sv/dokument-lagar/dokument/
+svensk-forfattningssamling/forordning-2003396-om-elektronisk_
+sfs-2003-396
+
+ World Commission on Environment and Development, “Report of the
+World Commission on Environment and Development: Our Common
+Future - A/42/427 Annex - UN Documents: Gathering a body of
+globalagreements.”[Online].Available: http://www.un-documents.net/
+wced-ocf.htm
+
+ “About - Tele2.” [Online]. Available: https://www.tele2.com/about/
+
+ “Tele2 [AS1257] Network.” [Online]. Available: http://as1257.tele2.
+net/network/
+
+ Cisco, “Cisco ASR 9000 Series Aggregation Services Routers.”
+[Online]. Available: https://www.cisco.com/c/en/us/products/routers/
+asr-9000-series-aggregation-services-routers/index.html
+
+ O. Santos, “Global Internet Routing Table Reaches 512k
+Milestone,” Aug. 2014. [Online]. Available: https://blogs.cisco.com/sp/
+global-internet-routing-table-reaches-512k-milestone
+
+ J.GarsideandS.Gibbs,“Internetinfrastructure’needsupdatingormore
+blackouts will happen’,” Aug. 2014, section: Technology. [Online].
+Available: http://www.theguardian.com/technology/2014/aug/14/
+internet-infrastructure-needs-updating-more-blackouts-will-happen
+
+ A. Toonk, “What caused today’s Internet hiccup | BGPmon,”
+Aug. 2014. [Online]. Available: https://www.bgpmon.net/
+what-caused-todays-internet-hiccup/
+
+ Mathenge, “The Network Operations Center (NOC): How
+NOCs Work.” [Online]. Available: https://www.bmc.com/blogs/
+noc-network-operations-center/
+
+ J.Mathenge,“WhatDoesaNetworkOperationCenter(NOC)Engineer
+Do?” [Online]. Available: https://www.bmc.com/blogs/noc-engineer/
+
+ J. Davin, J. D. Case, M. Fedor, and M. L. Schoﬀstall, “A Simple
+Network Management Protocol,” Aug. 1988. [Online]. Available:
+https://tools.ietf.org/html/rfc1067
+
+ D. Bruey, “SNMP: Simple? Network Management Protocol.” [Online].
+Available: https://www.ranecommercial.com/legacy/note161.html66 | REFERENCES
+
+ “SNMP: Frequently Asked Questions About MIBs.”
+[Online]. Available: https://www.cisco.com/c/en/us/support/docs/ip/
+simple-network-management-protocol-snmp/9226-mibs-9226.html
+
+ “Encoding | Protocol Buﬀers.” [Online]. Available: https://developers.
+google.com/protocol-buﬀers/docs/encoding
+
+ “ios-xr/model-driven-telemetry.” [Online]. Available: https://github.
+com/ios-xr/model-driven-telemetry/tree/master/protos/712
+
+ M. Belshe, R. Peon, and M. Thomson, “Hypertext Transfer Protocol
+Version 2 (HTTP/2),” RFC 7540, May 2015. [Online]. Available:
+https://rfc-editor.org/rfc/rfc7540.txt
+
+ A. Håkansson, “Portal of Research Methods and Methodologies for
+Research Projects and Degree Projects.” CSREA Press U.S.A, 2013,
+pp. 67–73. [Online]. Available: http://urn.kb.se/resolve?urn=urn:nbn:
+se:kth:diva-136960
+
+ “IEEE Xplore.” [Online]. Available: https://ieeexplore.ieee.org/Xplore/
+home.jspREFERENCES | 67
+
+ “arXiv.org e-Print archive.” [Online]. Available: https://arxiv.org/
+
+ “Simplesearch.”[Online].Available: https://kth.diva-portal.org/smash/
+search.jsf?dswid=2039
+
+ “RFC Repository.” [Online]. Available: https://datatracker.ietf.org/doc/
+
+ “KTH Biblioteket.” [Online]. Available: https://www.kth.se/biblioteket
+
+ “Wireshark ·GoDeep.”[Online].Available: https://www.wireshark.org/
+
+ “TCPDUMP/LIBPCAP public repository.” [Online]. Available: https:
+//www.tcpdump.org/
+
+ “Cisco IOS XR Software - IOS XR7 Data Sheet.” [Online].
+Available: https://www.cisco.com/c/en/us/products/collateral/
+ios-nx-os-software/ios-xr-software/datasheet-c78-743014.html
+
+ “VRP8 Overview NE40E-M2 V800R010C10SPC500 Feature
+Description VRPv8 Overview 01 Huawei.” [Online]. Available:
+https://support.huawei.com/enterprise/en/doc/EDOC1100058421/
+47d7d67b/vrp8-overview
+
+ S. Cadora, “Streaming Telemetry with Google Protocol Buﬀers,”
+May 2016. [Online]. Available: https://blogs.cisco.com/sp/
+streaming-telemetry-with-google-protocol-buﬀers
+
+ “Developing the Static Telemetry Subscription Function
+CloudEngine 16800 V300R020C00 Telemetry Secondary
+Development Guide Huawei.” [Online]. Available:
+https://support.huawei.com/enterprise/en/doc/EDOC1100175760/
+dda15cb2/developing-the-static-telemetry-subscription-function
+
+ “gosnmp ·pkg.go.dev.” [Online]. Available: https://pkg.go.dev/github.
+com/gosnmp/gosnmp68 | REFERENCES
+
+ “Troubleshooting High CPU Utilization.” [Online].
+Available: https://www.cisco.com/c/en/us/td/docs/switches/lan/
+catalyst3750/software/troubleshooting/cpu_util.html
+
+ J. Postel, “User Datagram Protocol.” [Online]. Available: https:
+//tools.ietf.org/html/rfc768
+
+ “gRPC Load Balancing,” Jun. 2017, section: blog. [Online]. Available:
+https://grpc.io/blog/grpc-load-balancing/
+
+ S. Cadora, “Why You Should Care About Model-Driven
+Telemetry,” Apr. 2016. [Online]. Available: https://blogs.cisco.com/sp/
+why-you-should-care-about-model-driven-telemetry

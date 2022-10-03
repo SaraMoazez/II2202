@@ -1,0 +1,260 @@
+REFERENCES | 51
+References
+
+ O. Canal, “Transfer and multi-task reinforcement learning,”
+https://campusai.github.io/ , 2020. [Online]. Available: https:
+//campusai.github.io//rl/transfer_and_multitask_rl
+
+ A. P. Badia, B. Piot, S. Kapturowski, P. Sprechmann, A. Vitvitskyi,
+D. Guo, and C. Blundell, “Agent57: Outperforming the atari human
+benchmark,” 2020.
+
+ S. Levine, “Deep reinforcement learning course,” http://rail.eecs.
+berkeley.edu/deeprlcourse/, accessed: 2021-04-30.
+
+ T. Haarnoja, A. Zhou, P. Abbeel, and S. Levine, “Soft actor-critic: Oﬀ-
+policy maximum entropy deep reinforcement learning with a stochastic
+actor,” 2018.
+
+ OpenAI, “Openai ﬁve,” https://blog.openai.com/openai-ﬁve/, 2018.
+
+ O. Vinyals, T. Ewalds, S. Bartunov, P. Georgiev, A. S. Vezhnevets,
+M. Yeo, A. Makhzani, H. Küttler, J. Agapiou, J. Schrittwieser, J. Quan,
+S. Gaﬀney, S. Petersen, K. Simonyan, T. Schaul, H. van Hasselt,
+D.Silver,T.Lillicrap,K.Calderone,P.Keet,A.Brunasso,D.Lawrence,
+A. Ekermo, J. Repp, and R. Tsing, “Starcraft ii: A new challenge for
+reinforcement learning,” 2017.
+
+ A. P. Badia, B. Piot, S. Kapturowski, P. Sprechmann, A. Vitvitskyi,
+D. Guo, and C. Blundell, “Agent57: Outperforming the atari human
+benchmark,” 2020.
+
+ Y. Zhao, I. Borovikov, F. de Mesentier Silva, A. Beirami, J. Rupert,
+C. Somers, J. Harder, J. Kolen, J. Pinto, R. Pourabolghasem, J. Pestrak,
+H. Chaput, M. Sardari, L. Lin, S. Narravula, N. Aghdaie, and
+K. Zaman, “Winning isn’t everything: Enhancing game development
+with intelligent agents,” 2020.
+
+ “Unity,” https://unity.com/, accessed: 2021.
+
+ C. Holmgård, M. C. Green, A. Liapis, and J. Togelius, “Automated
+playtesting with procedural personas through mcts with evolved
+heuristics,” 2018.REFERENCES | 53
+
+ M.L.Puterman, Markovdecisionprocesses: discretestochasticdynamic
+programming . John Wiley & Sons, 2014.
+
+ B.Baker,I.Kanitscheider,T.Markov,Y.Wu,G.Powell,B.McGrew,and
+I. Mordatch, “Emergent tool use from multi-agent autocurricula,” 2020.
+
+ D. Silver, T. Hubert, J. Schrittwieser, I. Antonoglou, M. Lai, A. Guez,
+M.Lanctot,L.Sifre,D.Kumaran,T.Graepel,T.Lillicrap,K.Simonyan,
+andD.Hassabis,“Masteringchessandshogibyself-playwithageneral
+reinforcement learning algorithm,” 2017.
+
+ T. M. Moerland, J. Broekens, and C. M. Jonker, “Model-based
+reinforcement learning: A survey,” 2021.
+
+ M. Janner, J. Fu, M. Zhang, and S. Levine, “When to trust your model:
+Model-based policy optimization,” 2019.
+
+ P.Dayan,“ImprovingGeneralizationforTemporalDiﬀerenceLearning:
+The Successor Representation,” Tech. Rep. 4, 1993.
+
+ A. Barreto, W. Dabney, R. Munos, J. J. Hunt, T. Schaul, H. van Hasselt,
+andD.Silver,“Successorfeaturesfortransferinreinforcementlearning,”
+2018.
+
+ A. Barreto, D. Borsa, J. Quan, T. Schaul, D. Silver, M. Hessel,
+D.Mankowitz,A.Žídek,andR.Munos,“Transferindeepreinforcement
+learning using successor features and generalised policy improvement,”
+2019.
+
+ Z. Zhu, K. Lin, and J. Zhou, “Transfer learning in deep reinforcement
+learning: A survey,” 2021.
+
+ S. Levine, C. Finn, T. Darrell, and P. Abbeel, “End-to-end training of
+deep visuomotor policies,” 2016.
+
+ E. Shelhamer, P. Mahmoudieh, M. Argus, and T. Darrell, “Loss is its
+own reward: Self-supervision for reinforcement learning,” 2017.
+
+ T.Haarnoja,H.Tang,P.Abbeel,andS.Levine,“Reinforcementlearning
+with deep energy-based policies,” 2017.
+
+ I. Higgins, A. Pal, A. A. Rusu, L. Matthey, C. P. Burgess, A. Pritzel,
+M. Botvinick, C. Blundell, and A. Lerchner, “Darla: Improving zero-
+shot transfer in reinforcement learning,” 2018.
+
+ A. Rajeswaran, S. Ghotra, B. Ravindran, and S. Levine, “Epopt:
+Learningrobustneuralnetworkpoliciesusingmodelensembles,”2017.
+
+ W. Yu, J. Tan, C. K. Liu, and G. Turk, “Preparing for the unknown:
+Learning a universal policy with online system identiﬁcation,” 2017.
+
+ F. Sadeghi and S. Levine, “Cad2rl: Real single-image ﬂight without a
+single real image,” 2017.
+
+ E. Parisotto, J. L. Ba, and R. Salakhutdinov, “Actor-mimic: Deep
+multitask and transfer reinforcement learning,” 2016.
+
+ I.Goodfellow,Y.Bengio,andA.Courville, DeepLearning . MITPress,
+2016, http://www.deeplearningbook.org.
+
+ C. Ma, D. R. Ashley, J. Wen, and Y. Bengio, “Universal successor
+features for transfer reinforcement learning,” 2020.
+
+ D.Borsa,A.Barreto,J.Quan,D.Mankowitz,R.Munos,H.vanHasselt,
+D. Silver, and T. Schaul, “Universal successor features approximators,”
+2018.
+
+ J. Andreas, M. Rohrbach, T. Darrell, and D. Klein, “Neural module
+networks,” 2017.
+
+ C. Devin, A. Gupta, T. Darrell, P. Abbeel, and S. Levine, “Learning
+modularneuralnetworkpoliciesformulti-taskandmulti-robottransfer,”
+2016.
+
+ O. Canal, “Meta-reinforcement learning basics,”
+https://campusai.github.io/ , 2021. [Online]. Available:
+https://campusai.github.io/rl/meta-rl
+
+ J. X. Wang, Z. Kurth-Nelson, D. Tirumala, H. Soyer, J. Z. Leibo,
+R. Munos, C. Blundell, D. Kumaran, and M. Botvinick, “Learning to
+reinforcement learn,” 2017.
+
+ N. Mishra, M. Rohaninejad, X. Chen, and P. Abbeel, “A simple neural
+attentive meta-learner,” 2018.
+
+ Y. Duan, X. Chen, R. Houthooft, J. Schulman, and P. Abbeel,
+“Benchmarking deep reinforcement learning for continuous control,”
+2016.
+
+ K. Rakelly, A. Zhou, D. Quillen, C. Finn, and S. Levine, “Eﬃcient oﬀ-
+policy meta-reinforcement learning via probabilistic context variables,”
+2019.
+
+ J.Foerster,G.Farquhar,M.Al-Shedivat,T.Rocktäschel,E.P.Xing,and
+S.Whiteson,“Dice: Theinﬁnitelydiﬀerentiablemonte-carloestimator,”
+2018.
+
+ J. Rothfuss, D. Lee, I. Clavera, T. Asfour, and P. Abbeel, “Promp:
+Proximal meta-policy search,” 2018.
+
+ A. Ghadirzadeh, X. Chen, P. Poklukar, C. Finn, M. Björkman, and
+D. Kragic, “Bayesian meta-learning for few-shot policy adaptation
+across robotic platforms.” [Online]. Available: http://urn.kb.se/resolve?
+urn=urn:nbn:se:kth:diva-285972
+
+ O.CanalandF.Taschin,“Fromexpectationmaximizationtovariational
+inference,” https://campusai.github.io/ ,2020.[Online].Available: https:
+//campusai.github.io/ml/variational_inference
+
+ G. Brockman, V. Cheung, L. Pettersson, J. Schneider, J. Schulman,
+J. Tang, and W. Zaremba, “Openai gym,” 2016.
+
+ “The Shortest Path Through a Maze - Edward F. Moore - Google
+Books.” [Online]. Available: https://books.google.com/books/about/
+The_Shortest_Path_Through_a_Maze.html?id=IVZBHAAACAAJ
+
+ M.Andrychowicz,F.Wolski,A.Ray,J.Schneider,R.Fong,P.Welinder,
+B.McGrew,J.Tobin,P.Abbeel,andW.Zaremba,“Hindsightexperience
+replay,” 2018.
+
+ B. van Niekerk, S. James, A. Earle, and B. Rosman, “Will it blend?
+composing value functions in reinforcement learning,” 2018.
+
+ T. Haarnoja, V. Pong, A. Zhou, M. Dalal, P. Abbeel, and S. Levine,
+“Composable deep reinforcement learning for robotic manipulation,”
+2018.
+
+ H. Hasselt, “Double Q-learning,” in Advances in Neural Information
+Processing Systems , J. Laﬀerty, C. Williams, J. Shawe-Taylor,
+R. Zemel, and A. Culotta, Eds., vol. 23. Curran Associates,
+Inc., 2010. [Online]. Available: https://proceedings.neurips.cc/paper/
+2010/ﬁle/091d584fced301b442654dd8c23b3fc9-Paper.pdf
+
+ T.Schaul,J.Quan,I.Antonoglou,andD.Silver,“Prioritizedexperience
+replay,” 2016.
+
+ M. Hessel, J. Modayil, H. van Hasselt, T. Schaul, G. Ostrovski,
+W. Dabney, D. Horgan, B. Piot, M. Azar, and D. Silver, “Rainbow:
+Combining improvements in deep reinforcement learning,” 2017.
+
+ A. Paszke, S. Gross, F. Massa, A. Lerer, J. Bradbury,
+G. Chanan, T. Killeen, Z. Lin, N. Gimelshein, L. Antiga,
+A. Desmaison, A. Kopf, E. Yang, Z. DeVito, M. Raison, A. Tejani,
+S. Chilamkurthy, B. Steiner, L. Fang, J. Bai, and S. Chintala,
+“Pytorch: An imperative style, high-performance deep learning
+library,” in Advances in Neural Information Processing Systems
+32, H. Wallach, H. Larochelle, A. Beygelzimer, F. d /quotesingle.ts1Alché-Buc,
+E. Fox, and R. Garnett, Eds. Curran Associates, Inc., 2019,
+pp. 8024–8035. [Online]. Available: http://papers.neurips.cc/paper/
+9015-pytorch-an-imperative-style-high-performance-deep-learning-library.
+pdf
+
+ R. Munos, T. Stepleton, A. Harutyunyan, and M. G. Bellemare, “Safe
+and eﬃcient oﬀ-policy reinforcement learning,” 2016.
+
+ Z. Wang, V. Bapst, N. Heess, V. Mnih, R. Munos, K. Kavukcuoglu,
+andN.deFreitas,“Sampleeﬃcientactor-criticwithexperiencereplay,”
+2017.
+
+ F. Taschin, “Acer-torch implementation,” 2021. [Online]. Available:
+https://github.com/fedetask/ACER-torch/
+
+ J. Schulman, F. Wolski, P. Dhariwal, A. Radford, and O. Klimov,
+“Proximal policy optimization algorithms,” 2017.
+
+ S. Arora and P. Doshi, “A survey of inverse reinforcement learning:
+Challenges, methods and progress,” 2020.
+
+ “Deepmind ai reduces google data centre cooling
+bill by 40%,” https://deepmind.com/blog/article/
+deepmind-ai-reduces-google-data-centre-cooling-bill-40, accessed:
+2021-05-28.For DIVA
+{
+"Author1": {
+"Last name": "Canal Anton",
+"First name": "Oleguer",
+"Local User Id": "oleguer@kth.se",
+"E-mail": "oleguer@kth.se",
+"organisation": {"L1": "School of Electrical Engineering and Computer Science ",
+}
+},
+"Degree": {"Educational program": "Master’s Programme, Machine Learning, 120 credits"},
+"Title": {
+"Main title": "Automatic game-testing with personality",
+"Subtitle": "Multi-task reinforcement learning for automatic game-testing",
+"Language": "eng" },
+"Alternative title": {
+"Main title": "Automatisk speltestning med personlighet",
+"Subtitle": "Multi-task förstärkning lärande för automatisk speltestning",
+"Language": "swe"
+},
+"Supervisor1": {
+"Last name": "Ghadirzadeh",
+"First name": "Ali",
+"E-mail": "algh@kth.se",
+"organisation": {"L1": "School of Electrical Engineering and Computer Science ",
+"L2": "DIVISION OF ROBOTICS, PERCEPTION AND LEARNING" }
+},
+"Supervisor2": {
+"Last name": "Gordillo",
+"First name": "Camilo",
+"E-mail": "cgordillo@ea.com",
+},
+"Supervisor2": {
+"Last name": "Bergdahl",
+"First name": "Joakim",
+"E-mail": "jbergdahl@ea.com",
+},
+"Examiner1": {
+"Last name": "Wahlberg",
+"First name": "Bo",
+"E-mail": "bo@kth.se",
+},
+"Cooperation": { "Partner_name": "SEED, Electronic Arts"},
+"Other information": {
+"Year": "2021", "Number of pages": "xii,59"}
+}

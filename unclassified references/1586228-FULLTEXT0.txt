@@ -1,0 +1,119 @@
+References
+
+ Dean Takahashi. Nvidia CEO bets big on deep learning and VR . VentureBeat.
+Apr. 5, 2016. url:https://venturebeat.com/2016/04/05/nvidia-ceo-
+bets-big-on-deep-learning-and-vr/ (visited on 03/11/2021).
+
+ Andrej Karpathy. \PyTorch at Tesla - Andrej Karpathy, Tesla - YouTube".
+Presentation. Presentation. PyTorch DevCon 2019. Digital, Nov. 6, 2019. url:
+https://www.youtube.com/watch?v=oBklltKXtDE (visited on 03/11/2021).
+
+ Mark Kizelshteyn and Mat Budelman. Three Principles for Designing ML-
+Powered Products . Spotify Design. url:https://spotify.design/article/
+three - principles - for - designing - ml - powered - products (visited on
+03/11/2021).
+
+ What are Neural Networks? Jan. 6, 2021. url:https : / / www . ibm . com /
+cloud/learn/neural-networks (visited on 03/17/2021).
+
+ Edith A. Moravcsik. Introduction to Syntactic Theory . London: Continuum,
+2006. isbn: 978-0-8264-8943-2.
+
+ Daniel Jurafsky and James Martin. Speech and Language Processing: An In-
+troduction to Natural Language Processing, Computational Linguistics, and
+Speech Recognition . Vol. 2. Feb. 1, 2008.
+
+ Suneel Patel. NLP Pipeline: Building an NLP Pipeline, Step-by-Step . Medium.
+Aug. 3, 2020. url:https://medium.com/@suneelpatel.in/nlp-pipeline-
+building - an - nlp - pipeline - step - by - step - 7f0576e11d08 (visited on
+03/12/2021).
+
+ What is Machine Learning? Dec. 18, 2020. url:https://www.ibm.com/
+cloud/learn/machine-learning (visited on 03/19/2021).
+49
+ Twitter. It's what's happening . Twitter. url:https://twitter.com/ (visited
+on 03/17/2021).
+
+ YouTube .url:https://www.youtube.com/ (visited on 03/17/2021).
+
+ PyTorch .url:https://www.pytorch.org (visited on 03/10/2021).
+
+ But what is a Neural Network? | Deep learning, chapter 1 . In collab. with
+Grant Sanderson. Oct. 5, 2017. url:https://www.youtube.com/watch?v=
+aircAruvnKk&t=1s (visited on 03/23/2021).
+
+ Michael A. Nielsen. \Neural Networks and Deep Learning". In: (2015). Pub-
+lisher: Determination Press. url:http://neuralnetworksanddeeplearning.
+com(visited on 02/04/2021).
+
+ Snowball .url:https://snowballstem.org/ (visited on 05/06/2021).
+
+ Princeton University. About WordNet . WordNet. 2010. url:https://wordnet.
+princeton.edu/ (visited on 05/06/2021).
+
+ Martin Ester et al. \A density-based algorithm for discovering clusters in large
+spatial databases with noise". In: Proceedings of the Second International Con-
+ference on Knowledge Discovery and Data Mining . KDD'96. Portland, Oregon:
+AAAI Press, Aug. 2, 1996, pp. 226{231. (Visited on 04/20/2021).
+
+ Fabrizio Sebastiani. \Machine Learning in Automated Text Categorization".
+In:arXiv:cs/0110053 (Oct. 26, 2001). version: 1. doi:10 . 1145 / 505282 .
+505283 . arXiv: cs / 0110053 .url:http : / / arxiv . org / abs / cs / 0110053
+(visited on 04/21/2021).
+
+ David Arthur and Sergei Vassilvitskii. k-means++: The Advantages of Careful
+n- Seeding . Technical Report 2006-13. Backup Publisher: Stanford InfoLab.
+Stanford, June 2006. url:http://ilpubs.stanford.edu:8090/778/ .
+
+ Ricardo J. G. B. Campello, Davoud Moulavi, and Joerg Sander. \Density-
+Based Clustering Based on Hierarchical Density Estimates". In: Advances in
+Knowledge Discovery and Data Mining . Ed. by Jian Pei et al. Berlin, Heidel-
+berg: Springer Berlin Heidelberg, 2013, pp. 160{172. isbn: 978-3-642-37456-2.
+
+ Andrej Karpathy. Visualizing Top Tweeps with t-SNE, in Javascript . July 14,
+2015. url:https://karpathy.github.io/2014/07/02/visualizing-top-
+tweeps-with-t-sne-in-Javascript/ (visited on 05/06/2021).
+51
+ Nick Becker. Clustering US Laws using TF-IDF and K-Means . nick becker.
+Aug. 18, 2016. url:https://beckernick.github.io/law- clustering/
+(visited on 05/04/2021).
+
+ Dipanjan Sarkar. Text Analytics with Python: A Practitioner's Guide to Nat-
+ural Language Processing . Publication Title: Text Analytics with Python.
+Berkeley, CA: Apress L. P, 2019. isbn: 1-4842-4353-6.
+
+ Dipanjan (DJ) Sarkar. dipanjanS/text-analytics-with-python . original-date: 2016-
+09-25T19:19:02Z. May 6, 2021. url:https://github.com/dipanjanS/text-
+analytics-with-python (visited on 05/06/2021).
+
+ Sven Eklund. Arbeta i projekt : individen, gruppen, ledaren . Lund: Studentlit-
+teratur, 2011. isbn: 978-91-44-07275-3. url:http://libris.kb.se/bib/
+12182779 (visited on 05/02/2021).
+
+ George Krasadakis. How to build Software Prototypes in rapid mode . Medium.
+Oct. 11, 2020. url:https://medium.com/innovation-machine/innovation-
+at- pace- rapid- prototyping- practices- for- software- engineering-
+teams-442929fdd5ea (visited on 05/02/2021).
+
+ Welcome to Python.org . Python.org. url:https://www.python.org/ (visited
+on 05/03/2021).
+
+ Ronan Collobert, Samy Bengio, and Johnny Marithoz. Torch: A Modular Ma-
+chine Learning Software Library . 2002.
+
+ Documentation | SciPy.org .url:https://www.scipy.org/docs.html
+(visited on 05/04/2021).
+
+ Yelp. Yelp. url:https://www.yelp.com/ (visited on 05/02/2021).
+
+ Alec Go, Richa Bhayani, and Lei Huang. \Twitter sentiment classication
+using distant supervision". In: CS224N Project Report, Stanford 1 (2009),
+p. 12.
+
+ Congress.gov | Library of Congress .url:https://www.congress.gov/
+(visited on 05/19/2021).
+
+ Erik Lenas. Prerequisites for Extracting Entity Relations from Swedish Texts .
+2020. url:http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-281275
+(visited on 05/21/2021).
+52

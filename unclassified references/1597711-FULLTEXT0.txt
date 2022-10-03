@@ -1,0 +1,26 @@
+References
+
+ Anthony, Martin and Bartlett, Peter L. Neural network learning:
+Theoretical foundations . cambridge university press, 2009, pp. 2–8.
+
+ Benenson, Rodrigo. What is the class of this image? 2016. URL: http :
+/ / rodrigob . github . io / are _ we _ there _ yet / build / classification _
+datasets_results.html (visited on 03/12/2021).
+
+ Bishop, Christopher M. Pattern recognition and machine learning .
+springer, 2006.
+
+ Goodfellow, Ian et al. Deep learning . Vol. 1. 2. MIT press Cambridge, 2016.
+
+ Krizhevsky, Alex, Hinton, Geoffrey, et al. “Learning multiple layers of
+features from tiny images”. In: (2009).
+
+ McCloskey, M. and Cohen, N. J. Psychology of learning and motivation .
+Brian H. Ross, 1989.
+
+ Rahaf Aljundi, Punarjay Chakravarty and Tuytelaars, Tinne. “Expert Gate:
+Lifelong Learning with a Network of Experts”. In: (2017).
+
+ Zhou, Yi­Tong and Chellappa, Rama. “Computation of optical flow using a
+neural network.” In: ICNN . 1988, pp. 71–78.
+23

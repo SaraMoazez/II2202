@@ -1,0 +1,146 @@
+References
+
+ A. Sj¨ ogren. (2021) Plantumlspecbunge. [Online]. Available:
+https://kth-my.sharepoint.com/personal/as ugkthse/layouts/15/
+onedrive.aspx?id=%2Fpersonal%2Fas%5Fug%5Fkth%5Fse%
+2FDocuments%2FExjobb%2FExamensarbete%20TIDAB%2FPlantUML%
+2FplantumlSpecBunge%2Epng&parent=%2Fpersonal%2Fas%5Fug%
+5Fkth%5Fse%2FDocuments%2FExjobb%2FExamensarbete%20TIDAB%
+2FPlantUML&originalPath=
+aHR0cHM6Ly9rdGgtbXkuc2hhcmVwb2ludC5jb20vOmk6L2cvcGVyc29uYWwvYXNfdWdfa3RoX3NlL0VYSG05YzFyQUFoSWdwZDJyYVp6ZFBNQkt3QTJUTlJvcmZIamg1RlUtZVR4cXc%
+5FcnRpbWU9endmdWl1LWEyVWc
+
+ K. Fergusson. (2018) Uml class diagrams in draw.io. [Online]. Available:
+https://drawio-app.com/uml-class-diagrams-in-draw-io/
+
+ Lucidchart. (2021) Uml use case diagram tutorial. [Online]. Available:
+https://www.lucidchart.com/pages/uml-use-case-diagram
+
+ A. Turner. (2021) How many smartphones are in the world? march 2021
+mobile user statistics: Discover the number of phones in the world and
+smartphone penetration by country or region. [Online]. Available: https:
+//www.bankmycell.com/blog/how-many-phones-are-in-the-world#part-1
+
+ A. Wireless. (2020) Importance of smartphones in daily life. [Online].
+Available:
+https://www.assistwireless.com/importance-of-smartphones-in-daily-life/
+
+ R. Panko, “The popularity of google maps: Trends in navigation apps in
+2018,” 2018. [Online]. Available: https://themanifest.com/mobile-apps/
+popularity-google-maps-trends-navigation-apps-2018#: ∼:
+text=Over%20three%2Dfourths%20(77%25)%20of%20smartphone%
+20owners%20use%20navigation,comes%20in%20second%20at%2012%25
+
+ A. He. (2019) People continue to rely on maps and navigational apps.
+[Online]. Available: https://www.emarketer.com/content/
+people-continue-to-rely-on-maps-and-navigational-apps-emarketer-forecasts-show
+
+ S. R. Department. (2018) Most popular mapping apps in the united
+states as of april 2018, by monthly users (in millions). [Online]. Available:
+https://www.statista.com/statistics/865413/
+most-popular-us-mapping-apps-ranked-by-audience/
+
+ Google. (2021) Use live view on google maps. [Online]. Available:
+https://support.google.com/maps/answer/9332056?co=GENIE.
+Platform%3DAndroid&hl=en
+
+ I. Tkachenko. (2020) How to create a location-based app for android and
+ios. [Online]. Available: https:
+//theappsolutions.com/blog/development/develop-app-with-geolocation/
+51
+ A. Hayes. (2018) Augmented reality. [Online]. Available:
+https://www.investopedia.com/terms/a/augmented-reality.asp
+
+ T. F. Institute. What is augmented reality?
+
+ R. Nightingale. (2017) How does google maps work? [Online]. Available:
+https:
+//www.makeuseof.com/tag/technology-explained-google-maps-work/
+
+ P. Pawar. (2020) This is how google maps works. [Online]. Available:
+https://www.priteshpawar.com/how-google-maps-works/
+technology-explained/priteshpawar/
+
+ H. Stark, “Since you asked, here’s how google maps really works,” 2017.
+[Online]. Available:
+https://www.forbes.com/sites/haroldstark/2017/04/26/
+since-you-asked-heres-how-google-maps-really-works/?sh=3e4570ea4dbe
+
+ GeotabTeam. (2020) What is gps? [Online]. Available:
+https://www.geotab.com/blog/what-is-gps/
+
+ C. Hall. (2021) What is google maps ar navigation and live view and how
+do you use it? [Online]. Available:
+https://www.pocket-lint.com/apps/news/google/
+147956-what-is-google-maps-ar-navigation-and-how-do-you-use-it
+
+ T. E. of Encyclopaedia Britannica. (2021) Latitude and longitude.
+[Online]. Available: https://www.britannica.com/science/latitude
+
+ techahead. (2021) How does a gyroscope sensor work in your smartphone?
+[Online]. Available: https://www.techaheadcorp.com/knowledge-center/
+how-gyroscope-sensor-work-in-smartphone/
+
+ Member23999. (2013) Gyroscope. [Online]. Available:
+https://learn.sparkfun.com/tutorials/gyroscope/all
+
+ M. Berry. (2021) What’s inside my smartphone camera:
+Hardware-software unity explained. [Online]. Available: https://fossbytes.
+com/whats-inside-a-smartphone-camera-components-explained/
+
+ L. Schardon. (2021) Making your dream games: What is unity? [Online].
+Available: https://gamedevacademy.org/what-is-unity/#What isUnity
+
+ S. L. Alexander S. Gillis. (2021) Definition: object-oriented programming
+(oop). [Online]. Available: https://www.techtarget.com/
+searchapparchitecture/definition/object-oriented-programming-OOP
+
+ N. Andersson and A. Ekholm, “Vetenskaplighet-utv¨ ardering av tre
+implementeringsprojekt inom it bygg & fastighet 2002,” 2002.
+52
+ A. K. Shenton. (2004) Strategies for ensuring trustworthiness in
+qualitative research projects. [Online]. Available:
+https://www.researchgate.net/publication/228708239 Strategies for
+Ensuring Trustworthiness inQualitative Research Projects
+
+ D. Pickell. (2013) Qualitative vs quantitative data – what’s the difference?
+[Online]. Available: https://learn.g2.com/qualitative-vs-quantitative-data
+
+ P. Bhandari. (2020) An introduction to qualitative research. [Online].
+Available: https://www.scribbr.com/methodology/qualitative-research/
+
+ L. Bogdevic. (2018) Project management: What is the ‘triple constraint’
+model? [Online]. Available:
+https://www.skillpoint.uk.com/triple-constraint-model/
+
+ A Guide to the Business Analysis Body of Knowledge . International
+Institute of Business Analysis, 2009. [Online]. Available:
+https://www.academia.edu/6555031/A Guide totheBusiness Analysis
+Body ofKnowledge BABOK Guide Version 20
+
+ E. Conrad, S. Misenar, and J. Feldman, “Chapter 4 - domain 4: Software
+development security,” in Eleventh Hour CISSP (Second Edition) , second
+edition ed., E. Conrad, S. Misenar, and J. Feldman, Eds. Boston:
+Syngress, 2014, pp. 63–76. [Online]. Available: https:
+//www.sciencedirect.com/science/article/pii/B9780124171428000042
+
+ J. Freeman. (2021) Complete guide to architecture diagrams. [Online].
+Available: https://www.edrawsoft.com/architecture-diagram.html
+
+ D. N. Moini. (2021) Codebase for the prototype. [Online]. Available:
+https://github.com/danielzx2/AR-Navigation-Bachelor-Project-
+
+ U. Team. (2021) Webcamtexture. [Online]. Available:
+https://docs.unity3d.com/ScriptReference/WebCamTexture.html
+
+ ——. (2021) Dontdestroyonload. [Online]. Available: https:
+//docs.unity3d.com/ScriptReference/Object.DontDestroyOnLoad.html
+
+ B. Cooley. Augmented reality is coming to your car. [Online]. Available:
+https://www.cnet.com/roadshow/news/
+augmented-reality-is-coming-to-your-car/
+
+ M. Altaweel. (2021) Augmented reality and computer vision in
+navigation. [Online]. Available: https://www.gislounge.com/
+augmented-reality-and-computer-vision-in-navigation/
+

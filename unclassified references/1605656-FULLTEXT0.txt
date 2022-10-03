@@ -1,0 +1,214 @@
+References
+
+ Android Auto . Android. URL: https: // www. android. com/ intl/ en_ in/
+auto/ (visited on 03/29/2021).
+
+ Anjum, Shaik Shabana et al. “Modeling Traffic Congestion Based on Air
+Quality for Greener Environment: An Empirical Study”. In: IEEE Access
+7 (May 2019), pp. 57100–57119. DOI: 10 . 1109 / access . 2019 . 2914672 .
+URL: https : / / ieeexplore . ieee . org / document / 8706933 (visited on
+07/04/2021).
+
+ Ashwin Vishnu, Prakash K S and Sivraj, P. Smart Parking and Charging
+Management of Electric Vehicles in Public Parking Space . IEEE Xplore,
+June 2018. DOI: 10 . 1109 / ICCONS . 2018 . 8662843 . URL: https : / /
+ieeexplore.ieee.org/document/8662843 (visited on 06/02/2021).
+
+ Association, European Parking. Position Paper . Sept. 2019. URL: https :
+/ / www . europeanparking . eu / media / 1583 / epa _ position - paper . pdf
+(visited on 03/01/2021).
+
+ Aydin, Ilhan, Karakose, Mehmet, and Karakose, Ebru. “A navigation and
+reservation based smart parking platform using genetic optimization for
+smart cities”. In: 2017 5th International Istanbul Smart Grid and Cities
+Congress and Fair (ICSG) (Apr. 2017), pp. 120–124. DOI: 10 . 1109 /
+sgcf . 2017 . 7947615 . URL: https : / / ieeexplore . ieee . org / abstract /
+document/7947615 (visited on 04/25/2021).
+48
+ Beyer, P. Non­Intrusive Detection, The Way Forward . 2015. URL: https:
+/ / repository . up . ac . za / bitstream / handle / 2263 / 57785 / Beyer _
+Intrusive_2015.pdf?sequence=1 (visited on 05/27/2021).
+
+ Birchenko, Yury. Advantages and Disadvantages of Smart Parking
+Sensors | Nwave . Nwave, Dec. 2019. URL: https://www.nwave.io/pros-
+and-cons-of-smart-parking-systems/ (visited on 05/27/2021).
+
+ BUSINESS PARTNERS . Easypark Partners. URL: https : / / www .
+easyparkpartners.com/business-partners (visited on 06/10/2021).
+
+ Connected vehicles and automotive connectivity . Ericsson. URL: https :
+//www.ericsson.com/en/connected-vehicles (visited on 05/06/2021).
+
+ Cory. Life Expectancy of Gas Sensors | DOD Technologies, Inc . DOD
+Technologies, Inc, Aug. 2020. URL: https : / / dodtec . com / life -
+expectancy-of-gas-sensors/ (visited on 05/27/2021).
+
+ Dalkic, Yurdaer and Deknache, Hadi. “A Self­policing Smart Parking
+Solution”. In: Malmö University Electronic Publishing (June 2019). URL:
+http://ls00012.mah.se/handle/2043/30206 (visited on 05/26/2021).
+
+ Dowling, Chase et al. How Much Urban Traffic is Searching for Parking?
+ResearchGate, Feb. 2017. URL: https : / / www . researchgate . net /
+publication/313879093_How_Much_Urban_Traffic_is_Searching_for_
+Parking (visited on 04/23/2021).
+
+ Dukaten Parkering ­ Parkering Linköping ­ Boka parkering . Dukaten.
+URL: https : / / www . dukaten . se / vara - tjaenster / boka - parkering
+(visited on 05/09/2021).
+49
+ EasyPark. Car parks in cities, airports and stations . EasyPark. URL:
+https : / / easypark . parkimeter . com / en / parkings (visited on
+05/09/2021).
+
+ Edsgård, Susanne et
+al.Sveparks arbetsgrupp: Digitaliseringens möjligheter . Svepark, 2020.
+URL: https : / / svepark . se / wp - content / uploads / 2020 / 07 / 200507 -
+Slutdokument-digitaliseringsgruppen.pdf (visited on 02/28/2021).
+
+ Floris, Alessandro et al. Implementation of a Magnetometer based Vehicle
+Detection System for Smart Parking applications . ResearchGate, Sept.
+2020. URL: https://www.researchgate.net/publication/344103475_
+Implementation _ of _ a _ Magnetometer _ based _ Vehicle _ Detection _
+System_for_Smart_Parking_applications (visited on 04/24/2021).
+
+ FRAMTIDEN FÖR PARKERING OCH NYA BOSTÄDER . Swedish Society
+for Nature
+Conservation, Oct. 2020. URL: https : / / www . naturskyddsforeningen .
+se/sites/default/files/dokument- media/framtiden- for- parkering-
+och- nya- bostader- rapport- naturskyddsforeningen_1.pdf (visited on
+04/25/2021).
+
+ Garage solutions for cities and operators ­ EasyPark Group . EasyPark.
+URL: https : / / www . easyparkgroup . com / our - offer / offer - garage -
+solutions-for-cities-and-operators/ (visited on 05/09/2021).
+
+ Global connected car market size 2025 . Statista, Sept. 2020. URL: https:
+/ / www . statista . com / statistics / 725025 / connected - cars - global -
+market-size-projection/ (visited on 03/28/2021).
+
+ Gramstad, Per Olav et al. ”City as Platform” ­lägesrapport juli 2020, PoC
+området Parkering . July 2020. URL: https://cityasaplatform.se/wp-
+content/uploads/2020/09/CaaP- L%C3%A4gesrapport- Parkering- Juli-
+2020.pdf (visited on 02/22/2021).
+
+ Hodges, Leslie. Ultrasonic and Passive Infrared Sensor Integration for
+Dual Technology User Detection Sensors . URL: https : / / www . egr . msu .
+edu / classes / ece480 / capstone / fall09 / group05 / docs / ece480 _ dt5 _
+application_note_lhodges.pdf (visited on 05/27/2021).
+50
+ iOS ­ CarPlay . Apple. URL: https : / / www . apple . com / ios / carplay/
+(visited on 03/29/2021).
+
+ KC, Yugesh and Kang, Chang­Soon. A Connected Car­based Parking
+Location Service System . IEEE Xplore, Nov. 2019. DOI: 10 . 1109 /
+IoTaIS47347 . 2019 . 8980443 . URL: https : / / ieeexplore . ieee . org /
+document/8980443 (visited on 05/26/2021).
+
+ Kodransky, Michael and Hermann, Gabrielle. Europe’s Parking U­Turn:
+From Accommodation to Regulation . Institute for Transportation and
+Development Policy, 2011. URL: https://itdpdotorg.wpengine.com/wp-
+content/uploads/2014/07/Europes_Parking_U- Turn_ITDP.pdf (visited
+on 02/28/2021).
+
+ Lin, Trista, Rivano, Herve, and Le Mouel, Frederic. “A Survey of Smart
+Parking Solutions”. In: IEEE Transactions on Intelligent Transportation
+Systems 18 (Dec. 2017), pp. 3229–3253. DOI: 10 . 1109 / tits . 2017 .
+2685143 . (Visited on 04/24/2021).
+
+ Lindgren, Patrik. Förvirrande
+många parkeringsappar i Sverige . teknikensvarld.se, Nov. 2020. URL:
+https://teknikensvarld.se/nyheter/konsument/forvirrande- manga-
+parkeringsappar-i-sverige/ (visited on 03/01/2021).
+
+ Mimbela, Luz Elena and Klein, Lawrence. SUMMARY OF
+VEHICLE DETECTION AND SURVEILLANCE TECHNOLOGIES USED
+IN INTELLIGENT TRANSPORTATION SYSTEMS . Semanticscholar, Aug.
+2007. URL: https : / / www . semanticscholar . org / paper / SUMMARY -
+OF - VEHICLE - DETECTION - AND - SURVEILLANCE - USED - Mimbela - Klein /
+f624560dccabc9c34cd43ac0a1c9ad4edc1fa10d (visited on 05/06/2021).
+
+ NOAA. Ocean Acidification . www.noaa.gov, Apr. 2020. URL: https : / /
+www.noaa.gov/education/resource-collections/ocean-coasts/ocean-
+acidification (visited on 07/04/2021).
+
+ Offer: FIND for drivers ­ EasyPark Group . EasyPark. URL: https://www.
+easyparkgroup . com / our - offer / offer - find - for - drivers/ (visited on
+05/08/2021).
+
+ Paidi, Vijay et al. “Smart parking sensors, technologies and applications for
+open parking lots: a review”. In: IET Intelligent Transport Systems 12 (Oct.
+2018), pp. 735–741. DOI: 10 . 1049 / iet - its . 2017 . 0406 . URL: https :
+/ / www . researchgate . net / publication / 324822320 _ Smart _ parking _
+sensors_technologies_and_applications_for_open_parking_lots_A_
+Review (visited on 06/01/2021).
+
+ Parkera smidigare med LinPark . Dukaten. URL: https://www.dukaten.
+se/vara-tjaenster/linpark (visited on 05/28/2021).
+
+ Parkering, Stockholm. Mål
+och uppgifter ­ Stockholm Parkering . www.stockholmparkering.se, Nov.
+2020. URL: https :/ / www . stockholmparkering . se / om - oss / vilka - ar -
+vi/mal-och-uppgifter/ (visited on 02/28/2021).
+
+ Parkering WESTFIELD MALL OF SCANDINAVIA . Westfield. URL:
+https : / / se . westfield . com / mallofscandinavia / parkering (visited on
+05/02/2021).
+
+ Polycarpou, Elena, Lambrinos, Lambros, and Protopapadakis, Eftychios.
+Smart parking solutions for urban areas . IEEE Xplore, 2013. DOI: 10 .
+1109 / WoWMoM . 2013 . 6583499 . URL: https : / / ieeexplore . ieee . org /
+document/6583499 (visited on 05/02/2021).
+
+ Saxena, Anshul. Everything You Need to Know About In­Vehicle
+Infotainment Systems . eInfochips, Aug. 2018. URL: https : / / www .
+einfochips . com / blog / everything - you - need - to - know - about - in -
+vehicle-infotainment-system/ (visited on 06/12/2021).
+
+ Stad, Stockholms. Budget 2021­2023 . Nov. 2020. URL: https : / / start .
+stockholm / globalassets / start / om - stockholms - stad / sa - anvands -
+dina- skattepengar/stadens- budget- ar- fran- ar/budget- 2021- 2023-
+finansborgarradets-forslag-2020-11-11.pdf (visited on 02/28/2021).
+
+ Statista. Number of electric vehicles in use globally 2020­2030 . Statista,
+Mar. 2021. URL: https : / / www . statista . com / statistics / 970958 /
+worldwide-number-of-electric-vehicles/ .
+
+ Utsläpp av växthusgaser
+från inrikes transporter . Swedish Environmental Protection Agency, 2019.
+URL: https://www.naturvardsverket.se/Sa- mar- miljon/Statistik-
+A - O / Vaxthusgaser - utslapp - fran - inrikes - transporter/ (visited on
+04/25/2021).
+
+ Volvo Cars introducerar infotainmentsystem med Google i fler modeller .
+Volvo, Mar. 2021. URL: https : / / www . media . volvocars . com / se /
+sv - se / media / pressreleases / 279230 / volvo - cars - introducerar -
+infotainmentsystem - med - google - i - fler - modeller (visited on
+06/12/2021).
+
+ Walk, Kerry. How to Write a Comparative Analysis . Harvard.edu, 2019.
+URL: https : / / writingcenter . fas . harvard . edu / pages / how - write -
+comparative-analysis .
+
+ Weixia, Li et al. “Stated acceptance and behavioral responses of drivers
+towards innovative connected vehicle applications”. In: Accident Analysis
+Prevention 155 (June 2021), p. 106095. DOI: 10 . 1016 / j . aap . 2021 .
+54106095 . URL: https://www.sciencedirect.com/science/article/pii/
+S0001457521001263 (visited on 06/13/2021).
+
+ What’s inside your car’s “brain”? Car infotainment systems 2021 guide .
+Concise Software, July 2019. URL: https://concisesoftware.com/car-
+infotainment-system-guide/ (visited on 05/25/2021).
+
+ Yang, Hai et al. “On the morning commute problem with bottleneck
+congestion and parking space constraints”. In: Transportation Research
+Part B: Methodological 58 (Dec. 2013), pp. 106–118. DOI: 10 . 1016 / j .
+trb . 2013 . 10 . 003 . URL: https : / / www . sciencedirect . com / science /
+article/pii/S0191261513001768 (visited on 04/25/2021).
+
+ Ygeman, Anders and Söderström, Pontus. Genomförande av EU:s
+ändringsdirektiv om byggnaders energiprestanda . Jan. 2020. URL:
+https : / / www . regeringen . se / 48de6c / contentassets /
+24ffd5c2a3324fb4bceb9cf16bab8332 / 200109 - lrr - genomforande -
+andringsdirektiv - byggnaders - energiprestanda - inkl - bilaga . pdf
+(visited on 02/28/2021).
+55

@@ -1,0 +1,34 @@
+REFERENCES | 53
+References
+
+ The European Commission, In-depth analysis in support of the
+commission communication COM(2018) 773 . The European
+Commission, 2018.
+
+ S. AB, “The pathways study: Achieving fossil-free commercial transport
+by 2050,” 151 87 Södertälje, T ech. Rep., May 2018.
+
+ S. M. Lundberg and S.-I. Lee, “ A unified approach to interpreting model
+predictions,” in Advances in Neural Information Processing Systems
+30, I. Guyon, U. V . Luxburg, S. Bengio, H. W allach, R. Fergus,
+S. Vishwanathan, and R. Garnett, Eds. Curran Associates, Inc., 2017,
+pp. 4765–4774.
+
+ Y . Y ang and J. O. Pedersen, “ A comparative study on feature selection in
+text categorization,” in ICML , 1997.
+
+ J. Brank, M. Grobelnik, N. Milic-Frayling, and D. Mladenic, “Feature
+selection using linear support vector machines,” T ech. Rep. MSR- TR-
+2002-63, June 2002.
+
+ N. Longford, “ A fast scoring algorithm for maximum likelihood
+estimation in unbalanced mixed models with nested random effects,”
+Biometrika , vol. 74, pp. 817–827, 1987.
+
+ Q. Gu, Z. Li, and J. Han, “Generalized fisher score for feature selection,”
+inUAI , 2011.
+
+ J. Benesty, J. Chen, Y . Huang, and I. Cohen, “Pearson correlation
+coeﬀicient,” in Noise reduction in speech processing . Springer, 2009,
+pp. 1–4.
+

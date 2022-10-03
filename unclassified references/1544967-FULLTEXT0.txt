@@ -1,0 +1,86 @@
+Bibliography
+
+ GodfreyAnugaAkpakwuetal.“Asurveyon5GnetworksfortheInter-
+netofThings:Communicationtechnologiesandchallenges”.In: IEEE
+Access6 (2017), pp. 3619–3647.
+
+ Thomas Linget et al. 5GAA. “White paper: Making 5G proactive and
+predictivefortheautonomousvehicleindustry”.In:(2020). /d.sc/o.sc/i.sc:https:
+//5gaa.org/news/5gaa-releases-white-paper-on-
+making - 5g - proactive - and - predictive - for - the -
+automotive-industry/ .
+
+ VodafoneCorporateCommunicationsDepartment. RakutenAndVoda-
+fone Invest In Ast Science’s Space Venture To Reach More People,
+Devices And Places With Mobile Coverage . Vodafone Group. 2020.
+/u.sc/r.sc/l.sc:https://www.vodafone.com/news- and- media/
+vodafone-group-releases/news/rakuten-and-vodafone-
+invest-in-ast-and-sciences-space-venture .
+
+ ASTScience. Theﬁrstspace-basedcelluarbroadbandnetworkformo-
+bile phones . AST Science. 2020. /u.sc/r.sc/l.sc:https://ast-science.
+com/spacemobile/ .
+
+ Dimitri P Bertsekas et al. Dynamic programming and optimal control .
+Vol. 1. 2. Athena scientiﬁc Belmont, MA, 1995.
+
+ StevenBorowiec.“AlphaGoseals4-1victoryoverGograndmasterLee
+Sedol”. In: The Guardian 15 (2016).
+
+ ChristopherMBishop. Patternrecognitionandmachinelearning .springer,
+2006.
+60BIBLIOGRAPHY 61
+
+ RichardSSutton,AndrewGBarto,etal. Introductiontoreinforcement
+learning. Vol. 135. MIT press Cambridge, 1998.
+
+ RonaldAHoward.“Dynamicprogrammingandmarkovprocesses.”In:
+(1960).
+
+ SimonHaykin. Neuralnetworks:acomprehensivefoundation .Prentice
+Hall PTR, 1994.
+
+ JeﬀHeaton. Iangoodfellow,yoshuabengio,andaaroncourville:Deep
+learning. 2018.
+
+H3:Uber’sHexagonalHierarchicalSpatialIndex .Uber.June27,2017.
+/u.sc/r.sc/l.sc:https://eng.uber.com/h3/ (visited on 09/22/2020).
+
+ Gustavo Niemeyer. “Geohash”. In: (2008).
+
+H3 Documentation . Uber. /u.sc/r.sc/l.sc:https://h3geo.org/docs (vis-
+ited on 10/14/2020).
+
+ MarkusSchwarzMarkusMeukelandMatthiasWinter. E-SIMforcon-
+sumers — a game changer in mobile telecommunications? Mckinsey
+Company. /u.sc/r.sc/l.sc:https://www.mckinsey.com/industries/
+technology - media - and - telecommunications / our -
+insights/e-sim-for-consumers-a-game-changer-
+in-mobile-telecommunications# .
+
+ Tor Kvernvik, Martin Isaksson, and Hjalmar Olsson. Methods and ap-
+paratus for roaming between wireless communications networks . US
+Patent App. 16/959,051. Oct. 2020.
+
+P3selectedbyEricssontoprovidecrowdsourcingdatafornetworkop-
+timization . Pressbox. /u.sc/r.sc/l.sc:https : / / www . pressebox . com /
+pressrelease/umlaut-communications/P3-selected-
+by-Ericsson-to-provide-crowdsourcing-data-for-
+network-optimization/boxid/936094 (visitedon09/12/2020).
+
+https://www.umlaut.com/en/about/about-us . Umlaut. /u.sc/r.sc/l.sc:https://
+www.umlaut.com/en (visited on 10/12/2020).
+
+2018 reform of EU data protection rules . European Commission. /u.sc/r.sc/l.sc:
+https : / / ec . europa . eu / commission / sites / beta -
+political/files/data-protection-factsheet-changes_
+en.pdf (visited on 09/12/2020).
+
+ VijayRKondaandJohnNTsitsiklis.“Actor-criticalgorithms”.In: Ad-
+vancesinneuralinformationprocessingsystems .2000,pp.1008–1014.
+
+ Gabriel Svennerberg. Beginning Google Maps API 3 . Apress, 2010.
+
+ LarryRMedskerandLCJain.“Recurrentneuralnetworks”.In: Design
+and Applications 5 (2001).
+

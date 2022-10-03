@@ -1,0 +1,51 @@
+References
+
+Graphql foundation, 2021. URL https://graphql.org/
+foundation/ .
+
+State of JavaScript. Graphql experience over time, 2019. URL
+https://2019.stateofjs.com/data-layer/graphql/
+#graphql_experience .
+
+Who is using graphql?, 2021. URL https://graphql.org/
+users .
+
+Daniela Meneses Vargas, Alison Fernandez Blanco, Andreina Cota
+Vidaurre, Juan Pablo Sandoval Alcocer, Milton Mamani Torres,
+A. Bergel, and Stéphane Ducasse. Deviation testing: A test case
+generation technique for graphql apis. 2018.
+
+ Roy Thomas Fielding and Richard N. Taylor. Architectural Styles and
+the Design of Network-Based Software Architectures . PhD thesis, 2000.
+AAI9980887.
+
+ Olaf Hartig and Jorge Pérez. An initial analysis of facebook’s graphql
+language. In Juan L. Reutter and Divesh Srivastava, editors, Proceedings
+of the 11th Alberto Mendelzon International Workshop on Foundations of
+Data Management and the Web, Montevideo, Uruguay, June 7-9, 2017 ,
+volume 1912 of CEUR Workshop Proceedings . CEUR-WS.org, 2017.
+URL http://ceur-ws.org/Vol-1912/paper11.pdf .
+
+ Graphql meta ﬁelds, 2021. URL https://graphql.org/learn/
+queries/#meta-fields .
+
+ Graphql operation name, 2021. URL https://graphql.org/
+learn/queries/#operation-name .
+
+ Graphql execution, 2021. URL https://graphql.org/learn/
+execution/ .
+
+ W Heidler, J Benson, R Meeson, A Kerbel, and A Pyster. Software
+testing measures. Technical report, GENERAL RESEARCH CORP
+SANTA BARBARA CA, 1982.
+
+ Arrays, 2021. URL https://www.php.net/manual/en/
+language.types.array.php .
+
+ Robert Binder. Testing object-oriented systems: models, patterns, and
+tools . Addison-Wesley Professional, 2000.
+
+ University of Wisconsin-Madison Computer Sciences Department. Fall
+1988 cs736 project list, 1988. URL http://pages.cs.wisc.
+edu/~bart/fuzz/CS736-Projects-f1988.pdf .
+

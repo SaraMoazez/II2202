@@ -1,0 +1,630 @@
+As
+mentioned
+earlier ,
+the
+learning
+time
+decreased
+by
+five
+days
+from
+SDA
+4-5
+(without
+QBL)
+to
+SDA
+6-9
+(with
+QBL).
+However ,
+there
+is
+limited
+insight
+into
+the
+actual
+amount
+of
+time
+the
+students
+spent
+on
+studying
+during
+the
+different
+course
+offerings.
+Time
+on
+task
+is
+essential
+for
+learning
+and
+might
+have
+an
+impact
+on
+a
+student's
+self-assessed
+confidence.
+Bälter
+et
+al.
+
+
+Alqurashi,
+E.
+2019.
+Predicting
+student
+satisfaction
+and
+perceived
+learning
+within
+online
+learning
+environments.
+Distance
+Education
+.
+40,
+1
+(2019),
+133–148.
+
+
+Andrade,
+H.L.
+2019.
+A
+critical
+review
+of
+research
+on
+student
+self-assessment.
+Frontiers
+in
+Education
+(2019),
+87.
+
+
+Bandura,
+A.
+1977.
+Self-ef ficacy:
+toward
+a
+unifying
+theory
+of
+behavioral
+change.
+Psychological
+review
+.
+84,
+2 (1977), 191.
+
+
+Bichel,
+J.
+2013.
+The
+state
+of
+e-learning
+in
+higher
+education:
+An
+eye
+toward
+growth
+and
+increased
+access
+(research report).
+Louisville: EDUCAUSE
+. 46, (2013).
+
+
+Byrne,
+P.
+and
+Lyons,
+G.
+2001.
+The
+effect
+of
+student
+attributes
+on
+success
+in
+programming.
+Proceedings
+of
+the
+6th
+annual
+confer ence
+on
+Innovation
+and
+technology
+in
+computer
+science
+education
+(2001),
+49–52.
+
+
+Denny ,
+P.,
+Luxton-Reilly ,
+A.,
+Hamer ,
+J.,
+Dahlstrom,
+D.B.
+and
+Purchase,
+H.C.
+2010.
+Self-predicted
+and
+actual
+performance
+in
+an
+introductory
+programming
+course.
+Proceedings
+of
+the
+fifteenth
+annual
+confer ence
+on
+Innovation
+and
+technology
+in
+computer
+science
+education
+(2010), 1 18–122.
+
+
+Deslauriers,
+L.,
+McCarty ,
+L.S.,
+Miller ,
+K.,
+Callaghan,
+K.
+and
+Kestin,
+G.
+2019.
+Measuring
+actual
+learning
+versus
+feeling
+of
+learning
+in
+response
+to
+being
+actively
+engaged
+in
+the
+classroom.
+Proceedings
+of
+the
+National
+Academy of Sciences
+. 116, 39 (2019), 19251–19257.
+
+
+Gecas,
+V.
+1989.
+The
+social
+psychology
+of
+self-ef ficacy .
+Annual r eview of sociology
+. 15, 1 (1989), 291–316.
+
+
+Glassey ,
+R.
+and
+Bälter ,
+O.
+2021.
+Sustainable
+Approaches
+for
+Accelerated
+Learning.
+Sustainability
+.
+13, 21 (2021), 1 1994.
+
+
+Koedinger ,
+K.R.,
+McLaughlin,
+E.A.,
+Jia,
+J.Z.
+and
+Bier,
+N.L.
+2016.
+Is
+the
+doer
+effect
+a
+causal
+relationship?
+How
+can
+we
+tell
+and
+why
+it’s
+important.
+Proceedings
+of
+the
+sixth
+international
+confer ence
+on
+learning
+analytics & knowledge
+(2016), 388–397.
+
+
+Lishinski,
+A.,
+Yadav,
+A.,
+Good,
+J.
+and
+Enbody ,
+R.
+2016.
+Learning
+to
+program:
+Gender
+differences
+and
+interactive
+effects
+of
+students’
+motivation,
+goals,
+and
+self-ef ficacy
+on
+performance.
+Proceedings
+of
+the
+2016
+ACM
+Confer ence
+on
+International
+Computing
+Education Resear ch
+(2016), 21 1–220.
+
+
+McDowell,
+C.,
+Werner ,
+L.,
+Bullock,
+H.E.
+and
+Fernald,
+J.
+2006.
+Pair
+programming
+improves
+student
+retention,
+confidence,
+and
+program
+quality .
+Communications
+of
+the ACM
+. 49, 8 (2006), 90–95.
+
+
+McMillan,
+J.H.
+2013.
+SAGE
+handbook
+of
+resear ch
+on
+classr oom assessment
+. Sage.
+
+
+OLI, O.L.I. 2020. INTER VENTION REPOR T. (2020).
+
+
+Pajares,
+F.
+1996.
+Self-ef ficacy
+beliefs
+in
+academic
+settings.
+Review
+of
+educational
+resear ch
+.
+66,
+4
+(1996),
+543–578.
+
+Pirttinen,
+N.,
+Hellas,
+A.,
+Haaranen,
+L.
+and
+Duran,
+R.
+2020.
+Study
+Major ,
+Gender ,
+and
+Confidence
+Gap:
+Effects
+on
+Experience,
+Performance,
+and
+Self-Ef ficacy
+in
+Introductory
+Programming.
+2020
+IEEE
+Frontiers
+in
+Education Confer ence (FIE)
+(2020), 1–7.
+
+
+Schunn,
+C.D.
+and
+Patchan,
+M.
+2009.
+An
+evaluation
+of
+accelerated
+learning
+in
+the
+CMU
+Open
+Learning
+Initiative
+course
+Logic
+&
+Proofs.
+Report,
+Learning
+Resear ch
+and
+Development
+Center ,
+University
+of
+Pittsbur gh
+. (2009).
+
+
+Oxford
+University
+Press.
+Self-assessment.
+https://www .lexico.com/definition/self-assesment
+
+
+Ventura
+Jr,
+P.R.
+2005.
+Identifying
+predictors
+of
+success
+for an objects-first CS1. (2005).
+
+
+Werth,
+L.H.
+1986.
+Predicting
+student
+performance
+in
+a
+beginning
+computer
+science
+class.
+ACM
+SIGCSE
+Bulletin
+. 18, 1 (1986), 138–143.
+
+
+Yuen-Reed,
+G.
+and
+Reed,
+K.B.
+2015.
+Engineering
+Student
+Self-Assessment
+through
+Confidence-Based
+Scoring.
+Advances
+in
+Engineering
+Education
+.
+4,
+4
+(2015), n4.
+10Appendix A: Topics fr om the confidence surveys
+Table A: List of all topics on the weekly confidence surveys during the PF  module with their  corr esponding code, if analyzed.
+Week
+Topic
+Analyzed
+Code
+1
+The dif ference between fields, constructors, and methods of a class
+1
+The dif ferent components of a method header (accessibility , return type, name, parameters)
+x
+a
+1
+The dif ference between kinds of variables (fields, parameters, local variables)
+x
+b
+1
+Writing boolean expressions using && (logical AND) and || (logical OR)
+1
+Using conditional statements (if-else) to model decisions in Java programs
+x
+c
+1
+How information hiding is achieved in object-oriented programming
+x
+d
+1
+How a method can return a value of a certain type
+1
+The concept of encapsulation in object-oriented programming
+x
+e
+1
+The dif ferent types that variables can have (int, boolean, String, etc)
+x
+f
+2
+Using an ArrayList to group objects together
+2
+Using parameterised types / generics in collections
+2
+Implementing a generic class
+2
+Using a for -each-loop
+2
+Using a for -loop
+2
+Using iterators
+2
+Using a while-loop
+2
+Using an array
+2
+Creating random numbers
+2
+Using a HashSet
+2
+Using a HashMap
+2
+Explaining the dif ferences between list, set and map data structures
+3
+Inheritance as a concept in OOP
+x
+g
+3
+How inheritance syntax is expressed in Java
+x
+h
+3
+Use of abstract classes
+x
+i
+3
+Use of buf fers in file input / output
+3
+Use of interfaces
+x
+j
+3
+The use of exceptions in Java
+x
+k
+3
+The use of 'super' keyword
+3
+Overriding fields and methods
+3
+Difference between static and dynamic types
+3
+Difference between checked and unchecked exceptions
+x
+l
+3
+try / catch / finally syntax in Java
+x
+m

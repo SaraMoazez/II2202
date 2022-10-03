@@ -1,0 +1,86 @@
+REFERENCES | 51
+References
+
+ J.R.Douceur,“Thesybilattack,”in International workshop on peer-to-
+peer systems . Springer, 2002, pp. 251–260.
+
+ B. Barrett, “An artist used 99 phones to fake a
+google maps traﬃc jam,” https://www.wired.com/story/
+99-phones-fake-google-maps-traﬃc-jam/, Feb. 2020.
+
+ I. F. Akyildiz and M. C. Vuran, Wireless sensor networks . John Wiley
+& Sons, 2010, vol. 4.
+
+ CBSNEWs, “Did the internet kill privacy? facebook photos lead to a
+teacher losing her job; what expectations of privacy exist in the digital
+era?” http://www.cbsnews.com, 2011.
+
+ CBCNEWs, “Depressed woman loses beneﬁts over facebook photos,”
+://www.cbc.ca.
+
+ P. Papadimitratos, G. Mezzour, and J.-P. Hubaux, “Certiﬁcate
+Revocation List Distribution in Vehicular Communication Systems,”
+inACM MobiCom Workshop on Vehicular Ad Hoc Networks (ACM
+VANET), San Francisco, CA, USA, September 2008, pp. 86–87.
+
+ L. Webinar, “Api hooking,” https://www.cynet.com/
+attack-techniques-hands-on/api-hooking/, Nov. 2020.
+
+ L. Nguyen-Vu, N.-T. Chau, S. Kang, and S. Jung, “Android rooting: An
+armsracebetweenevasionanddetection,” Security and Communication
+Networks, vol. 2017, 2017.REFERENCES | 55
+
+ A. Dua, N. Bulusu, W.-C. Feng, and W. Hu, “Towards trustworthy
+participatory sensing,” in Proceedings of the Usenix Workshop on Hot
+Topics in Security , vol. 6, 2009.
+
+ A. A. Morgan, G. S. B. Humaid, and A. I. Moustafa, “Using bluetooth
+lowenergyforpositioningsystemswithinovercrowdedenvironments: A
+real in-ﬁeld evaluation,” Computers & Electrical Engineering , vol. 93,
+p. 107314, 2021.
+
+ Darvin, “Detecting magisk hide,” https://darvincitech.wordpress.com/
+2019/11/04/detecting-magisk-hide/, Apr. 2019.
+
+ A. Developer, “Shrink, obfuscate, and optimize your app,” https://
+developer.android.com/studio/build/shrink-code, Feb. 2020.
+
+ GuardSqure, “What is mobile application shielding,” https://www.
+guardsquare.com/mobile-application-shielding, Feb. 2020.For DIVA
+{
+"Author1": {
+"Last name": "Li",
+"First name": "Ronghua",
+"Local User Id": "u100001",
+"E-mail": "ronghua@kth.se",
+"ORCiD": "0000-0002-00001-1234",
+"organisation": {"L1": "School of Electrical Engineering and Computer Science ",
+}
+},
+"Degree": {"Educational program": "Master’s Programme, Communication Systems, 120 credits"},
+"Title": {
+"Main title": "Advanced Hardened Registration Process for Mobile Crowd Sensing",
+"Language": "eng" },
+"Alternative title": {
+"Main title": "Avancerad Härdad registreringsprocess för Mobile Crowd Sensing",
+"Language": "swe"
+},
+"Supervisor1": {
+"Last name": "Eryonucu",
+"First name": "Cihan",
+"Local User Id": "u100003",
+"E-mail": "eryonucu@kth.se",
+"organisation": {"L1": "School of Electrical Engineering and Computer Science ",
+"L2": "Computer Science" }
+},
+"Examiner1": {
+"Last name": "Papadimitratos",
+"First name": "Panos",
+"Local User Id": "xxxxxxxxx",
+"E-mail": "papadigm@kth.se",
+"organisation": {"L1": "School of Electrical Engineering and Computer Science ",
+"L2": "Computer Science" }
+},
+"Other information": {
+"Year": "2022", "Number of pages": " ??,??"}
+}

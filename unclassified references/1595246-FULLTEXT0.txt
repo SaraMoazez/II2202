@@ -1,0 +1,71 @@
+Bibliography
+
+AConciseHistoryofNeuralNetworks .Availableat https://towardsdatascience.
+com/a-concise-history-of-neural-networks-2070655d3fec
+(18/05/2021).
+
+Neural Network . Available at https://databricks.com/fr/
+glossary/neural-network (18/05/2021).
+
+ SumitSaha. AComprehensiveGuidetoConvolutionalNeuralNetworks .
+Availableat https://towardsdatascience.com/a-comprehensive-
+guide - to - convolutional - neural - networks - the -
+eli5-way-3bd2b1164a53 (24/05/2021).
+
+Padding and stride . Available at https://d2l.ai/chapter_
+convolutional-neural-networks/padding-and-strides.
+html(24/05/2021).
+
+ Aditi Mittal. Understanding RNN and LSTM . Available at https://
+aditi-mittal.medium.com/understanding-rnn-and-
+lstm-f7cdf6dfc14e (05/06/2021).
+
+ MariannaPlesiak. Recurrentneural networksandtheir applicationsin
+NLP. Available at https : / / compstat - lmu . github . io /
+seminar _ nlp _ ss20 / recurrent - neural - networks -
+and-their-applications-in-nlp.html (05/06/2021).
+
+ FrançoisChollet. DeeplearningwithPython .ShelterIsland,NY:Man-
+ning Publications Co, 2018. /i.sc/s.sc/b.sc/n.sc: 9781617294433.
+
+ JosePortilla. TotalTensorFlowGuide:DeepLearningwithPythonCourse .
+/u.sc/r.sc/l.sc:shorturl.at/bpPY0 .
+
+ thebrownviking20. Intro to Recurrent Neural Networks LSTM: GRU .
+Nov.2018. /u.sc/r.sc/l.sc:https://www.kaggle.com/thebrownviking20/
+intro- to- recurrent- neural- networks- lstm- gru?
+select=GOOGL_2006-01-01_to_2018-01-01.csv .
+4950 BIBLIOGRAPHY
+
+ Eric Lind and Ävelin Pantigoso. “A performance comparison between
+CPU and GPU in TensorFlow”. In: (2019). /u.sc/r.sc/l.sc:https://www.
+diva-portal.org/smash/get/diva2:1354858/FULLTEXT01.
+pdf.
+
+ Richard Sutton. Reinforcement learning : an introduction . Cambridge,
+Mass: MIT Press, 1998. /i.sc/s.sc/b.sc/n.sc: 0262193981.
+
+ StuartRussell. Artiﬁcialintelligenceamodernapproach .BostonColum-
+busIndianapolisNewYorkSanFranciscoBostonColumbusIndianapolis-
+NewYorkSanFrancisco:PearsonPearson,2016. /i.sc/s.sc/b.sc/n.sc:978-1292153964.
+
+ S.BeckerandYannLecun.“Improvingtheconvergenceofback-propagation
+learning with second-order methods”. English (US). In: Proceedings
+of the 1988 Connectionist Models Summer School, San Mateo . Ed. by
+D. Touretzky, G. Hinton, and T. Sejnowski. Morgan Kaufmann, 1989,
+pp. 29–37.
+
+ Jacob Reinhold. Dropout on convolutional layers is weird . Feb. 2019.
+/u.sc/r.sc/l.sc:https://towardsdatascience.com/dropout-on-
+convolutional-layers-is-weird-5c6ab14f19b2 .
+
+ Jason Brownlee. A Gentle Introduction to Cross-Entropy for Machine
+Learning.Dec.2020. /u.sc/r.sc/l.sc:https://machinelearningmastery.
+com/cross-entropy-for-machine-learning/ .
+
+ MohammadRezaRezaei. CnnForClassiﬁcationDigitsOnMnist ./u.sc/r.sc/l.sc:
+https://mreza-rezaei.github.io/CNN-For-Classification-
+Digits-On-MNIST/ .
+
+ Simon Haykin. Neural networks and learning machines . New York:
+Prentice Hall/Pearson, 2009. /i.sc/s.sc/b.sc/n.sc: 0131471392.

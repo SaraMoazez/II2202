@@ -1,0 +1,29 @@
+References
+
+ Woolley, Martin. “Bluetooth Mesh Networking: An Introduction for
+Developers”. In: Bluetooth SIG (Dec. 2020).
+
+ Kolderup, Ken, Marcel, Jason, and Schmidt, Sarah. “The Case for Bluetooth
+Mesh”. In: Bluetooth SIG (2017).
+
+ Bhargava, Madhur. IoT projects with Bluetooth low energy: harness the
+power of connected things . Packt, 2017.
+
+ Microchip. “Bluetooth Low Energy Packet Types”. In: (). URL: http : / /
+aiweb . techfak . uni - bielefeld . de / content / bworld - robot - control -
+software/ .
+41
+ Nilsson, Mikael and Deknache, Hadi. “Investigation of Bluetooth Mesh
+and Long Range for IoT wearables”. In: Malmö University, Faculty of
+Technology and Society (2018).
+
+ Baert, Mathias et al. “The Bluetooth Mesh Standard: An Overview and
+Experimental Evaluation”. In: Sensors 18 (July 2018), p. 2409. DOI: 10 .
+3390/s18082409 .
+
+ Pi, Raspberry. “Raspberry Pi OS”. In: (). URL: https://www.raspberrypi.
+org/documentation/raspbian/ .
+
+ petzval. “btferret: Bluetooth Interface for Raspberry Pi”. In: (). URL: https:
+//github.com/petzval/btferret .
+

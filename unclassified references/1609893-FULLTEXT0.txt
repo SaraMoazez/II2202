@@ -1,0 +1,37 @@
+Bibliography
+
+ Saracco, Roberto. “A never ending decrease of technology cost”. In: IEEE
+Future Directions (Oct. 2017). URL: https : / / cmte . ieee . org /
+futuredirections / 2017 / 10 / 18 / a - never - ending - decrease - of -
+technology-cost/ .
+
+ Radicati, Sara. “Email statistics report, 2015­2019”. In: The Radicati
+Group, INC., A Technology Market Research Firm, Palo Alto, CA, USA
+April (2015).
+
+ Cvetićanin, Nikolina. What’s On the Other Side of Your Inbox – 20 SPAM
+Statistics for 2021 . 2021. URL: https://dataprot.net/statistics/spam-
+statistics. (visited on 04/23/2021).
+
+ Chen, Rui, Gaia, Joana, and Rao, H. Raghav. “An examination of the effect
+of recent phishing encounters on phishing susceptibility”. In: Decision
+Support Systems 133 (2020), p. 113287. ISSN: 0167­9236. DOI: https :
+/ / doi . org / 10 . 1016 / j . dss . 2020 . 113287 . URL: https : / / www .
+sciencedirect.com/science/article/pii/S0167923620300427 .
+
+ Karla Pak, Doug Shade. Consumer Fraud Victims ­ AARP Foundation
+Study . 2011. URL: https : / / www . aarp . org / money / scams - fraud / info -
+03-2011/fraud-victims-11.html. (visited on 04/25/2021).
+27
+ Egan, Gretel. “2020 ‘State of the Phish’: Security Awareness Training, Email
+Reporting More Critical as Targeted Attacks Spike”. In: State of The Fish
+(Jan. 2020). URL: https : / / www . proofpoint . com / us / security -
+awareness / post / 2020 - state - phish - security - awareness - training -
+email-reporting-more-critical .
+
+ Abroshan, Hossein et al. “Phishing Happens Beyond Technology: The
+Effects of Human Behaviors and Demographics on Each Step of a Phishing
+Process”. In: IEEE Access 9 (2021), pp. 44928–44949. DOI: 10 . 1109 /
+ACCESS . 2021 . 3066383 . URL: https : / / ieeexplore . ieee . org / stamp /
+stamp.jsp?tp=&arnumber=9380285 .
+

@@ -1,0 +1,55 @@
+REFERENCES | 51
+References
+
+ add2 LLC. Software-in-the-loop testing applications. [Online].
+Available: https://www.add2.co.uk/applications/sil/
+
+ D. Harris and S. L. Harris, Digital design and computer architecture .
+Morgan Kaufmann, 2010.
+
+ M.A.Nielsen, Neuralnetworksanddeeplearning . Determinationpress
+San Francisco, CA, 2015, vol. 25.
+
+ S. Hochreiter, Y. Bengio, P. Frasconi, J. Schmidhuber et al., “Gradient
+ﬂowinrecurrentnets: thediﬃcultyoflearninglong-termdependencies,”
+2001.
+
+ R.Vaarandi,“Adataclusteringalgorithmforminingpatternsfromevent
+logs,” in Proceedings of the 3rd IEEE Workshop on IP Operations &
+Management (IPOM 2003)(IEEE Cat. No. 03EX764) . Ieee, 2003, pp.
+119–126.
+
+ W. Meng, Y. Liu, Y. Zhu, S. Zhang, D. Pei, Y. Liu, Y. Chen, R. Zhang,
+S.Tao,P.Sun etal.,“Loganomaly: Unsuperviseddetectionofsequential
+and quantitative anomalies in unstructured logs.” in IJCAI, vol. 7, 2019,
+pp. 4739–4745.REFERENCES | 53
+
+ S. Lu, X. Wei, Y. Li, and L. Wang, “Detecting anomaly in big data
+system logs using convolutional neural network,” in 2018 IEEE 16th
+Intl Conf on Dependable, Autonomic and Secure Computing, 16th Intl
+Conf on Pervasive Intelligence and Computing, 4th Intl Conf on Big
+Data Intelligence and Computing and Cyber Science and Technology
+Congress (DASC/PiCom/DataCom/CyberSciTech) . IEEE, 2018, pp.
+151–158.
+
+ S.He,J.Zhu,P.He,andM.Lyu,“Loghub: Alargecollectionofsystem
+log datasets towards automated log analytics,” 2020.
+
+ T. Zwietasch, “Detecting anomalies in system log ﬁles using machine
+learning techniques,” B.S. thesis, 2014.
+
+ B. Lartigau, “Nonparametric Bayesian models for security anomaly
+detection,” 2019.
+
+ rti. DDS: An open standard for real-time applications. [Online].
+Available: https://www.rti.com/products/dds-standard
+
+ GraphQL. A query language for your API. [Online]. Available:
+https://graphql.org/
+
+ PyTorch. torch.optim. [Online]. Available: https://pytorch.org/docs/
+stable/optim.html
+
+ “Wilcoxon signed-rank test,” Wiley encyclopedia of clinical trials , pp.
+1–3, 2007.
+

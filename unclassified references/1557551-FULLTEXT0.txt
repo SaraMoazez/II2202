@@ -1,0 +1,50 @@
+Bibliography
+
+ A.Press,“Unhackedinapparentespionageoperation: report,” NewYork
+Post, 2020.
+
+ E. Nakashima and J. Greene, “Hospitals being hit in coordinated,
+targeted ransomware attack from russian-speaking criminals,” The
+Washington Post , 2020.
+
+ S. R. Choudhury, “New zealand’s stock exchange halts trading for third
+day in a row,” CNBC, 2020.
+
+ R. Lagerström, C. Baldwin, A. MacCormack, D. Sturtevant, and
+L. Doolan, “Exploring the relationship between architecture coupling
+and software vulnerabilities,” in Engineering Secure Software and
+Systems, E. Bodden, M. Payer, and E. Athanasopoulos, Eds. Cham:
+Springer International Publishing, 2017, pp. 53–69.
+
+ P. Johnson, D. Gorton, R. Lagerström, and M. Ekstedt, “Time between
+vulnerabilitydisclosures: Ameasureofsoftwareproductvulnerability,”
+Computers Security , vol. 62, pp. 278–295, 2016.
+
+ N. Friedman, D. Geiger, and M. Goldszmidt, “Bayesian network
+classiﬁers,” Machine Learning , vol. 29, pp. 131–163, 1997.
+
+ C. R. de Sá, C. Soares, A. Knobbe, P. Azevedo, and A. M. Jorge,
+“Multi-intervaldiscretizationofcontinuousattributesforlabelranking,”
+inDiscoveryScience ,J.Fürnkranz,E.Hüllermeier,andT.Higuchi,Eds.
+Berlin, Heidelberg: Springer Berlin Heidelberg, 2013, pp. 155–169.
+
+ J.Dougherty,R.Kohavi,andM.Sahami,“Supervisedandunsupervised
+discretizationofcontinuousfeatures,”in MachineLearningProceedings
+1995, A. Prieditis and S. Russell, Eds. San Francisco (CA): Morgan
+Kaufmann, 1995, pp. 194 – 202.
+
+ J.P.Anderson,“Computersecuritythreatmonitoringandsurveillance,”
+Technical Report, James P. Anderson Company , 1980.
+
+ M. Ekstedt, R. Lagerström, J. Jacobsson, M. Wällstedt, and P. Eliasson,
+“An attack simulation language for the it domain,” in Graphical Models
+for Security: 7th International Workshop, GraMSec 2020, Boston, MA,
+USA, June 22, 2020 Revised Selected Papers . Springer Nature, p. 67.
+
+ S. Mukherjee and N. Sharma, “Intrusion detection using naive bayes
+classiﬁer with feature reduction,” Procedia Technology , vol. 4, p.
+119–128, 2012.
+
+ A. Panigrahi and M. R. Patra, “Anomaly based network intrusion
+detection using bayes net classiﬁers,” 2019.
+

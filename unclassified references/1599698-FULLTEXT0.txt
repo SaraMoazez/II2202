@@ -1,0 +1,45 @@
+Bibliography
+
+ NguyenDangandPatrickDeCausmaecker.“Analysisofalgorithmcom-
+ponents and parameters: some case studies”. In: International Confer-
+ence on Learning and Intelligent Optimization .Springer.2018,pp.288–
+303.
+
+ DavidSJohnsonetal.“ExperimentalanalysisofheuristicsfortheATSP”.
+In:The traveling salesman problem and its variations . Springer, 2007,
+pp. 445–487.
+
+ Mauro Birattari and Janusz Kacprzyk. Tuning metaheuristics: a ma-
+chine learning perspective . Vol. 197. Springer, 2009.
+
+ Peng Li and Hua Zhu. “Parameter selection for ant colony algorithm
+based on bacterial foraging algorithm”. In: Mathematical Problems in
+Engineering 2016 (2016).
+
+ MatthiasFeurerandFrankHutter.“Hyperparameteroptimization”.In:
+Automated Machine Learning . Springer, Cham, 2019, pp. 3–33.
+
+ Abraham P Punnen. “The traveling salesman problem: Applications,
+formulations and variations”. In: The traveling salesman problem and
+its variations . Springer, 2007, pp. 1–28.
+3334 BIBLIOGRAPHY
+
+ Dorian Gaertner and Keith L Clark. “On Optimal Parameters for Ant
+Colony Optimization Algorithms.” In: IC-AI. Citeseer. 2005, pp. 83–
+89.
+
+ C. E. Rasmussen and C. K. I. Williams. Gaussian Processes for Ma-
+chine Learning . the MIT Press, 2006. /i.sc/s.sc/b.sc/n.sc: 026218253X.
+
+ C. Schretter, L. Kobbelt, and Paul-Olivier Dehaye. “Golden Ratio Se-
+quencesforLow-DiscrepancySampling”.In: J. Graph. Tools 16(2012),
+pp. 95–104.
+
+ Thomas Hammerl. Ant colony optimization for tree and hypertree de-
+compositions . 2009.Appendix A
+Implementation
+Theimplementationoftheoptimizationprocedurecanbefoundatthefollow-
+ing github repo: https://github.com/klaswijk/bayesian-tuning.
+The libaco implementation can be found at the following github repo:
+https://github.com/emmyyin/libaco.
+36

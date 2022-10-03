@@ -1,0 +1,49 @@
+REFERENCES | 31
+References
+
+ L. Zhu, Z. Liu, and S. Han, “Deep leakage from gradients,” 2019.
+
+ H.B.McMahan,E.Moore,D.Ramage,S.Hampson,andB.A.yArcas,
+“Communication-eﬃcientlearningofdeepnetworksfromdecentralized
+data,” 2017.
+
+ A. N. Bhagoji, S. Chakraborty, P. Mittal, and S. Calo, “Model
+poisoningattacksinfederatedlearning,”in Proc. Workshop Secur. Mach.
+Learn.(SecML) 32nd Conf. Neural Inf. Process. Syst.(NeurIPS) , 2018.
+
+ J. Xu, B. S. Glicksberg, C. Su, P. Walker, J. Bian, and F. Wang,
+“Federated learning for healthcare informatics,” 2020.
+
+ I. J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-
+Farley, S. Ozair, A. Courville, and Y. Bengio, “Generative adversarial
+networks,” 2014.
+
+ C.CortesandV.Vapnik,“Supportvectornetworks,” Machine Learning ,
+vol. 20, pp. 273–297, 1995.
+
+ J. Chen, X. Pan, R. Monga, S. Bengio, and R. Jozefowicz, “Revisiting
+distributed synchronous sgd,” 2017.
+
+ I. J. Goodfellow, J. Shlens, and C. Szegedy, “Explaining and harnessing
+adversarial examples,” 2015.
+
+ W.HuandY.Tan,“Generatingadversarialmalwareexamplesforblack-
+box attacks based on gan,” 2017.
+
+ E. Shi, T.-H. H. Chan, E. Rieﬀel, R. Chow, and D. Song, “Privacy-
+preserving aggregation of time-series data,” in NDSS, 2011.
+
+ P. Kairouz, H. B. McMahan, B. Avent, A. Bellet, M. Bennis, A. N.
+Bhagoji, K. Bonawitz, Z. Charles, G. Cormode, R. Cummings, R. G. L.
+D’Oliveira,H.Eichner,S.E.Rouayheb,D.Evans,J.Gardner,Z.Garrett,
+A. Gascón, B. Ghazi, P. B. Gibbons, M. Gruteser, Z. Harchaoui,
+C. He, L. He, Z. Huo, B. Hutchinson, J. Hsu, M. Jaggi, T. Javidi,
+G.Joshi,M.Khodak,J.Konečný,A.Korolova,F.Koushanfar,S.Koyejo,
+T. Lepoint, Y. Liu, P. Mittal, M. Mohri, R. Nock, A. Özgür, R. Pagh,
+M. Raykova, H. Qi, D. Ramage, R. Raskar, D. Song, W. Song, S. U.
+Stich,Z.Sun,A.T.Suresh,F.Tramèr,P.Vepakomma,J.Wang,L.Xiong,
+Z. Xu, Q. Yang, F. X. Yu, H. Yu, and S. Zhao, “Advances and open
+problems in federated learning,” 2021.
+
+ A. N. Bhagoji, S. Chakraborty, P. Mittal, and S. Calo, “Analyzing
+federated learning through an adversarial lens,” 2019.

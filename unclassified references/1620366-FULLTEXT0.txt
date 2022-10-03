@@ -1,0 +1,18 @@
+ References  | 35 
+ 
+ References  
+
+ Steven Bird, Ewan Klein, and Edwar d Loper, Natural Language Processing with Python: 
+Analyzing Text with the Natural Language Toolkit . 2009.  
+
+ Matthias Bruckner, Marcelo LaFleur, and Ingo Pitterle, ‘The impact of the technological revolution 
+on labour markets and income distribution’, Front. Issues , p. 51, Jul. 2017.  
+
+ J.R. Firth, A Synopsis of Linguistic Theory, 1930 -1955 . 1957 [Online]. Available: 
+https://books.google.se/books?id=T8LDtgAACAAJ  
+
+  Jure Zupan, ‘Introduc tion to Artificial Neural Network (ANN) Methods: What They Are and How 
+to Use Them’, Acta Chim. Slov. , vol. 41, Jan. 1994.  
+
+  ‘Amazon Machine Learning - Developer Guide’, Amaz. Web Ser v., vol. 2016, p. 146.  
+

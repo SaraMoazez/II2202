@@ -1,0 +1,40 @@
+REFERENCES | 55
+References
+
+ “Stationary source emissions – determination of low range mass
+concentration of dust – part 1: Manual gravimetric method,” Swedish
+Standard Institute, Stockholm, Swe, Standard, Nov. 2017.
+
+ Omega.Thermocoupleprobes.[Online].Available: https://www.omega.
+com/en-us/resources/thermocouple-hub
+
+ T. Glad and L. Ljung, Reglerteknik, Grundläggande teori . Lund:
+Studentlitteratur AB, 1981, 2006.
+
+ V. VANDOREN. Fixing pid, part 2. [Online]. Available: https:
+//www.controleng.com/articles/ﬁxing-pid-part-2/
+
+ T. Hägglund, Autotuning , ser. 5. London: Springer London, 2013,
+vol. 4, pp. 1–7.
+
+ maxim integrated. Understanding ﬂash adcs design.
+[Online]. Available: https://www.maximintegrated.com/en/design/
+technical-documents/tutorials/8/810.html
+
+ S. W. Smith, The Scientist and Engineer’s Guide to Digital Signal
+Processing . San Diego, California: California Technical Publishing,
+1999.
+
+Gallus Residential Diaphragm Gas Meter , Itron, 2014, gas meter.
+
+Low frequency impulse transmitter, Wire ﬁxation on connecting block ,
+Actaris, 01 2014, rev. 1.
+
+ M. Spichkova, J. van Zyl, S. Sachdev, A. Bhardwaj, and N. Desai,
+“Easy mobile meter reading for non-smart meters: Comparison of aws
+rekognition and google cloud vision approaches,” 2019.
+
+Micaﬂex programmable diﬀerential pressure transmitter for pressure
+or ﬂow measurement, supervision and control , micatrone, 2007, pI
+controller micatrone.
+

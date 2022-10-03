@@ -1,0 +1,50 @@
+Bibliography
+
+Agarwal, Sameer, Mierle, Keir, et al. Ceres Solver .http://ceres-solver.org .
+
+Araujo, André, Norris, Wade, and Sim, Jack. “Computing Receptive Fields of
+Convolutional Neural Networks”. In: Distill (2019).
+
+ Chen, Changhao and Lu, Chris Xiaoxuan. “Deep Neural Network Based
+Inertial Odometry Using Low­cost Inertial Measurement Units”. en. In: IEEE
+TRANSACTIONS ON MOBILE COMPUTING (2019), p. 14.
+
+ Cortés, S., Solin, A., and Kannala, J. “DEEP LEARNING BASED SPEED
+ESTIMATION FOR CONSTRAINING STRAPDOWN INERTIAL NAVIGATION
+ON SMARTPHONES”. In: 2018 IEEE 28th International Workshop on
+Machine Learning for Signal Processing (MLSP) . Sept. 2018, pp. 1–6.
+
+ Girrbach, Fabian, Hol, Jeroen D., Bellusci, Giovanni, and Diehl, Moritz.
+“Optimization­Based Sensor Fusion of GNSS and IMU Using a Moving Horizon
+Approach”. en. In: Sensors 17 (May 2017), p. 1159.
+
+ Goodfellow, Ian, Bengio, Yoshua, and Courville, Aaron. Deep Learning .http:
+//www.deeplearningbook.org . MIT Press, 2016.
+
+ Grupp, Michael. evo: Python package for the evaluation of odometry and
+SLAM. https://github.com/MichaelGrupp/evo . 2017.
+
+ Hosseinyalamdary, Siavash. “Deep Kalman Filter: Simultaneous Multi­Sensor
+Integration and Modelling; A GNSS/IMU Case Study”. en. In: Sensors 18 (May
+2018), p. 1316.
+
+ Kok, Manon, Hol, Jeroen D., and Schön, Thomas B. Using Inertial Sensors for
+Position and Orientation Estimation . 2017.
+
+ Lu, F. and Milios, E. “Globally Consistent Range Scan Alignment for
+Environment Mapping”. In: AUTONOMOUS ROBOTS 4 (1997), pp. 333–349.
+
+ Paszke, Adam, Gross, Sam, Massa, Francisco, Lerer, Adam, Bradbury, James,
+Chanan, Gregory, Killeen, Trevor, Lin, Zeming, Gimelshein, Natalia, Antiga,
+Luca, Desmaison, Alban, Kopf, Andreas, Yang, Edward, DeVito, Zachary,
+Raison, Martin, Tejani, Alykhan, Chilamkurthy, Sasank, Steiner, Benoit, Fang,
+Lu, Bai, Junjie, and Chintala, Soumith. “PyTorch: An Imperative Style, High­
+Performance Deep Learning Library”. In: Advances in Neural Information
+Processing Systems 32 . Ed. by H. Wallach, H. Larochelle, A. Beygelzimer, F.
+d’Alché­Buc, E. Fox, and R. Garnett. Curran Associates, Inc., 2019, pp. 8024–
+8035.
+58BIBLIOGRAPHY
+
+ Rumelhart, David E, Hintont, Geoffrey E, and Williams, Ronald J. “Learning
+representations by back­propagating errors”. en. In: (1986), p. 4.
+

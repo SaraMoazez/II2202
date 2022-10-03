@@ -1,0 +1,139 @@
+References
+
+ A. Heuser and M. Zohner, \Intelligent machine homicide," in Constructive
+Side-Channel Analysis and Secure Design (W. Schindler and S. A. Huss,
+eds.), (Berlin, Heidelberg), pp. 249{264, Springer Berlin Heidelberg, 2012.
+
+ T. Bartkewitz and K. Lemke-Rust, \Ecient template attacks based on
+probabilistic multi-class support vector machines," in Smart Card Re-
+search and Advanced Applications (S. Mangard, ed.), (Berlin, Heidelberg),
+pp. 263{276, Springer Berlin Heidelberg, 2013.
+
+ L. Lerman, G. Bontempi, and O. Markowitch, \Power analysis attack: An
+approach based on machine learning," vol. 3, p. ied Cryptography, 01 2014.
+
+ H. Maghrebi, T. Portigliatti, and E. Prou, \Breaking cryptographic imple-
+mentations using deep learning techniques," in Security, Privacy, and Ap-
+plied Cryptography Engineering (C. Carlet, M. A. Hasan, and V. Saraswat,
+eds.), vol. 10076, pp. 3{26, Springer International Publishing, 2016.
+
+ M. Brisfors and S. Forsmark, \DLSCA: a Tool for Deep Learning Side
+Channel Analysis," p. 6, 2019.
+
+ Fanliang Hu, Huanyu Wang, and Junnian Wang, \Cross-subkey deep-
+learning side-channel analysis.," IACR Cryptol. ePrint Arch. , 2021.
+
+ Huanyu Wang and Elena Dubrova, \Federated learning in side-channel
+analysis.," IACR Cryptol. ePrint Arch. , 2020.
+
+ Huanyu Wang and Elena Dubrova, \Tandem deep learning side-channel
+attack against fpga implementation of aes.," IACR Cryptol. ePrint Arch. ,
+2020.
+
+ Kalle Ngo, Elena Dubrova, Qian Guo 001, and Thomas Johansson 001,
+\A side-channel attack on a masked ind-cca secure saber kem implementa-
+tion.," IACR Trans. Cryptogr. Hardw. Embed. Syst. , 2021.
+
+ Yang Yu, Michail Moraitis, and Elena Dubrova, \Can deep learning break
+a true random number generator?," IEEE Trans. Circuits Syst. II Express
+Briefs , 2021.
+REFERENCES 41
+ D. Das, A. Golder, J. Danial, S. Ghosh, A. Raychowdhury, and S. Sen,
+\X-deepsca: Cross-device deep learning side channel attack," pp. 1{6, 06
+2019.
+
+ S. Bhasin, A. Chattopadhyay, A. Heuser, D. Jap, S. Picek, and R. R. Shri-
+vastwa, \Mind the portability: A warriors guide through realistic proled
+side-channel analysis." Cryptology ePrint Archive, Report 2019/661, 2019.
+https://ia.cr/2019/661 .
+
+ R. Benadjila, E. Prou, R. Strullu, E. Cagli, and C. Dumas, \Study of deep
+learning techniques for side-channel analysis and introduction to ASCAD
+database," p. 45, 2018.
+
+ M. Brisfors and S. Forsmark, \Deep-learning side-channel attacks on aes,"
+2019.
+
+ M. Brisfors, S. Forsmark, and E. Dubrova, \How Deep Learning Helps Com-
+promising USIM," in Smart Card Research and Advanced Applications (P.-
+Y. Liardet and N. Mentens, eds.), vol. 12609, pp. 135{150, Cham: Springer
+International Publishing, 2021. Series Title: Lecture Notes in Computer
+Science.
+
+ C. Devine, \A Practical Guide to Dierential Power Analysis of USIM
+cards," p. 13.
+
+ R. Wang, H. Wang, and E. Dubrova, \Far Field EM Side-Channel Attack
+on AES Using Deep Learning," in Proceedings of the 4th ACM Workshop on
+Attacks and Solutions in Hardware Security , (Virtual Event USA), pp. 35{
+44, ACM, Nov. 2020.
+
+ H. Wang, R. Wang, M. Brisfors, and E. Dubrova, \Advanced far eld em
+side-channel attack on aes based on deep learning," 2021.
+
+ N. Parmar, A. Vaswani, J. Uszkoreit,  Lukasz Kaiser, N. Shazeer, A. Ku,
+and D. Tran, \Image transformer," 2018.
+
+ D. Grechishnikova, \Transformer neural network for protein-specic de
+novo drug generation as a machine translation problem," Scientic Re-
+ports , vol. 11, p. 321, Jan. 2021.
+
+ K. D. Foote, \A Brief History of Machine Learning," Mar. 2019. https:
+//www.dataversity.net/a-brief-history-of-machine-learning/ .
+
+ \UCI Machine Learning Repository: Iris Data Set." https://archive.
+ics.uci.edu/ml/datasets/iris .
+
+ D. E. Rumelhart, G. E. Hinton, and R. J. Williams, \Learning representa-
+tions by back-propagating errors," Nature , vol. 323, pp. 533{536, 1986.
+
+ A. Vaswani, N. Shazeer, N. Parmar, J. Uszkoreit, L. Jones, A. N. Gomez,
+L. Kaiser, and I. Polosukhin, \Attention is all you need," 2017.
+
+ D. Kahn, The Codebreakers: The comprehensive history of secret commu-
+nication from ancient times to the internet . Simon and Schuster, 1996.
+
+ J. Daemen and V. Rijmen, \The rijndael block cipher," p. 45, March 1999.
+
+ P. C. Kocher, \Timing attacks on implementations of di e-hellman, RSA,
+DSS, and other systems," p. 10, 1996.
+
+ P. Kocher, J. Jae, and B. Jun, \Dierential Power Analysis," in Advances
+in Cryptology | CRYPTO' 99 (M. Wiener, ed.), (Berlin, Heidelberg),
+pp. 388{397, Springer Berlin Heidelberg, 1999.
+
+ Sysmocom, \Sysmocom store - sysmoUSIM-SJS1 SIM + USIM." http:
+//shop.sysmocom.de/products/sysmousim-sjs1 .
+
+ NewAE Technology Inc., \ChipWhisperer." https://newae.com/tools/
+chipwhisperer/ .
+REFERENCES 43
+ R. Benadjila, M. Renard, D. Elbaze, and P. Tr ebuchet, \LEIA: the Lab
+Embedded ISO7816 Analyzer A Custom Smartcard Reader for the Chip-
+Whisperer," p. 30, 2019.
+
+ William Falcon, \Pytorch lightning," March 2019. https://www.
+pytorchlightning.ai/ .
+
+ Keras, \Keras documentation," May 2019. https://keras.io/ .
+
+ \Pearson's Correlation Coecient," in Encyclopedia of Public Health
+(W. Kirch, ed.), pp. 1090{1091, Dordrecht: Springer Netherlands, 2008.
+
+ Z. Lu and K.-H. Yuan, Welch's t test , pp. 1620{1623. 01 2010.
+
+ Keras Team, \Keras documentation: Text classication with Transformer,"
+May 2020. https://keras.io/examples/nlp/text_classification_
+with_transformer/ .
+
+ L. Liu, Z. Qu, Z. Chen, Y. Ding, and Y. Xie, \Transformer acceleration
+with dynamic sparse attention," 2021.
+
+ R. Child, S. Gray, A. Radford, and I. Sutskever, \Generating long sequences
+with sparse transformers," 2019.
+
+ Google AI, \Google AI Blog: Constructing Transformers For Longer
+Sequences with Sparse Attention Methods," March 2021. https://ai.
+googleblog.com/2021/03/constructing-transformers-for-longer.
+html .
+REFERENCES 44

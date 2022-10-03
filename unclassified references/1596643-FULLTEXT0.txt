@@ -1,0 +1,49 @@
+Bibliography
+
+ BitTorrent. The BitTorrent Protocol Speciﬁcation . 2008. /u.sc/r.sc/l.sc:http:
+/ / bittorrent . org / beps / bep _ 0003 . html (visited on
+05/14/2021).
+
+ BitTorrent. BitTorrent.org - What is BitTorrent? 2015. /u.sc/r.sc/l.sc:https:
+//www.bittorrent.org/introduction.html (visited on
+05/16/2021).
+
+ BitTorrent. DHTProtocol .2008. /u.sc/r.sc/l.sc:http://bittorrent.org/
+beps/bep_0005.html (visited on 05/14/2021).
+
+ PetarMaymounkovandDavidMazières.“Kademlia:APeer-to-PeerIn-
+formationSystemBasedontheXORMetric”.In: Peer-to-PeerSystems .
+Ed. by Peter Druschel, Frans Kaashoek, and Antony Rowstron. Berlin,
+Heidelberg:SpringerBerlinHeidelberg,2002,pp.53–65. /i.sc/s.sc/b.sc/n.sc:978-3-
+540-45748-0.
+
+ TheInternetSociety. USSecureHashAlgorithm1(SHA1) .2001. /u.sc/r.sc/l.sc:
+https://datatracker.ietf.org/doc/html/rfc4122
+(visited on 05/14/2021).
+
+ BramCohen.“IncentivesbuildrobustnessinBitTorrent”.In: Workshop
+on Economics of PeertoPeer systems 6 (June 2003).
+
+ ScottHogg. SoftwareContainers:UsedMoreFrequentlythanMostRe-
+alize.2014. /u.sc/r.sc/l.sc:https://www.networkworld.com/article/
+2226996/software-containers--used-more-frequently-
+than-most-realize.html (visited on 05/16/2021).
+
+ Arvid Norberg. Libtorrent ./u.sc/r.sc/l.sc:https://www.libtorrent.
+org/(visited on 05/14/2021).
+
+ The Internet Society. A Universally Unique IDentiﬁer (UUID) URN
+Namespace . 2005. /u.sc/r.sc/l.sc:https://datatracker.ietf.org/
+doc/html/rfc4122 (visited on 05/14/2021).
+
+ ArvidNorberg. LibtorrentSettings ./u.sc/r.sc/l.sc:https://www.libtorrent.
+org/reference-Settings.html (visited on 05/14/2021).
+
+ Webtorrent. bittorrent-tracker ./u.sc/r.sc/l.sc:https://github.com/webtorrent/
+bittorrent-tracker (visited on 05/14/2021).
+
+ Google. Blockstorageperformance|ComputeEngineDocumentation .
+/u.sc/r.sc/l.sc:https://cloud.google.com/compute/docs/disks/
+performance#performance_factors (visitedon05/15/2021).Appendix A
+Libtorrent settings
+The following Libtorrent settings 

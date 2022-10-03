@@ -1,0 +1,74 @@
+References
+
+Atwood,JamesandTowsley,Don.“Diffusion­ConvolutionalNeuralNetworks”.
+In:(2016),pp.2001–2009.
+
+Balevi,ErenandAndrews,JeffreyG.“OnlineAntennaTuninginHeterogeneous
+CellularNetworkswithDeepReinforcementLearning”.In: IEEE Transactions
+on Cognitive Communications and Networking (2019),pp.1113–1124.
+
+Buenestado, V., Toril, M., Luna­Ramírez, S., Ruiz­Avilés, J. M., and Mendo,
+A. “Self­tuning of Remote Electrical Tilts Based on Call Traces for Coverage
+and Capacity Optimization in LTE”. In: IEEE Transactions on Vehicular
+Technology (2017),pp.4315–4326.
+
+Cai, H., Zheng, V. W., and Chang, K. C. “A Comprehensive Survey of Graph
+Embedding:Problems,Techniques,andApplications”.In: IEEE Transactions
+on Knowledge and Data Engineering (2018),pp.1616–1637.
+
+Defferrard, Michaël, Bresson, Xavier, and
+Vandergheynst, Pierre. “Convolutional Neural Networks on Graphs with Fast
+LocalizedSpectralFiltering”.In: NIPS(2016),pp.3844–3852.
+
+Duvenaud, David, Maclaurin, Dougal, Aguilera­Iparraguirre, Jorge, Gómez­
+Bombarelli,Rafael,Hirzel,Timothy,Aspuru­Guzik,Alán,andAdams,RyanP.
+“ConvolutionalNetworksonGraphsforLearningMolecularFingerprints”.In:
+NIPS(2015),pp.2224–2232.
+43REFERENCES
+
+Frasconi,Paolo,Gori,Marco,andSperduti,Alessandro.“AGeneralFramework
+for Adaptive Processing of Data Structures”. In: IEEE TRANSACTIONS ON
+NEURAL NETWORKS (1998),pp.768–786.
+
+Gilmer, Justin, Schoenholz, Samuel S., Riley, Patrick F., Vinyals, Oriol, and
+Dahl, George E. “Neural message passing for quantum chemistry”. In: ICML
+(2017),pp.1263–1272.
+
+Hamilton,WilliamL.,Ying,Rex,andLeskovec,Jure.“InductiveRepresentation
+LearningonLargeGraphs”.In: NIPS(2017),pp.1025–1035.
+
+Jiang, Jiechuan, Dun, Chen, Huang, Tiejun, and Lu, Zongqing. “Graph
+Convolutional Reinforcement Learning”. In: (2020). arXiv: 1810 . 09202
+[cs.LG].
+
+Li, Juzheng, Zhu, J., and Zhang, Bo. “Discriminative Deep Random Walk for
+NetworkClassification”.In: ACL(2016),pp.1004–1013.
+
+Micheli,A.“NeuralNetworkforGraphs:AContextualConstructiveApproach”.
+In:IEEE Transactions on Neural Networks (2009),pp.498–511.
+
+Niepert, Mathias, Ahmed, Mohamed, and Kutzkov, Konstantin. “Learning
+ConvolutionalNeuralNetworksforGraphs”.In: ICML(2016),pp.2014–2023.
+44REFERENCES
+
+Scarselli,F.,Gori,M.,Tsoi,A.C.,Hagenbuchner,M.,andMonfardini,G.“The
+Graph Neural Network Model”. In: IEEE Transactions on Neural Networks
+(2009),pp.61–80.
+
+Shervashidze, Nino, Schweitzer, Pascal, Leeuwen, Erik Jan van, Mehlhorn,
+Kurt, and Borgwardt, Karsten M. “Weisfeiler­Lehman Graph Kernels”. In:
+NauchnoTechnicheskaya Informatsia (2011),pp.2539–2561.
+
+Sukhbaatar,Sainbayar,Szlam,Arthur,andFergus,Rob.“LearningMultiagent
+CommunicationwithBackpropagation”.In: NIPS(2016).
+
+Tall, A., Altman, Z., and Altman, E. “Self­optimizing strategies for dynamic
+verticalsectorizationinLTEnetworks”.In: IEEE WCNC (2015),pp.807–812.
+
+Vaswani,Ashish,Shazeer,Noam,Parmar,Niki,Uszkoreit,Jakob,Jones,Llion,
+Gomez, Aidan N., Kaiser, Lukasz, and Polosukhin, Illia. “Attention is All You
+Need”.In: NIPS(2017),pp.6000–6010.
+
+Watkins,C.J.C.H.“LearningfromDelayedRewards”.In: PhD Thesis (1989).
+45REFERENCES
+

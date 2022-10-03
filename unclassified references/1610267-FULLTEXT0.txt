@@ -1,0 +1,30 @@
+Bibliography
+
+ Steven W. D. Chien, Ivy B. Peng, and Stefano Markidis. “Posit NPB:
+AssessingthePrecisionImprovementinHPCScientiﬁcApplications”.
+In:ParallelProcessingandAppliedMathematics .Ed.byRomanWyrzykowski
+etal.Cham:SpringerInternationalPublishing,2020,pp.301–310. /i.sc/s.sc/b.sc/n.sc:
+978-3-030-43229-4.
+
+ August Danell Håkansson and Mirja Johnsson. An error assessment of
+matrix multiplications on posit matrices . 2020.
+
+ Simone De Blasio and Fredrik Ekstedt Karpers. Comparing the pre-
+cision in matrix multiplication between Posits and IEEE 754 ﬂoating-
+points : Assessing precision improvement with emerging ﬂoating-point
+formats. 2020.
+
+ TonyLeandPontusKarlberg. ComparingtheAccuracyBetweenIEEE
+754 and Posit Using Matrix Multiplication . 2020.
+
+ JohnLGustafson. TheEndofError:UnumComputing .eng.Chapman
+& Hall/CRC computational science series. Boca Raton, 2015. /i.sc/s.sc/b.sc/n.sc:
+9781482239867.
+2728 BIBLIOGRAPHY
+
+ MarcelloMorelli. DallecalcolatriciaicomputerdeglianniCinquanta.
+FrancoAngeli . 2001, p. 177. /i.sc/s.sc/b.sc/n.sc: 9788846428790.
+
+ J.LGustafsonetal. PositStandardDocumentation .2018. /u.sc/r.sc/l.sc:https:
+/%20/posithub.org%20/docs/posit_standard.pdf .
+

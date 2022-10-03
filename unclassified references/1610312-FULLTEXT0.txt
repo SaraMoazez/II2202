@@ -1,0 +1,25 @@
+References
+
+ Paul Voigt and Axel Von dem Bussche. The eu general data protection regulation
+(gdpr). A Practical Guide, 1st Ed., Cham: Springer International Publishing ,
+10:3152676, 2017.
+
+ Saurabh Kumar Garg and Rajkumar Buyya. Green cloud computing and
+environmental sustainability. Harnessing Green IT: Principles and Practices ,
+2012:315–340, 2012.
+
+ IT Governance Privacy Team. Eu general data protection regulation (gdpr)–an
+implementation and compliance guide . IT Governance Ltd, 2020.
+
+ Nguyen Binh Truong, Kai Sun, Gyu Myoung Lee, and Yike Guo. Gdpr­compliant
+personal data management: A blockchain­based solution. IEEE Transactions on
+Information Forensics and Security , 15:1746–1761, 2019.
+
+ Barrie Sosinsky. Cloud computing bible , volume 762. John Wiley & Sons, 2010.
+
+ Sajee Mathew and J Varia. Overview of amazon web services. Amazon
+Whitepapers , 2020.
+
+ Justin Richer, Antonio Sanso, and Ian Glazer. OAuth 2 in Action . Manning
+Publications Shelter Island, 2017.
+

@@ -1,0 +1,48 @@
+References | 61
+References
+
+M. Stonebraker and E. Rezig, “Machine learning and big data: What is
+important?” IEEE Data Eng. Bull. ,vol.42,pp.3–7,2019. [Page 8.]
+
+I. J. Goodfellow, J. Shlens, and C. Szegedy, “Explaining and harnessing
+adversarial examples,” 2015. [Online]. Available: https://arxiv.org/abs/1412.
+6572[Page12.]64 | References
+
+T. Miyato, S. ichi Maeda, M. Koyama, and S. Ishii, “Virtual adversarial
+training: A regularization method for supervised and semi-supervised
+learning,” 2018. [Online]. Available: https://ieeexplore.ieee.org/abstract/
+document/8417973 [Page12.]
+
+A. Krizhevsky, “Learning multiple layers of features from tiny images,”
+Department of Computer Science, University of Toronto, Toronto, Canada,
+MSc thesis, Apr. 2009. [Online]. Available: http://www.cs.toronto.edu/~kriz/
+learning-features-2009-TR.pdf [Page15.]
+
+Y. Netzer, T. Wang, A. Coates, A. Bissacco, B. Wu, and A. Y. Ng,
+“Reading digits in natural images with unsupervised feature learning,” in
+NIPS Workshop on Deep Learning and Unsupervised F eature Learning 2011 ,
+2011. [Online]. Available: http://ufldl.stanford.edu/housenumbers/nips2011_
+housenumbers.pdf [Page15.]
+
+O. Örnberg, “Semi-supervised methods for classification of
+hyperspectral images with deep learning (dissertation),” 2020.
+[Online]. Available: http://kth.diva-portal.org/smash/record.jsf?pid=diva2%
+3A1516250&dswid=6919 [Page17.]
+
+D.Resnik, “Philosophicalfoundationsofscientificethics,” in Ethical Issues in
+Physics Workshop Proceedings ,011994,pp.1–13. [Page 21.]
+
+M.Zoffoli.(2021)Githubrepositorywiththesisworkcode. https://github.com/
+matzof/semi-supervised_learning_classification_stainless_steel . [Pages 22
+and58.]
+
+F. Chollet et al.(2015) Keras. [Online]. Available: https://github.com/fchollet/
+keras[Pages24and55.]
+
+Azure computing clusters: Nc-series. https://docs.microsoft.com/en-us/azure/
+virtual-machines/nc-series . [Page24.]
+
+D. Berthelot, N. Carlini, A. Kurakin, K. Sohn, G. Vecsei, H. Lee, and
+D.Katsugarawa.(2019)Fixmatchoriginalgithubrepository. https://github.com/
+google-research/fixmatch . [Pages35,53,and56.]
+

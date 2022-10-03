@@ -1,0 +1,103 @@
+REFERENCES | 67
+References
+
+ A.Vaswani,N.Shazeer,N.Parmar,J.Uszkoreit,L.Jones,A.N.Gomez,
+Ł. Kaiser, and I. Polosukhin, “Attention Is All You Need,” in Advances
+in neural information processing systems , 2017, pp. 5998–6008.
+
+ F. A. Sheikha and D. Inkpen, “Generation of Formal and Informal
+Sentences,” in Proceedings of the 13th European Workshop on Natural
+Language Generation , 2011, pp. 187–193.
+
+ “Hejare AB,” URL: https://www.hejare.se/, Last accessed 28 January
+2021.
+
+ “Momang,” URL: https://momang.io/, Last accessed 28 January 2021.
+
+ F. Heylighen and J.-M. Dewaele, “Formality of Language: deﬁnition,
+measurement and behavioral determinants,” Interner Bericht, Center
+“Leo Apostel”, Vrije Universiteit Brüssel , vol. 4, 1999.
+
+ E. Pavlick and J. Tetreault, “An Empirical Analysis of Formality
+in Online Communication,” Transactions of the Association for
+Computational Linguistics , vol. 4, pp. 61–74, 2016.
+
+ W. Xu, A. Ritter, W. B. Dolan, R. Grishman, and C. Cherry,
+“Paraphrasing for Style,” in Proceedings of COLING 2012 , 2012, pp.
+2899–2914.
+
+ “Yahoo Datasets,” URL: https://webscope.sandbox.yahoo.com/catalog.
+php?datatype=l, Last accessed 21 February 2021.
+
+ “Yahoo! Answers,” URL: https://answers.yahoo.com/answer, Last
+accessed 21 February 2021.
+
+ K. Papineni, S. Roukos, T. Ward, and W.-J. Zhu, “BLEU: a Method for
+Automatic Evaluation of Machine Translation,” in Proceedings of the
+40th annual meeting of the Association for Computational Linguistics ,
+2002, pp. 311–318.REFERENCES | 69
+
+ D. Chen and W. B. Dolan, “Collecting Highly Parallel Data for
+Paraphrase Evaluation,” in Proceedings of the 49th Annual Meeting
+of the Association for Computational Linguistics: Human Language
+Technologies , 2011, pp. 190–200.
+
+ F. Rosenblatt, “Principles of Neurodynamics: Perceptrons and the
+Theory of Brain Mechanisms,” Cornell Aeronautical Lab Inc Buﬀalo
+NY, Tech. Rep., 1961.
+
+ A. Radford, K. Narasimhan, T. Salimans, and I. Sutskever, “Improving
+Language Understanding with Unsupervised Learning,” Technical
+report, OpenAI , 2018.
+
+ S. Rothe, S. Narayan, and A. Severyn, “Leveraging Pre-trained
+Checkpoints for Sequence Generation Tasks,” Transactions of the
+Association for Computational Linguistics , vol. 8, pp. 264–280, 2020.
+
+ “Google Scholar,” URL: https://scholar.google.com/, Last accessed 28
+April 2021.
+
+ “Google Cloud,” URL: https://cloud.google.com, Last accessed 28
+January 2021.
+
+ “Kb/bert-base-swedish-cased, Hugginface Model,” URL:
+https://huggingface.co/KB/bert-base-swedish-cased, Last accessed
+16 April 2021.
+
+ “Python,” URL: https://www.python.org/, Last accessed 28 January
+2021.
+
+ “Transformers, Hugginface Library,” URL: https://huggingface.co/
+transformers/, Last accessed 16 April 2021.
+
+ “EncoderDecoderModel, Hugginface Library,” URL: https:
+//huggingface.co/transformers/model_doc/encoderdecoder.html#
+encoderdecodermodel, Last accessed 16 April 2021.REFERENCES | 71
+
+ “bert-base-cased, Hugginface Model,” URL: https://huggingface.co/
+bert-base-cased, Last accessed 16 April 2021.
+
+ “BertTokenizer, Hugginface Library,” URL: https://huggingface.co/
+transformers/model_doc/bert.html#berttokenizer, Last accessed 16
+April 2021.
+
+ “Seq2SeqTrainer, Hugginface Library,” URL: https://huggingface.co/
+transformers/main_classes/trainer.html#seq2seqtrainer, Last accessed
+16 April 2021.
+
+ “Tensorﬂow,” URL: https://www.tensorﬂow.org/, Last accessed 28
+January 2021.
+
+ “PyTorch,” URL: https://pytorch.org/, Last accessed 28 January 2021.
+
+ “Apex(APyTorchExtension),NVIDIA,”URL:https://nvidia.github.io/
+apex/, Last accessed 16 April 2021.
+
+ “Debain,” URL: https://www.debian.org/, Last accessed 16 April 2021.
+
+ “Deep Learning VM, Google Cloud,” URL: https://cloud.google.com/
+deep-learning-vm, Last accessed 16 April 2021.
+
+ “NVIDIA Tesla T4 GPU,” URL: https://www.nvidia.com/en-us/
+data-center/tesla-t4/, Last accessed 16 April 2021.
+

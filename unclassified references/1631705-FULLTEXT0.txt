@@ -1,0 +1,12 @@
+REFERENCES|65
+References
+
+ Mello, John P. Jr. (2017) Application Security Report 2017.
+Cybersecurity Ventures.
+
+ Krasner, Herb. (2018, 9) The Cost of Poor Quality Software in the US:
+A 2018 Report.
+
+ S.C.Johnson,“Lint,aCProgramChecker,”in COMP.SCI.TECH.REP ,
+1978, pp. 78–1273.
+

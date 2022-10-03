@@ -1,0 +1,109 @@
+Bibliography
+
+ Derrick Bryson Taylor. A Timeline of the Coronavirus Pandemic .
+Ed. by The New York Times. https : / / www . nytimes . com /
+article/coronavirus-timeline.html . Mar. 2021.
+
+ World Health Organization. Archived: WHO Timeline - COVID-
+19. Ed. by World Health Organization. https://www.who.int/
+news/item/27-04-2020-who-timeline---covid-19 . Apr. 2020.
+
+ World Heath Organization. WHO Coronavirus (COVID-19) Dash-
+board . Ed. by World Health Organization. https://covid19.who.
+int. May 2021.
+
+ Gatto M et al. \Spread and dynamics of the COVID-19 epidemic in
+Italy: Eects of emergency containment measures." In: (May 2020).
+
+ Folkh alsomyndigheten. Estimates of the number of infected individ-
+uals during the covid-19 outbreak in the Dalarna region, Sk  ane re-
+gion, Stockholm region, and V astra G otaland region, Sweden .https:
+//www.folkhalsomyndigheten.se/publicerat-material/publikationsarkiv/
+e / estimates - of - the - number - of - infected - individuals -
+during-the-covid-19-outbreak/ . July 2020.
+
+ Folkh alsomyndigheten. Bekr aftade fall i Sverige { daglig uppda-
+tering .https://www.folkhalsomyndigheten.se/smittskydd-
+beredskap/utbrott/aktuella-utbrott/covid-19/statistik-
+och-analyser/bekraftade-fall-i-sverige/ .
+
+ David Smith and Lang Moore. The SIR Model for Spread of Disease
+- The Dierential Equation model . Ed. by Mathematical Associa-
+tion of America. https://www.maa.org/press/periodicals/
+loci/joma/the- sir- model- for- spread- of- disease- the-
+differential-equation-model . Dec. 2004.
+22BIBLIOGRAPHY 23
+
+ Weisstein . Eric W. Kermack-McKendrick Model . Ed. by Wolfram
+MathWorld. https://mathworld.wolfram.com/Kermack-McKendrickModel.
+html . May 2021.
+
+ University of British Columbia. Denitions and important facts
+regarding ODEs and PDEs .https://phas.ubc.ca/ ~berciu/
+TEACHING/PHYS312/LECTURES/FILES/defs.pdf .
+
+ Jonas Faleskog. FEM F or Ingenj orstill ampningar . Ed. by KTH
+H allfastl ara. https://www.kth.se/social/upload/50f599fef2765447f4dc8adf/
+OH_All_FEM_vt2013.pdf . 2013.
+
+ Simon P. Neill and M. Reza Hashemi. Ocean Modelling for Resource
+Characterization . Ed. by Fundamentals of Ocean Renewable En-
+ergy. https://www.sciencedirect.com/topics/engineering/
+root-mean-squared-error . 2018.
+
+ L Zambreskey. A verication study of the global WAM model . 1987.
+
+ Folkh alsomyndigheten. Estimates of the peak-day and the number
+of infected individuals during the covid-19 outbreak in the Stockholm
+region, Sweden February { April 2020 .https://www.folkhalsomyndigheten.
+se/publicerat- material/publikationsarkiv/e/estimates-
+of-the-peak-day-and-the-number-of-infected-individuals-
+during-the-covid-19-outbreak-in-the-stockholm-region-
+sweden-february--april-2020/ . Apr. 2020.
+
+ QGIS Development Team. QGIS Geographic Information System .
+https://qgis.org/en/site/index.html .
+
+ Christophe Geuzaine and Jean-Fran cois Remacle. A three-dimensional
+nite element mesh generator with built-in pre- and post-processing
+facilities .https://gmsh.info/doc/preprints/gmsh_paper_
+preprint.pdf .
+
+ Paraview. Large Data Visualization Made Easier . Ed. by Paraview.
+https://www.paraview.org/overview/ .
+
+ Zindoga Mukandavire et al. Global analysis of an HIV/AIDS epi-
+demic model . Aug. 2010.
+
+ Alemayehu Midekisa et al. \Remote sensing-based time series mod-
+els for malaria early warning in the highlands of Ethiopia". In: (May
+2012).24 BIBLIOGRAPHY
+
+ Phenyo E Lekone and B arbel F Finkenst adt. \Statistical inference
+in a stochastic epidemic SEIR model with control intervention:
+Ebola as a case study". In: Biometrics 6 (2006), pp. 1170{1177.
+
+ Diego Tavares Volpatto et al. Spreading of covid-19 in brazil: Im-
+pacts and uncertainties in social distancing strategies. 2020.
+
+ Mal u Grave and Alvaro L. G. A. Coutinho. \Adaptive mesh rene-
+ment and coarsening for diusion-reaction epidemiological models".
+In: (Oct. 2020).
+
+ Mal u Grave et al. \Assessing the spatio-temporal spread of COVID-
+19 via compartmental models with diusion in Italy, USA, and
+Brazil". In: (Feb. 2021).
+
+ Folkh alsomyndigheten. R orelse och resem  att, vecka 9, 2021 .https:
+/ / www . folkhalsomyndigheten . se / smittskydd - beredskap /
+utbrott/aktuella-utbrott/covid-19/statistik-och-analyser/
+analys-och-prognoser/veckorapport-om-rorelsedata/tidigare-
+veckorapporter/vecka-9/ .
+
+ Alex Viguerie et al. \Diusion{reaction compartmental models for-
+mulated in a continuum mechanics framework: application to covid-
+19, mathematical analysis, and numerical study." In: (Aug. 2020).
+
+ Alex Viguerie et al. \Simulating the spread of covid-19 via spatially-
+resolved susceptible-exposed-infected-recovered-deceased (seird) model
+with heterogeneous diusion." In: (Jan. 2021).
